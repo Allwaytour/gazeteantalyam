@@ -128,6 +128,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.67,
    "islenen": 6
+  },
+  {
+   "tarih": "2026-11-26T21:11:04+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 3
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.67,
+   "islenen": 6
   }
  ],
  "haberler": [
@@ -699,6 +714,115 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 00:41)"
+  },
+  {
+   "tarih": "2026-11-26T21:11:26+03:00",
+   "baslik": "Alanya'da otomobilde fenalaşan turist yaşamını yitirdi",
+   "kaynak": "Sabah",
+   "kaynak_url": "https://www.sabah.com.tr/yasam/alanyada-otomobilde-kalp-krizi-geciren-kazak-turist-oldu-7710010",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-alanyada-otomobilde-fenalasan-turist-yasamini-yitirdi-ea06f.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:12:03+03:00",
+   "baslik": "Cihat Yaycı Antalya'da konuştu: Türkiye savaşmadan sonuç alabilir",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/turkiye-savasmadan-yunanistana-diz-cokturur-cihat-yayci-antalyada-konustu/390059",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin: askeri → askerî"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-cihat-yayci-antalyada-konustu-turkiye-savasmadan-sonuc-2e8f9.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "8ea1b93c7ef60673",
+    "puan": 7,
+    "gerekce": "Konferans ve salon atmosferini iyi yansıtıyor, okuru yanıltmıyor.",
+    "gorunen": "Konferans salonunda katılımcıların gözünden kürsüdeki konuşmacı",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:12:55+03:00",
+   "baslik": "Alanya'da kayıt dışı emlakçılıkla mücadele için ortak adım",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanyada-kayit-disi-emlakciliga-karsi-harekete-gecildi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-alanyada-kayit-disi-emlakcilikla-mucadele-icin-ortak-adim-c37e8.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "8419d4437caf67fe",
+    "puan": 8,
+    "gerekce": "Brief'te istenen toplantı ortamı ve iş ortamını başarıyla yansıtıyor, haberin içeriğiyle uyumlu.",
+    "gorunen": "Ofiste toplantı yapan ve sunum izleyen iş insanları",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:13:15+03:00",
+   "baslik": "Alanya'da U18 kız hokey takımlarından ortak kamp ve hazırlık maçı",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanya-turkiye-ve-rusya-u18-kiz-hokey-takimlarini-agirliyor",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-alanyada-u18-kiz-hokey-takimlarindan-ortak-kamp-ve-hazirlik-3da1a.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "ff5ccd44bbe9aac7",
+    "puan": 8,
+    "gerekce": "Kadın sporcuların açık alanda çim hokeyi oynamasını net şekilde gösteriyor, habere çok uygun.",
+    "gorunen": "Çim sahada top süren kadın hokey oyuncuları.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:13:36+03:00",
+   "baslik": "Alanya'da otomobil içinde hareketsiz bulunan kişi hayatını kaybetti",
+   "dosya": "20261126-alanyada-otomobil-icinde-hareketsiz-bulunan-kisi-hayatini-03e49.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:11)"
+  },
+  {
+   "tarih": "2026-11-26T21:13:36+03:00",
+   "baslik": "Yeni Parti Alanya'da teşkilatlanmasını sürdürüyor",
+   "dosya": "20261126-yeni-parti-alanyada-teskilatlanmasini-surduruyor-9bd65.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:12)"
   }
  ]
 }

@@ -40,8 +40,8 @@ kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/son-dakika-olusu-bulundu-alanyada-aracta-esrarengiz-olum
 bekleme:
   ilk: '2026-11-26T19:11:39+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T21:11:39+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T01:11:39+03:00'
   brief:
     ana_konu: Alanya'da bir araçta hayatını kaybeden kişiyle ilgili jandarma incelemesi
     olmasi_gereken:
