@@ -43,6 +43,10 @@ summaryLength = 30
 [markup.goldmark.renderer]
   unsafe = true
 
+# Kesme işareti tek karakter (') olsun: goldmark'ın akıllı tırnak dönüşümü kesme işaretini ’ yapıyordu (başlıkta ', metinde ’ karışıklığı)
+[markup.goldmark.extensions.typographer]
+  apostrophe = "&#39;"
+
 
 # static/images klasörü ayrıca "assets/img" olarak da kullanılabilsin (görseli yeniden adlandırmak için)
 [module]

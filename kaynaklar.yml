@@ -13,6 +13,13 @@ ayarlar:
   en_eski_saat: 24          # Bundan eski kaynak haberleri alınmaz
   en_eski_gun: 0            # 0 = otomatik haberler silinmez (arşiv; arama motorlarındaki sayfalar kalır). Sayı yazılırsa o kadar gün sonra silinir
 
+  # Kalite katmanı k1 + görsel hattı b1 (26.11.2026 incelemesi; scripts/kalite.py, scripts/gorsel_v2.py):
+  # yeni haber yazım denetiminden (kural + editör) geçmezse karantina/haber/ klasörüne düşer (yayımlanmaz); görsel, haberin brief'inden
+  # üretilen İngilizce sorgularla bulunan adaylar arasından görüntüye bakılarak 0-10 puanlanır, 7 altı kullanılmaz → logolu başlık kartı.
+  # true iken eski hattın kelime eşleşmeli arşiv ataması, eski haber toplu düzeltmeleri ve görsel denemesi çalışmaz.
+  # Eski haberler: .github/workflows/kalite.yml (rapor → onay → uygula). Kalite raporu: data/kalite_raporu.json
+  kalite_v2: false
+
   # Görsel hattı h1 (scripts/gorsel_hat.py): aday bulma → yayın uygunluğu (lisans, teknik kalite, içerik, haber ilişkisi) → yerleşim.
   # Eski açıklama: izinli aynı olay fotoğrafı → haberin öznesinin (kişi/kurum/takım/tesis) doğrulanmış
   # arşiv fotoğrafı → yer + konu fotoğrafı → uygun haberlerde konuyu doğrudan anlatan ücretsiz fotoğraf → sade kategori kapağı.
