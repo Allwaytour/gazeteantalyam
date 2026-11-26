@@ -41,8 +41,8 @@ kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalyali-2-sehidin-cenazeleri-baba-ocagina-getirildi-119533358
 bekleme:
   ilk: '2026-11-26T19:42:46+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T01:42:46+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T07:42:46+03:00'
   brief:
     ana_konu: Eskişehir'deki helikopter kazasında şehit olan askerlerin Antalya'da karşılanması
     olmasi_gereken:

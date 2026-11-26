@@ -44,8 +44,8 @@ kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalyada-7-meclis-uyesi-daha-ak-partiye-gecti
 bekleme:
   ilk: '2026-11-26T19:41:54+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T01:41:54+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T07:41:54+03:00'
   brief:
     ana_konu: Antalya'da meclis üyelerinin AK Parti'ye katılımı
     olmasi_gereken:
