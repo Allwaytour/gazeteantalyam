@@ -1,0 +1,27 @@
+{{/* /kalite-testi/: tasarım düzeltmelerinin önce/sonra ekran görüntüleri (data/tasarim_test.json; .github/workflows/tasarim.yml üretir) */}}
+{{ with site.Data.tasarim_test }}
+<section class="tt">
+<h2>Tasarım düzeltmeleri: önce / sonra</h2>
+<p><small>Ekran görüntüleri: mobil 375 px ve masaüstü 1440 px; "önce" sitenin şu anki hâli, "sonra" onay bekleyen tasarım. Güncelleme: {{ .guncelleme }}</small></p>
+{{ $ad := dict "m" "Mobil (375 px)" "m2" "Mobil (375 px), yukarı kaydırınca" "d" "Masaüstü" "m_haber" "Mobil (375 px), haber sayfası" "d_haber" "Masaüstü, haber sayfası" }}
+{{ range .vakalar }}{{ $v := . }}
+<div class="h tt-vaka">
+  <h3>{{ .baslik }}</h3>
+  <p>{{ .aciklama }}</p>
+  {{ with .olcum }}<table class="tt-olcum"><tr><th>Ölçüm</th><th>Önce</th><th>Sonra</th></tr>
+    {{ range $k, $_ := .sonra }}<tr><td>{{ $k }}</td><td>{{ index $v.olcum.once $k }}</td><td><b>{{ index $v.olcum.sonra $k }}</b></td></tr>{{ end }}</table>{{ end }}
+  {{ range $k, $_ := .gorseller.sonra }}
+  <p class="tt-alt"><b>{{ index $ad $k | default $k }}</b></p>
+  <div class="tt-cift tt-{{ substr $k 0 1 }}">
+    <figure><figcaption>Önce</figcaption>{{ with index $v.gorseller.once $k }}<a href="{{ . }}" target="_blank"><img src="{{ . }}" alt="Önce" loading="lazy"></a>{{ end }}</figure>
+    <figure><figcaption>Sonra</figcaption><a href="{{ index $v.gorseller.sonra $k }}" target="_blank"><img src="{{ index $v.gorseller.sonra $k }}" alt="Sonra" loading="lazy"></a></figure>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+</section>
+<style>.tt-cift{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}.tt-cift figure{margin:0;border:1px solid #ddd;border-radius:6px;overflow:hidden;background:#fafafa}
+.tt-cift figcaption{font-weight:800;padding:6px 10px;background:#f3efe9}.tt-cift img{width:100%;height:auto;display:block}.tt-m{max-width:820px}
+.tt-olcum{border-collapse:collapse;font-size:13px;margin:8px 0}.tt-olcum td,.tt-olcum th{border:1px solid #ddd;padding:4px 8px;text-align:left}.tt-alt{margin:16px 0 6px}
+@media(max-width:700px){.tt-cift{grid-template-columns:1fr 1fr;gap:6px}}</style>
+{{ end }}
