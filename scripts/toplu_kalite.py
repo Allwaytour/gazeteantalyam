@@ -66,12 +66,16 @@ def yaz(r, yol=CIKTI):
     gk = lambda x: (x.get("gorsel") or {}).get("karar")  # noqa: E731
     r["ozet"] = {"guncelleme": simdi(), "islenen": len(o), "toplu_grup": sum(1 for x in o if x.get("grup") == "toplu" and x.get("degisiklik_var")),
                  "tek_tek_grup": sum(1 for x in o if x.get("grup") == "tek"), "degisiklik_yok": sum(1 for x in o if not x.get("degisiklik_var")),
-                 "gorsel_yenilenen": sum(1 for x in o if gk(x) == "yenilendi"), "yayindan_kaldirilacak": sum(1 for x in o if gk(x) == "kaldir"),
+                 "gorsel_yenilenen": sum(1 for x in o if gk(x) == "yenilendi"), "gorselsiz_kalacak": sum(1 for x in o if gk(x) in ("gorselsiz", "kaldir")),
                  "gorsel_korunan": sum(1 for x in o if gk(x) == "korundu"), "karantina_onerisi": sum(1 for x in o if x.get("engeller")),
                  "adres_degisen": sum(1 for x in o if x.get("adres")), "bekleyen": sum(1 for x in o if x.get("bekliyor")),
                  "uygulanan": sum(1 for x in o if x.get("durum") == "uygulandi")}
     with open(yol, "w", encoding="utf-8") as f:
         json.dump(r, f, ensure_ascii=False, indent=1)
+
+
+GORSEL_ALANLARI = ("gorsel", "gorsel_kredi", "gorsel_tur", "gorsel_secim", "gorsel_yerlesim", "gorsel_konum", "gorsel_alternatif",
+                   "gorsel_yedek", "gorsel_sinif", "gorsel_kanit", "gorsel_bekleyen")
 
 
 class Butce:
@@ -303,7 +307,10 @@ def rapor(args):
             o["bekliyor"] = "mevcut görsel puanlanamadı (bütçe/kota)"
             continue
         once = o["gorsel"]["once"]
-        puan, nedenler = g2.karar({"kaynak": once.get("kaynak")}, p, {"varliklar": []}, {"baslik": v.get("title", ""), "spot": v.get("ozet", "")})
+        kanit = v.get("gorsel_kanit") if isinstance(v.get("gorsel_kanit"), dict) else {}
+        secim = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+        puan, nedenler = g2.karar({"kaynak": once.get("kaynak"), "sayfa": kanit.get("sayfa") or secim.get("kaynak_sayfa", "")}, p, {"varliklar": []},
+                                  {"baslik": v.get("title", ""), "spot": v.get("ozet", ""), "metin": yeni[ad][2][:3000]})
         once.update(puan=puan, gerekce=g2.temiz(p.get("gerekce"), 200), gorunen=g2.temiz(p.get("gorunen"), 120), ihlaller=p.get("ihlaller") or [],
                     taninir_yuz=bool(p.get("taninir_yuz")))
         if nedenler or args.hep_ara:
@@ -335,19 +342,19 @@ def rapor(args):
             o["gorsel"]["secim"] = g2.secim_kaydi(a, gs.konu_imzasi(hb["baslik"], hb["spot"], hb["kategori"]), brief.get("tarihi_haber"))
             kullanim.ekle(a["id"], a.get("phash", ""), ad)
         else:
-            o["gorsel"]["karar"] = "kaldir"
+            o["gorsel"]["karar"] = "gorselsiz"         # eski haber yayından kalkmaz; uygun görsel yoksa görselsiz kalır
             o["gorsel"]["sonuc"] = gk.get("sonuc")
     for ad, (o, v, govde) in yeni.items():                         # 4) gruplar
         g = o.get("gorsel") or {}
         kredi_degisir = g.get("karar") == "korundu" and (v.get("gorsel_kredi") or "").startswith(("Fotoğraf", "Arşiv fotoğrafı:", "Görsel:", "Temsili fotoğraf:"))
         if kredi_degisir:
             g["kredi_sonra"] = "Temsilî fotoğraf" if v.get("gorsel_tur") == "stok" else ""
-        o["degisiklik_var"] = bool(o.get("metin") or o.get("adres") or g.get("karar") in ("yenilendi", "kaldir") or kredi_degisir
+        o["degisiklik_var"] = bool(o.get("metin") or o.get("adres") or g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or kredi_degisir
                                    or (g.get("karar") == "korundu" and g.get("alt_sonra")))
         kisi = bool((g.get("sonra") or {}).get("taninir_yuz") or (g.get("once") or {}).get("taninir_yuz") and g.get("karar") == "korundu")
-        tek = g.get("karar") in ("yenilendi", "kaldir") or bool(o.get("engeller")) or not o.get("metin_mekanik", True) or kisi or o["hassas"]
+        tek = g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or bool(o.get("engeller")) or not o.get("metin_mekanik", True) or kisi or o["hassas"]
         o["grup"] = "bekliyor" if o.get("bekliyor") else "tek" if tek else "toplu"
-        o["grup_nedeni"] = [x for x, k in (("görsel değişiyor", g.get("karar") == "yenilendi"), ("uygun görsel yok: yayından kaldırma önerisi", g.get("karar") == "kaldir"),
+        o["grup_nedeni"] = [x for x, k in (("görsel değişiyor", g.get("karar") == "yenilendi"), ("uygun görsel yok: haber görselsiz kalacak", g.get("karar") in ("gorselsiz", "kaldir")),
                                            ("karantina önerisi", bool(o.get("engeller"))), ("anlam düzeyinde yazım düzeltmesi", not o.get("metin_mekanik", True)),
                                            ("kişi fotoğrafı", kisi), ("ölüm/suç/intihar/çocuk haberi", o["hassas"])) if k]
         r["oneriler"][ad] = o
@@ -395,9 +402,13 @@ def uygula(args):
             for k in ("gorsel_alternatif", "gorsel_yedek"):
                 v.pop(k, None)
             kullanim.ekle(g["secim"]["kanit"]["kimlik"], g["secim"]["kanit"].get("phash", ""), ad)
-        elif g.get("karar") == "kaldir":
-            v["draft"] = True
-            v["kaldirma"] = {"tarih": simdi(), "neden": "yeni görsel kurallarına uygun görsel bulunamadı (toplu kalite taraması)"}
+        elif g.get("karar") in ("gorselsiz", "kaldir"):
+            # Eski haber görsel yüzünden yayından kalkmaz: görsel ve görselle ilgili bütün alanlar (yedek tipografik kart, alternatif
+            # adaylar dahil) kaldırılır, haber görselsiz kalır. Eski görsel kanıt olarak gorsel_kaldirilan alanında saklanır.
+            eski = {k: v.pop(k) for k in GORSEL_ALANLARI if k in v}
+            v["gorsel_kaldirilan"] = {"tarih": simdi(), "neden": "yeni görsel kurallarına uygun görsel bulunamadı (toplu kalite taraması)",
+                                      "gorsel": eski.get("gorsel", ""), "kredi": eski.get("gorsel_kredi", ""), "tur": eski.get("gorsel_tur", "")}
+            v["gorsel_kilit"] = True          # eski otomatik görsel hatları bu habere yeniden görsel atamasın
         elif g.get("karar") == "korundu":
             s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
             if "kredi_sonra" in g:
