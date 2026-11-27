@@ -2,8 +2,6 @@
 title: Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız vefat etti
 date: '2026-11-27T13:25:03+03:00'
 ozet: Akdeniz Üniversitesi doktora öğrencisi Sümeyra Eylül Ayyıldız yaşamını yitirdi. Üniversite yönetimi vefat haberinin ardından taziye mesajı yayımladı.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler:
@@ -14,24 +12,31 @@ gorsel_sinif: universite
 onem: 3
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Modern ve tarihi yapıyı birleştiren üniversite binası
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 7/10: Kampüs binası kriterini karşılıyor, genel haber için uygun.'
+  surum: b2
   konu_imza: 34242cbfa65b
-  gorsel_url: /images/kategori/yasam.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/55d0a810b7a2d507.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 7
+    esik: 7
+    gerekce: Kampüs binası kriterini karşılıyor, genel haber için uygun.
+    tarih: '2026-11-27T20:14:14+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,31 +44,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-aci-haber-akdeniz-universitesi-doktora-ogrencisi-hayatini-kaybetti/390142
-bekleme:
-  ilk: '2026-11-27T13:44:49+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T19:44:49+03:00'
-  brief:
-    ana_konu: Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız'ın vefatı
-    olmasi_gereken:
-    - üniversite kampüsü
-    - kampüs binası
-    varliklar:
-    - ad: Akdeniz Üniversitesi
-      tur: kurum
-    kacinilacaklar:
-    - kişi fotoğrafı
-    - cenaze töreni
-    sorgular_en:
-    - Akdeniz University campus
-    - Turkish university campus building
-    sorgular_tr:
-    - Akdeniz Üniversitesi yerleşkesi
-    - Akdeniz Üniversitesi kampüs
-    tarihi_haber: false
-    hassas: true
-  son_sonuc: eşiği (7) geçen uygun görsel yok
-  kaynak_ts: 1795775103
+gorsel: /images/haber-gorsel/55d0a810b7a2d507.jpg
+gorsel_kredi: ''
+gorsel_konum: 50% 50%
 ---
 Akdeniz Üniversitesi Fen Bilimleri Enstitüsü Mimarlık Anabilim Dalı doktora programı öğrencisi Sümeyra Eylül Ayyıldız'ın vefat ettiği açıklandı. Üniversite yönetimi, genç öğrencinin hayatını kaybetmesinden duyulan derin üzüntüyü dile getirerek ailesine, yakınlarına ve tüm üniversite camiasına başsağlığı dileklerini iletti.
 

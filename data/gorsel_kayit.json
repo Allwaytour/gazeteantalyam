@@ -10078,5 +10078,52 @@
     "neden": "puan 0 < 7; kesin ret: celiski"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T20:13:22+03:00",
+  "haber": "20261127-akdeniz-universitesi-ogrencisi-sumeyra-eylul-ayyildiz-vefat-22e6c.md",
+  "baslik": "Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız vefat etti",
+  "sonuc": "seçildi (7/10, pixabay)",
+  "aday_sayisi": 7,
+  "secilen": {
+   "id": "55d0a810b7a2d507",
+   "puan": 7,
+   "gerekce": "Kampüs binası kriterini karşılıyor, genel haber için uygun.",
+   "gorunen": "Modern ve tarihi yapıyı birleştiren üniversite binası",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "50a425298a29abad",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "eaa95d0776159b97",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "73ccbccec451b39b",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "ffd7b744d09282e0",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "d6c4fde081a4797b",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "20afd132ad208fad",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   }
+  ]
  }
 ]

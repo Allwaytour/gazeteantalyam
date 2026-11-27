@@ -816,6 +816,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.5,
    "islenen": 5
+  },
+  {
+   "tarih": "2026-11-27T20:12:55+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.0,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -3634,6 +3649,14 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 01:15)"
+  },
+  {
+   "tarih": "2026-11-27T20:13:22+03:00",
+   "baslik": "Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız vefat etti",
+   "dosya": "20261127-akdeniz-universitesi-ogrencisi-sumeyra-eylul-ayyildiz-vefat-22e6c.md",
+   "deneme": 2,
+   "sonuc": "seçildi (7/10, pixabay)",
+   "durum": "yayinlandi"
   }
  ]
 }
