@@ -45,8 +45,8 @@ kaynak: Antalya Körfez Gazetesi
 kaynak_url: https://www.antalyakorfez.com/kemer-belediye-baskani-necati-topaloglu-ak-parti-siralarina-gecti
 bekleme:
   ilk: '2026-11-27T16:43:59+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T22:43:59+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T04:43:59+03:00'
   brief:
     ana_konu: Kemer Belediye Başkanı Necati Topaloğlu'nun mecliste AK Parti sıralarında yer alması
     olmasi_gereken:

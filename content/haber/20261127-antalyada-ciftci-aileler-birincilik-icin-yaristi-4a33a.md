@@ -2,8 +2,6 @@
 title: Antalya'da çiftçi aileler birincilik için yarıştı
 date: '2026-11-27T20:25:02+03:00'
 ozet: Tarım ve hayvancılık alanındaki farkındalığı artırmak amacıyla düzenlenen bilgi yarışmasında çiftçi aileler kıyasıya mücadele etti.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
 kategoriler:
 - Ekonomi
 ilceler:
@@ -15,24 +13,31 @@ gorsel_sinif: tarim
 onem: 3
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Bir masa üzerinde dizili ödül kupaları ve madalyalar.
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 7/10: Ödül töreni ve yarışma temasını doğrudan yansıtıyor. Haberle en uyumlu görsel bu.'
+  surum: b2
   konu_imza: da5a1cf31f9c
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/fd111137ac686c0b.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 7
+    esik: 7
+    gerekce: Ödül töreni ve yarışma temasını doğrudan yansıtıyor. Haberle en uyumlu görsel bu.
+    tarih: '2026-11-27T22:53:29+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,34 +45,9 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalyada-ciftci-aileler-birincilik-icin-yaristi-119534834
-bekleme:
-  ilk: '2026-11-27T20:44:26+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T22:44:26+03:00'
-  brief:
-    ana_konu: Antalya'da düzenlenen çiftçiler arası bilgi yarışması etkinliği.
-    olmasi_gereken:
-    - yarışma sahnesi
-    - çiftçiler
-    - ödül töreni
-    varliklar:
-    - ad: ANFAŞ Fuar ve Kongre Merkezi
-      tur: mekan
-    - ad: Tarım ve Orman İl Müdürlüğü
-      tur: kurum
-    kacinilacaklar:
-    - spor müsabakası
-    - konser sahnesi
-    sorgular_en:
-    - farmers competition Turkey
-    - agriculture award ceremony
-    sorgular_tr:
-    - çiftçi yarışması
-    - tarım ödül töreni Antalya
-    tarihi_haber: false
-    hassas: false
-  son_sonuc: eşiği (7) geçen uygun görsel yok
-  kaynak_ts: 1795800302
+gorsel: /images/haber-gorsel/fd111137ac686c0b.jpg
+gorsel_kredi: ''
+gorsel_konum: 20% 50%
 ---
 Antalya'da üreticilerin bilgi birikimini test etmek ve tarım sektörüne dikkat çekmek amacıyla hayata geçirilen "Çiftçi Aileler Yarışıyor" etkinliğinin final etabı tamamlandı. Tarım ve Orman İl Müdürlüğü ev sahipliğinde ANFAŞ Fuar ve Kongre Merkezi'nde organize edilen yarışmada, farklı ilçelerden gelen çiftler kürsüye çıkmak ter döktü.
 
