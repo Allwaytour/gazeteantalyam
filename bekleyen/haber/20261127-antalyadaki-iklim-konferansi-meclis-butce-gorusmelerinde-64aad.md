@@ -44,8 +44,8 @@ kaynak: www.kentgazetesi.com
 kaynak_url: https://www.kentgazetesi.com/antalyada-cop31-iklim-degisikligi-konferansi-yapildi/
 bekleme:
   ilk: '2026-11-27T11:51:43+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T13:51:43+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T17:51:43+03:00'
   brief:
     ana_konu: TBMM Plan ve Bütçe Komisyonu'nda bakanlık bütçesi ve iklim konferansı tartışmaları
     olmasi_gereken:

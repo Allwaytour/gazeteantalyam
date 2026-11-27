@@ -637,6 +637,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 8.0,
    "islenen": 3
+  },
+  {
+   "tarih": "2026-11-27T14:12:26+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 3
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.33,
+   "islenen": 5
   }
  ],
  "haberler": [
@@ -2494,6 +2509,107 @@
     "taninir_yuz": false,
     "cekim_yili": ""
    }
+  },
+  {
+   "tarih": "2026-11-27T14:12:43+03:00",
+   "baslik": "Easyjet, 2027 yaz sezonunda Antalya'ya iki hattını kapatmaya hazırlanıyor",
+   "kaynak": "HavaSosyalMedya",
+   "kaynak_url": "https://havasosyalmedya.com/easyjet-antalyaya-iki-hattini-kapatmaya-hazirlaniyor/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [
+     "başlık cümle düzenine getirildi: EasyJet, 2027 yaz sezonunda Antalya'ya iki hattını kapatmaya hazırlanıyor → Easyjet, 2027 yaz sezonunda Antalya'ya iki hattını kapatmaya hazırlanıyor"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-easyjet-2027-yaz-sezonunda-antalyaya-iki-hattini-kapatmaya-ff956.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "f2a92c55f4700f81",
+    "puan": 10,
+    "gerekce": "Haberde adı geçen havayolu şirketi easyJet'e ait yolcu uçağını ve havalimanı ortamını net şekilde gösteriyor, kurallara tam uygun.",
+    "gorunen": "Havalimanında pistte park halindeki easyJet yolcu uçağı",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:13:03+03:00",
+   "baslik": "Manavgat çarşısında hırsızlık şüphelileri güvenlik kamerasına yansıdı",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/manavgat-carsisinda-secerek-hirsizlik",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-manavgat-carsisinda-hirsizlik-suphelileri-guvenlik-b5906.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "e80b3717f6694ee1",
+    "puan": 7,
+    "gerekce": "Haberin temel unsuru olan güvenlik kamerasını açıkça gösteriyor ancak sokak ve iş yeri bağlamından yoksun.",
+    "gorunen": "Mavi gökyüzü önünde direğe monte edilmiş güvenlik kamerası.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:13:19+03:00",
+   "baslik": "Büşra Özdemir AK Parti grubunun meclis öncesi toplantısına katıldı",
+   "kaynak": "Akdenizmanset",
+   "kaynak_url": "https://www.akdenizmanset.com.tr/yeni-partisiyle-ilk-kez-meclis-oncesi-bulustu-busra-ozdemir-ak-parti-grubu-ile-bir-araya-geldi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-busra-ozdemir-ak-parti-grubunun-meclis-oncesi-toplantisina-4b973.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:13:33+03:00",
+   "baslik": "Antalya'da çocuk acil ve yoğun bakım kongreleri 800 kişinin katılımıyla başladı",
+   "kaynak": "Yeşil Afşin Gazetesi",
+   "kaynak_url": "https://www.yesilafsin.com/antalyada-cocuk-acil-ve-yogun-bakim-kongreleri-basladi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalyada-cocuk-acil-ve-yogun-bakim-kongreleri-800-kisinin-aee4f.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "576ab53408403472",
+    "puan": 8,
+    "gerekce": "Kongre ve katılımcı sağlık personeli konseptine uygun, profesyonel bir salon görseli.",
+    "gorunen": "Konferans salonunda oturarak dinleyen katılımcılar",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:13:47+03:00",
+   "baslik": "Antalya'daki iklim konferansı meclis bütçe görüşmelerinde tartışma yarattı",
+   "dosya": "20261127-antalyadaki-iklim-konferansi-meclis-butce-gorusmelerinde-64aad.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 17:51)"
   }
  ]
 }
