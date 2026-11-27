@@ -42,8 +42,8 @@ kaynak: Gün Haber
 kaynak_url: https://www.gunhaber.com.tr/haber/antalya-da-kubra-yi-parasi-icin-oldurmusler/578606/
 bekleme:
   ilk: '2026-11-27T12:14:39+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T18:14:39+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T00:14:39+03:00'
   brief:
     ana_konu: Kübra Yapıcı cinayeti davasının iddianamesi hazırlandı.
     olmasi_gereken:
