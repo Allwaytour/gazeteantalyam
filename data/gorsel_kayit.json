@@ -4347,5 +4347,65 @@
     "neden": "puan 4 < 7"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T05:42:00+03:00",
+  "haber": "20261126-konyaaltinda-bir-sitenin-guvenlik-kulubesi-yandi-4b0b1.md",
+  "baslik": "Konyaaltı'nda bir sitenin güvenlik kulübesi yandı",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "07c98c133e31e32d",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "e3fff97bdc69aef8",
+    "puan": 5,
+    "neden": "puan 5 < 7; kesin ret: yabanci_polis"
+   },
+   {
+    "id": "73b0091ca21a7e61",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "78388648e6adbae8",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "7210eae4b8d43128",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "b1850a9362735fb2",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_polis"
+   },
+   {
+    "id": "bdce8597ec851d7c",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "1f4b412a21657dba",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "534a0aaf6037a234",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: hassas"
+   },
+   {
+    "id": "49c28c25d4b9fda6",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   }
+  ]
  }
 ]

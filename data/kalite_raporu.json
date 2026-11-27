@@ -388,6 +388,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 0
+  },
+  {
+   "tarih": "2026-11-27T05:41:40+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -1545,6 +1558,14 @@
    "deneme": 3,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "iptal"
+  },
+  {
+   "tarih": "2026-11-27T05:42:00+03:00",
+   "baslik": "Konyaaltı'nda bir sitenin güvenlik kulübesi yandı",
+   "dosya": "20261126-konyaaltinda-bir-sitenin-guvenlik-kulubesi-yandi-4b0b1.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 11:12)"
   }
  ]
 }

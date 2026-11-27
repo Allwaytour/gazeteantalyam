@@ -41,8 +41,8 @@ kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/guvenlik-kulubesi-yanginda-kule-dondu-119533788
 bekleme:
   ilk: '2026-11-26T23:12:17+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T05:12:17+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T11:12:17+03:00'
   brief:
     ana_konu: Sitede çıkan yangın sonucu hasar gören güvenlik kulübesi
     olmasi_gereken:
