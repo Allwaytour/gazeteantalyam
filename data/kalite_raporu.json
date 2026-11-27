@@ -682,6 +682,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 10.0,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-27T15:42:27+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -2792,6 +2805,33 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 19:14)"
+  },
+  {
+   "tarih": "2026-11-27T15:42:45+03:00",
+   "baslik": "Antalya'daki küresel iklim zirvesinde 46 karar kabul edildi",
+   "kaynak": "bursa tv",
+   "kaynak_url": "https://www.bursatv.com.tr/antalyada-dunya-liderlerini-bulusturan-zirvede-46-karar-kabul-edildi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyadaki-kuresel-iklim-zirvesinde-46-karar-kabul-edildi-7248a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T15:43:48+03:00",
+   "baslik": "TMMOB'dan Antalya'da bütçe mitingi çağrısı",
+   "dosya": "20261127-tmmobdan-antalyada-butce-mitingi-cagrisi-67db0.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 19:15)"
   }
  ]
 }

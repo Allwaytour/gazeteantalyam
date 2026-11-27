@@ -43,8 +43,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/tmmobdan-antalyaya-12-aralik-butce-mitingi-cagrisi/390139
 bekleme:
   ilk: '2026-11-27T13:15:38+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T15:15:38+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T19:15:38+03:00'
   brief:
     ana_konu: TMMOB temsilcisinin Antalya'daki bütçe mitingi toplantısı
     olmasi_gereken:
