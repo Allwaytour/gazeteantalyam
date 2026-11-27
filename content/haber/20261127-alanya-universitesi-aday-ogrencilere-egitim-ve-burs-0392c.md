@@ -2,8 +2,6 @@
 title: Alanya Üniversitesi aday öğrencilere eğitim ve burs imkânlarını anlattı
 date: '2026-11-27T12:59:48+03:00'
 ozet: Alanya Üniversitesi, düzenlenen tanıtım günlerinde gençlerle bir araya gelerek akademik programlar ve burs olanakları hakkında bilgi verdi.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
 kategoriler:
 - Eğitim
 ilceler:
@@ -15,24 +13,31 @@ gorsel_sinif: universite
 onem: 3
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Sınıfta veya konferansta ders dinleyen takım elbiseli öğrenciler
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 7/10: Üniversite ortamını ve öğrencileri net bir şekilde gösterdiği için konuya uygun.'
+  surum: b2
   konu_imza: 3a9713d75bb8
-  gorsel_url: /images/kategori/egitim.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/03193f5129fae474.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 7
+    esik: 7
+    gerekce: Üniversite ortamını ve öğrencileri net bir şekilde gösterdiği için konuya uygun.
+    tarih: '2026-11-27T19:14:47+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,31 +45,9 @@ otomatik: true
 yz: true
 kaynak: Bölge Gündemi
 kaynak_url: https://www.bolgegundemi.com/antalya/alanya-universitesi-aday-ogrencilere-egitim-ve-burs-olanaklarini-tanitti-245524.html
-bekleme:
-  ilk: '2026-11-27T13:14:05+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T19:14:05+03:00'
-  brief:
-    ana_konu: Alanya Üniversitesi'nin üniversite tanıtım günlerine katılımı
-    olmasi_gereken:
-    - üniversite tanıtım standı
-    - öğrenciler ve yetkililer
-    varliklar:
-    - ad: Alanya Üniversitesi
-      tur: kurum
-    kacinilacaklar:
-    - maç
-    - kaza görüntüsü
-    sorgular_en:
-    - university promotion stand students
-    - higher education fair Turkey
-    sorgular_tr:
-    - üniversite tanıtım standı
-    - üniversite fuarı
-    tarihi_haber: false
-    hassas: false
-  son_sonuc: eşiği (7) geçen uygun görsel yok
-  kaynak_ts: 1795773588
+gorsel: /images/haber-gorsel/03193f5129fae474.jpg
+gorsel_kredi: ''
+gorsel_konum: 50% 50%
 ---
 Alanya Üniversitesi, Alanya Kültür Merkezi'nde gerçekleştirilen Unilook Türkiye Üniversite Tanıtım Günleri'nde yer aldı. Üniversite adaylarının eğitim hayatlarına yön vermesine yardımcı olmak amacıyla kurulan stantta, gençlerin gelecek planlamasına katkı sunuldu.
 

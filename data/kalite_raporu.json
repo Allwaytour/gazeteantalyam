@@ -786,6 +786,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.5,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-27T19:12:58+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.0,
+   "islenen": 6
   }
  ],
  "haberler": [
@@ -3428,6 +3443,78 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 00:19)"
+  },
+  {
+   "tarih": "2026-11-27T19:13:17+03:00",
+   "baslik": "BTP Antalya'dan Antalya Barosu'na ziyaret",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/btp-antalyadan-antalya-barosu-baskani-bozanere-ziyaret/390172",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-btp-antalyadan-antalya-barosuna-ziyaret-0134b.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T19:14:19+03:00",
+   "baslik": "Alanya EAH başhekimi yapay zekâ ve sağlık kongresinde konuştu",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanya-eah-bashekimi-karakus-yilmaz-kongrede-konustu",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [
+     "metin: kesme işareti tek karaktere indirildi"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-alanya-eah-bashekimi-yapay-zeka-ve-saglik-kongresinde-df98c.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T19:14:39+03:00",
+   "baslik": "Alanya Üniversitesi aday öğrencilere eğitim ve burs imkânlarını anlattı",
+   "dosya": "20261127-alanya-universitesi-aday-ogrencilere-egitim-ve-burs-0392c.md",
+   "deneme": 2,
+   "sonuc": "seçildi (7/10, pixabay)",
+   "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T19:14:39+03:00",
+   "baslik": "Antalyaspor'un eski teknik direktörü Alex de Souza'nın yeni takımı belli oldu",
+   "dosya": "20261127-antalyasporun-eski-teknik-direktoru-alex-de-souzanin-yeni-02311.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 23:13)"
+  },
+  {
+   "tarih": "2026-11-27T19:14:39+03:00",
+   "baslik": "Kemer Belediye Başkanı Necati Topaloğlu AK Parti sıralarına geçti",
+   "dosya": "20261127-kemer-belediye-baskani-necati-topaloglu-ak-parti-siralarina-c654d.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 22:43)"
+  },
+  {
+   "tarih": "2026-11-27T19:14:39+03:00",
+   "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+   "dosya": "20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 23:13)"
   }
  ]
 }
