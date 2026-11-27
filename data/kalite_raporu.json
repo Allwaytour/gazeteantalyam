@@ -414,6 +414,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 0
+  },
+  {
+   "tarih": "2026-11-27T06:41:50+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 1,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -1579,6 +1592,14 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 11:12)"
+  },
+  {
+   "tarih": "2026-11-27T06:42:06+03:00",
+   "baslik": "Antalya OSB Başkanı Gönen'den Growtech Fuarı'ndaki sanayicilere ziyaret",
+   "dosya": "20261126-antalya-osb-baskani-gonenden-growtech-fuarindaki-b5ffb.md",
+   "deneme": 3,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "iptal"
   }
  ]
 }
