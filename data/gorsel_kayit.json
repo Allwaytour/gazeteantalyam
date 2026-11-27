@@ -12145,5 +12145,70 @@
     "neden": "puan 0 < 7"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-28T02:13:44+03:00",
+  "haber": "20261127-busra-ozdemir-ak-parti-grubunun-meclis-oncesi-toplantisina-4b973.md",
+  "baslik": "Büşra Özdemir AK Parti grubunun meclis öncesi toplantısına katıldı",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 11,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "31f40cdb27f0c25f",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261127-alanyada-309-egitimciye-bilimse)"
+   },
+   {
+    "id": "8419d4437caf67fe",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-kayit-disi-emlakcilikl)"
+   },
+   {
+    "id": "02d0a36cf8b15445",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
+   },
+   {
+    "id": "89076d794ad60fc2",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "5b372a109abdf63c",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "e7882f812c6b59a7",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: yanlis_kisi, yabanci_kurum"
+   },
+   {
+    "id": "ed45d5c5a1847fbf",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "b77ef2eeb53c2d0d",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: yanlis_kisi, yabanci_kurum"
+   },
+   {
+    "id": "6ed862684bfd9a4e",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "b4b3f6791ca6fff8",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: yanlis_kisi, yabanci_kurum; kesin ret: baska_sehir (berlin)"
+   },
+   {
+    "id": "bfbac9803ec6431f",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   }
+  ]
  }
 ]
