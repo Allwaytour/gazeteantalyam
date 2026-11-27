@@ -2,8 +2,6 @@
 title: Konyaaltı'ndaki doğa projesine Avrupa'dan 14 milyon liralık hibe
 date: '2026-11-27T14:33:59+03:00'
 ozet: Konyaaltı Belediyesinin koordinatörlüğünde hayata geçirilecek uluslararası proje, farklı kuşakları doğa buluşmalarında bir araya getirecek.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler:
@@ -15,24 +13,31 @@ gorsel_sinif: dogayuruyusu
 onem: 4
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Doğa yürüyüşü yapan sırt çantalı çocuklar ve patika
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 9/10: Farklı kuşaklar ve doğa buluşmaları / doğa yürüyüşü projesini harika yansıtıyor.'
+  surum: b2
   konu_imza: b7ae991bb748
-  gorsel_url: /images/kategori/yasam.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/371d2f5fe5bd9b32.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 9
+    esik: 7
+    gerekce: Farklı kuşaklar ve doğa buluşmaları / doğa yürüyüşü projesini harika yansıtıyor.
+    tarih: '2026-11-27T16:45:44+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,33 +45,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/konyaalti/konyaaltinin-dogasina-avrupa-destegi-14-milyon-tl-hibe/390148
-bekleme:
-  ilk: '2026-11-27T14:42:45+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T16:42:45+03:00'
-  brief:
-    ana_konu: Konyaaltı Belediyesinin doğa yürüyüşü ve tırmanış rotaları projesi
-    olmasi_gereken:
-    - doğa yürüyüşü parkuru
-    - orman veya dağlık arazi
-    varliklar:
-    - ad: Konyaaltı Belediyesi
-      tur: kurum
-    - ad: Cem Kotan
-      tur: kisi
-    kacinilacaklar:
-    - şehir merkezi
-    - kapalı mekan
-    sorgular_en:
-    - nature hiking trail mountains
-    - outdoor trekking path
-    sorgular_tr:
-    - doğa yürüyüşü patikası
-    - dağ yürüyüşü rotası
-    tarihi_haber: false
-    hassas: false
-  son_sonuc: adayların hepsi elendi (tekrar/indirme)
-  kaynak_ts: 1795779239
+gorsel: /images/haber-gorsel/371d2f5fe5bd9b32.jpg
+gorsel_kredi: ''
+gorsel_konum: 50% 50%
 ---
 Konyaaltı Belediyesinin yürütücülüğünü üstlendiği "Kuşaklar Arası Doğa Köprüsü" adlı uluslararası çalışma, Erasmus+ Programı çerçevesinde yaklaşık 14 milyon lira hibe desteği almaya hak kazandı. Türkiye'nin yanı sıra Yunanistan, İtalya ve İspanya'dan toplam altı ortağın katılımıyla gerçekleştirilecek girişim, toplumun farklı yaş gruplarındaki bireylerini doğa faaliyetlerinde buluşturmayı amaçlıyor.
 

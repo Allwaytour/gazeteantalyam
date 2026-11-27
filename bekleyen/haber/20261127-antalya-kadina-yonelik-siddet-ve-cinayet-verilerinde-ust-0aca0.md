@@ -42,8 +42,8 @@ kaynak: Gün Haber
 kaynak_url: https://www.gunhaber.com.tr/haber/Antalya-kadin-cinayetlerinde-4-uncu-sirada/578617
 bekleme:
   ilk: '2026-11-27T14:43:19+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T16:43:19+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T20:43:19+03:00'
   brief:
     ana_konu: Antalya'daki kadın cinayetleri verileri ve toplumsal tepkiler
     olmasi_gereken:
@@ -62,7 +62,7 @@ bekleme:
     - Al Yazma Anıtı Antalya
     tarihi_haber: false
     hassas: true
-  son_sonuc: adayların hepsi elendi (tekrar/indirme)
+  son_sonuc: eşiği (7) geçen uygun görsel yok
   kaynak_ts: 1795778980
 ---
 Türkiye genelinde kadına yönelik şiddet ve cinayet vakaları önemli bir toplumsal sorun olmaya devam ederken, farklı kurumların açıkladığı istatistikler Antalya'daki tablonun ciddiyetini ortaya koyuyor. Açıklanan verilere göre kent, son yıllarda yaşanan cinayet sayılarıyla üst sıralarda yer alıyor.

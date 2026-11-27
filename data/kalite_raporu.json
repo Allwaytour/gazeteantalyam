@@ -710,6 +710,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.2,
    "islenen": 7
+  },
+  {
+   "tarih": "2026-11-27T16:42:43+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 4,
+   "gec_yayinlanan": 2,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 4
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 7
   }
  ],
  "haberler": [
@@ -2934,6 +2949,113 @@
    "dosya": "20261127-rainbow-mucevherata-ihracat-toreninde-odul-6bce8.md",
    "deneme": 1,
    "sonuc": "seçildi (7/10, pixabay)",
+   "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T16:43:01+03:00",
+   "baslik": "Antalya toptancı hali esnafının kira düzenlemesi komisyona iade edildi",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/siyaset/hal-esnafinin-gozu-meclisteydi-kira-maddesi-iade-edildi/390162",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalya-toptanci-hali-esnafinin-kira-duzenlemesi-komisyona-29964.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "116bb60002c91764",
+    "puan": 8,
+    "gerekce": "Toptancı hali ve pazaryeri ortamını sebze-meyve kasalarıyla başarılı şekilde temsil ediyor.",
+    "gorunen": "Fiyat etiketleriyle dolu sebze ve meyve pazar tezgahları",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T16:43:21+03:00",
+   "baslik": "Alanya emlak ve inşaat sektöründen ortak çözüm adımı",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/alanyada-emlak-ve-insaat-sektorunden-dev-dayanisma",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: Emlak → emlak",
+     "baslik: İnşaat → inşaat",
+     "baslik: Sektöründen → sektöründen",
+     "baslik: Ortak → ortak",
+     "baslik: Çözüm → çözüm",
+     "baslik: Adımı → adımı",
+     "metin: ALSID → ALSİD"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-alanya-emlak-ve-insaat-sektorunden-ortak-cozum-adimi-558d4.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "3d0f3bac230e19aa",
+    "puan": 7,
+    "gerekce": "İnşaat ve emlak sektörünü temsil eden profesyonel bir çalışma anını yansıtıyor.",
+    "gorunen": "Masada mimari proje planı inceleyen iş insanları",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T16:43:51+03:00",
+   "baslik": "Kemer Belediye Başkanı Necati Topaloğlu AK Parti sıralarına geçti",
+   "kaynak": "Antalya Körfez Gazetesi",
+   "kaynak_url": "https://www.antalyakorfez.com/kemer-belediye-baskani-necati-topaloglu-ak-parti-siralarina-gecti",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-kemer-belediye-baskani-necati-topaloglu-ak-parti-siralarina-c654d.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T16:44:11+03:00",
+   "baslik": "Antalya kadına yönelik şiddet ve cinayet verilerinde üst sıralarda yer alıyor",
+   "dosya": "20261127-antalya-kadina-yonelik-siddet-ve-cinayet-verilerinde-ust-0aca0.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 20:43)"
+  },
+  {
+   "tarih": "2026-11-27T16:44:11+03:00",
+   "baslik": "DİSK Genel-İş Antalya Şubesinde genel kurul heyecanı",
+   "dosya": "20261127-disk-genel-is-antalya-subesinde-genel-kurul-heyecani-6d71a.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 20:43)"
+  },
+  {
+   "tarih": "2026-11-27T16:44:11+03:00",
+   "baslik": "Konyaaltı'ndaki doğa projesine Avrupa'dan 14 milyon liralık hibe",
+   "dosya": "20261127-konyaaltindaki-doga-projesine-avrupadan-14-milyon-liralik-d1de5.md",
+   "deneme": 1,
+   "sonuc": "seçildi (9/10, pixabay)",
+   "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T16:44:11+03:00",
+   "baslik": "Lvbel C5 bu akşam Antalya'da sahne alacak",
+   "dosya": "20261127-lvbel-c5-bu-aksam-antalyada-sahne-alacak-8311d.md",
+   "deneme": 1,
+   "sonuc": "seçildi (8/10, pixabay)",
    "durum": "yayinlandi"
   }
  ]
