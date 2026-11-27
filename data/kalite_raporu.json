@@ -546,6 +546,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.75,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-27T11:42:15+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 3
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.33,
+   "islenen": 5
   }
  ],
  "haberler": [
@@ -1905,6 +1920,120 @@
    "deneme": 3,
    "sonuc": "seçildi (7/10, pixabay)",
    "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T11:42:29+03:00",
+   "baslik": "Anahtar Parti Antalya İl Başkanlığı'ndan TEMAD'a taziye ziyareti",
+   "kaynak": "Antalya Hürses",
+   "kaynak_url": "https://www.antalyahurses.com/anahtar-partiden-temada-sehitler-icin-bassagligi-ziyareti/562104",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-anahtar-parti-antalya-il-baskanligindan-temada-taziye-4eba1.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:44:02+03:00",
+   "baslik": "Batı Antalya Çevre Yolu projesine AK Parti'den destek",
+   "kaynak": "Antalya Gündem Gazetesi",
+   "kaynak_url": "https://www.antalyagundem.com.tr/antalyanin-trafik-yukunu-hafifletecek-projeye-ak-partiden-destek",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-bati-antalya-cevre-yolu-projesine-ak-partiden-destek-d2f38.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "ff2391a4b31e4cd4",
+    "puan": 7,
+    "gerekce": "Antalya'nın coğrafi yapısına ve yol projesine uygun bir kırsal çevre yolu görseli.",
+    "gorunen": "Dağlar arasında kıvrılarak ilerleyen asfalt bir kara yolu.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:46:37+03:00",
+   "baslik": "Antalya uçuşunda rötar krizi: Park alanına dönen sefer iptal edildi",
+   "kaynak": "mygazete",
+   "kaynak_url": "https://www.mygazete.com/ajetin-ercan-antalya-ucaginda-kriz-ucak-iki-defa-pistten-park-yerine-geri-dondu/789125",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin: pisti → piste"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalya-ucusunda-rotar-krizi-park-alanina-donen-sefer-iptal-887a6.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "7baa408bb3967081",
+    "puan": 7,
+    "gerekce": "Uçak ve havalimanı apronunu net şekilde gösteriyor, haberin rötar ve park alanı temasına çok uygun.",
+    "gorunen": "Havalimanı apronunda park halindeki bir yolcu uçağı ve yer hizmetleri araçları.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:49:18+03:00",
+   "baslik": "Antalya'da keratokonus hastasına CAIRS yöntemiyle umut",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/saglik/antalyada-gorme-kaybina-karsi-yeni-umut-ilk-cairs-ameliyati/390130",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalyada-keratokonus-hastasina-cairs-yontemiyle-umut-429d3.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "0b6f6a3e42b5f8e6",
+    "puan": 8,
+    "gerekce": "Brief'te istenen göz muayene cihazı ve klinik ortamını net bir şekilde göstererek haberi destekliyor.",
+    "gorunen": "Klinikte göz muayene cihazıyla inceleme yapan göz doktoru ve hasta.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:50:55+03:00",
+   "baslik": "Antalya'daki iklim konferansı meclis bütçe görüşmelerinde tartışma yarattı",
+   "kaynak": "www.kentgazetesi.com",
+   "kaynak_url": "https://www.kentgazetesi.com/antalyada-cop31-iklim-degisikligi-konferansi-yapildi/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [
+     "başlık cümle düzenine getirildi: Antalya'daki iklim konferansı Meclis bütçe görüşmelerinde tartışma yarattı → Antalya'daki iklim konferansı meclis bütçe görüşmelerinde tartışma yarattı"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyadaki-iklim-konferansi-meclis-butce-gorusmelerinde-64aad.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
   }
  ]
 }
