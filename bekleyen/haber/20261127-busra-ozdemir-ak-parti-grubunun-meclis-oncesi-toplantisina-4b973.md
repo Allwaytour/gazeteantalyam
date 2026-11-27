@@ -45,8 +45,8 @@ kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/yeni-partisiyle-ilk-kez-meclis-oncesi-bulustu-busra-ozdemir-ak-parti-grubu-ile-bir-araya-geldi
 bekleme:
   ilk: '2026-11-27T14:13:26+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T16:13:26+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T20:13:26+03:00'
   brief:
     ana_konu: AK Parti Antalya İl Başkanlığı'nda meclis öncesi grup toplantısı düzenlendi.
     olmasi_gereken:

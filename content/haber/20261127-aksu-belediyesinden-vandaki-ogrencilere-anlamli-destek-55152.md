@@ -2,8 +2,6 @@
 title: Aksu Belediyesi'nden Van'daki öğrencilere anlamlı destek
 date: '2026-11-27T13:20:28+03:00'
 ozet: Aksu Belediyesi tarafından gönderilen hediyeler, Van'daki bir okulun öğrencilerine ulaştırılarak çocukların mutluluğuna vesile oldu.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler:
@@ -16,24 +14,31 @@ gorsel_sinif: okul
 onem: 3
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: El sallayan mutlu öğrenciler
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 7/10: Öğrencileri ve mutlu hallerini gösteriyor, haberle uyumlu.'
+  surum: b2
   konu_imza: 2913c26c19f0
-  gorsel_url: /images/kategori/yasam.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/9fd74a3f1a9e51a7.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 7
+    esik: 7
+    gerekce: Öğrencileri ve mutlu hallerini gösteriyor, haberle uyumlu.
+    tarih: '2026-11-27T16:15:27+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,32 +46,9 @@ otomatik: true
 yz: true
 kaynak: Sabah
 kaynak_url: https://www.sabah.com.tr/antalya/2026/11/27/antalyadan-vana-uzanan-gonul-koprusu
-bekleme:
-  ilk: '2026-11-27T13:49:04+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T15:49:04+03:00'
-  brief:
-    ana_konu: Aksu Belediyesi'nin Van'daki öğrencilere hediye göndermesi
-    olmasi_gereken:
-    - öğrenciler
-    - sınıf ortamı
-    - hediye paketleri
-    varliklar:
-    - ad: Sarıçimen İlkokulu
-      tur: mekan
-    kacinilacaklar:
-    - yetişkin kalabalığı
-    - siyasi pankart
-    sorgular_en:
-    - school children opening gifts classroom
-    - happy elementary students
-    sorgular_tr:
-    - okul öğrencileri hediye
-    - sınıfta mutlu çocuklar
-    tarihi_haber: false
-    hassas: true
-  son_sonuc: eşiği (7) geçen uygun görsel yok
-  kaynak_ts: 1795774828
+gorsel: /images/haber-gorsel/9fd74a3f1a9e51a7.jpg
+gorsel_kredi: ''
+gorsel_konum: 50% 50%
 ---
 Aksu Belediyesi, sosyal dayanışma faaliyetleri kapsamında kent sınırlarını aşarak Van'da eğitim gören öğrencilere ulaştı. Aksu Belediye Başkanı İsa Yıldırım'ın girişimleriyle hazırlanan hediyeler, Van'ın Çaldıran ilçesindeki Sarıçimen İlkokulu öğrencilerine gönderildi.
 

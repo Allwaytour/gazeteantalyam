@@ -2,8 +2,6 @@
 title: Kumluca çiftçisinin sulama ve vergi sorunları Meclis'e taşındı
 date: '2026-11-27T13:28:00+03:00'
 ozet: Kumluca'daki sulama altyapısı eksiklikleri ve vergi sorunları Meclis gündemine taşındı. Çiftçiler acil yatırım ve yasal düzenleme bekliyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
@@ -15,24 +13,31 @@ gorsel_sinif: tarim
 onem: 4
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Sera içinde toprakta dikim yapan eldivenli eller ve sebze fideleri
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 8/10: Kumluca''daki sera üreticileri ve tarım faaliyetlerini doğrudan ve net bir şekilde temsil ediyor, okuru yanıltmıyor.'
+  surum: b2
   konu_imza: 58c56f9e064b
-  gorsel_url: /images/kategori/gundem.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/54d71a0b836c4d2c.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 8
+    esik: 7
+    gerekce: Kumluca'daki sera üreticileri ve tarım faaliyetlerini doğrudan ve net bir şekilde temsil ediyor, okuru yanıltmıyor.
+    tarih: '2026-11-27T16:16:14+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,33 +45,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/ciftci-suya-ve-vergiye-mahkum
-bekleme:
-  ilk: '2026-11-27T13:44:06+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T15:44:06+03:00'
-  brief:
-    ana_konu: Kumluca'daki sera üreticilerinin sulama ve vergi sorunları
-    olmasi_gereken:
-    - sera
-    - tarım arazisi
-    varliklar:
-    - ad: Cavit Arı
-      tur: kisi
-    - ad: TBMM
-      tur: kurum
-    kacinilacaklar:
-    - kapalı salon
-    - mikrofon önünde konuşma
-    sorgular_en:
-    - greenhouse agriculture Turkey
-    - vegetable greenhouse farm
-    sorgular_tr:
-    - sera tarımı
-    - Kumluca sera
-    tarihi_haber: false
-    hassas: false
-  son_sonuc: 'görüntü puanlaması yapılamadı: Expecting property name enclosed in double quotes: line 12 column 7 (char 243)'
-  kaynak_ts: 1795775280
+gorsel: /images/haber-gorsel/54d71a0b836c4d2c.jpg
+gorsel_kredi: ''
+gorsel_konum: 30% 40%
 ---
 Türkiye'nin önemli örtü altı sebze üretim merkezlerinden biri olan Kumluca'da üreticilerin yaşadığı kronikleşmiş sulama altyapısı eksiklikleri ve vergilendirme sorunları Türkiye Büyük Millet Meclisi (TBMM) gündemine taşındı. Plan ve Bütçe Komisyonu görüşmelerinde söz alan Yeni Parti Antalya Milletvekili Cavit Arı, bölgedeki tarımsal üretimin sürdürülebilirliği için acil adımlar atılması gerektiğini vurguladı.
 

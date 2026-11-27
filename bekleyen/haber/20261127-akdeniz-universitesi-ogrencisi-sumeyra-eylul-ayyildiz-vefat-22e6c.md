@@ -41,8 +41,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-aci-haber-akdeniz-universitesi-doktora-ogrencisi-hayatini-kaybetti/390142
 bekleme:
   ilk: '2026-11-27T13:44:49+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T15:44:49+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T19:44:49+03:00'
   brief:
     ana_konu: Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız'ın vefatı
     olmasi_gereken:
