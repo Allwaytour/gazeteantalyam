@@ -859,6 +859,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 7
+  },
+  {
+   "tarih": "2026-11-27T21:42:59+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.0,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -3934,6 +3949,22 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 01:14)"
+  },
+  {
+   "tarih": "2026-11-27T21:43:29+03:00",
+   "baslik": "Alanyaspor ile Konyaspor Alanya Oba Stadyumu'nda karşılaşıyor",
+   "dosya": "20261127-alanyaspor-ile-konyaspor-alanya-oba-stadyumunda-karsilasiyor-97d9b.md",
+   "deneme": 1,
+   "sonuc": "seçildi (7/10, pixabay)",
+   "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T21:43:29+03:00",
+   "baslik": "Antalya'daki küresel iklim zirvesinde 46 karar kabul edildi",
+   "dosya": "20261127-antalyadaki-kuresel-iklim-zirvesinde-46-karar-kabul-edildi-7248a.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 03:43)"
   }
  ]
 }
