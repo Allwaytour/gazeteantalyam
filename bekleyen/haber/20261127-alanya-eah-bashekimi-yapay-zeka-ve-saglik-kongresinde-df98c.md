@@ -42,8 +42,8 @@ kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanya-eah-bashekimi-karakus-yilmaz-kongrede-konustu
 bekleme:
   ilk: '2026-11-27T19:14:30+03:00'
-  deneme: 1
-  sonraki: '2026-11-28T01:14:30+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T07:14:30+03:00'
   brief:
     ana_konu: Alanya EAH Başhekimi Banu Karakuş Yılmaz'ın tıp kongresindeki konuşması
     olmasi_gereken:

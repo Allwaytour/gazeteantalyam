@@ -44,8 +44,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/btp-antalyadan-antalya-barosu-baskani-bozanere-ziyaret/390172
 bekleme:
   ilk: '2026-11-27T19:14:02+03:00'
-  deneme: 1
-  sonraki: '2026-11-28T01:14:02+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T07:14:02+03:00'
   brief:
     ana_konu: BTP Antalya İl Başkanı Bilal Şahin'in Antalya Barosu Başkanı Ali Çağdaş Bozaner'i ziyareti
     olmasi_gereken:
