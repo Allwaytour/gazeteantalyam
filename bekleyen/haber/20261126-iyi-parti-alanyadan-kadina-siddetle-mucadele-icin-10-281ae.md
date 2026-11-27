@@ -42,8 +42,8 @@ kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/iyi-partiden-ankaraya-kadin-haklari-cikarmasi
 bekleme:
   ilk: '2026-11-26T22:11:57+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T04:11:57+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T10:11:57+03:00'
   brief:
     ana_konu: İyi Parti temsilcisinin Ankara'daki kadına şiddetle mücadele toplantısına katılımı
     olmasi_gereken:
