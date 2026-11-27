@@ -9076,5 +9076,117 @@
     "neden": "puan 4 < 7"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T18:13:12+03:00",
+  "haber": "20261127-antalya-icin-soguk-hava-ve-firtina-uyarisi-fb781.md",
+  "baslik": "Antalya için soğuk hava ve fırtına uyarısı",
+  "sonuc": "seçildi (9/10, pixabay)",
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "0a263b70d37b3d34",
+   "puan": 9,
+   "gerekce": "Antalya için yapılan fırtına ve kıyı dalgaları uyarısını ve sert hava koşullarını mükemmel yansıtıyor.",
+   "gorunen": "Fırtınalı denizde kayalıklara çarpan dev dalgalar",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "1bda44cab976ca9c",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yazi_logo; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "53c87bc9f6f67d64",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "3912675694a0c0ee",
+    "puan": 7,
+    "neden": "kesin ret: baska_sehir (konya)"
+   },
+   {
+    "id": "faf7583dacbfd7d5",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "21222f6515a6d7d4",
+    "puan": 3,
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "43c7638338e067ef",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "8bc935cead8d0470",
+    "puan": 8,
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "59faaf10956cb408",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: hassas"
+   },
+   {
+    "id": "2e3c0d97dc8b3794",
+    "puan": 3,
+    "neden": "puan 3 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T18:14:03+03:00",
+  "haber": "20261127-antalyadaki-iklim-konferansi-meclis-butce-gorusmelerinde-64aad.md",
+  "baslik": "Antalya'daki iklim konferansı meclis bütçe görüşmelerinde tartışma yarattı",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 8,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "42d6864bdc0b7d1e",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum; kesin ret: baska_sehir (budapest)"
+   },
+   {
+    "id": "e2a3c18598f37418",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yanlis_kisi, yabanci_kurum"
+   },
+   {
+    "id": "d56a8a660bc1c86d",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum; kesin ret: baska_sehir (budapeste, budapest)"
+   },
+   {
+    "id": "0ce9f095a02f4143",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_bayrak, yabanci_kurum"
+   },
+   {
+    "id": "fcb0f724413cf6c7",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum"
+   },
+   {
+    "id": "b77ef2eeb53c2d0d",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kurum"
+   },
+   {
+    "id": "746f180dc9d156de",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum; kesin ret: baska_sehir (budapeste, budapest)"
+   },
+   {
+    "id": "fe51d4753cf9ca8d",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum; kesin ret: baska_sehir (budapest)"
+   }
+  ]
  }
 ]
