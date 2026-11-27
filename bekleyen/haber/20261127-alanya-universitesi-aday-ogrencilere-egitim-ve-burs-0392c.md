@@ -42,8 +42,8 @@ kaynak: Bölge Gündemi
 kaynak_url: https://www.bolgegundemi.com/antalya/alanya-universitesi-aday-ogrencilere-egitim-ve-burs-olanaklarini-tanitti-245524.html
 bekleme:
   ilk: '2026-11-27T13:14:05+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T15:14:05+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T19:14:05+03:00'
   brief:
     ana_konu: Alanya Üniversitesi'nin üniversite tanıtım günlerine katılımı
     olmasi_gereken:
