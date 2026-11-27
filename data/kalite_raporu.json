@@ -561,6 +561,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.33,
    "islenen": 5
+  },
+  {
+   "tarih": "2026-11-27T12:12:18+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -2030,6 +2045,70 @@
     "editor": "yapıldı"
    },
    "dosya": "bekleyen/haber/20261127-antalyadaki-iklim-konferansi-meclis-butce-gorusmelerinde-64aad.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T12:12:40+03:00",
+   "baslik": "Antalya'da kaybolan Kübra Yapıcı cinayetine ilişkin iddianame hazırlandı",
+   "kaynak": "Gün Haber",
+   "kaynak_url": "https://www.gunhaber.com.tr/haber/antalya-da-kubra-yi-parasi-icin-oldurmusler/578606/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyada-kaybolan-kubra-yapici-cinayetine-iliskin-iddianame-e9c4a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T12:14:46+03:00",
+   "baslik": "Alanya'daki otoyol hattında heyelan tehlikesi iddiası",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/alanya-yolunda-tehlike-otoyol-hattindaki-11-mahalle-risk-altinda",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-alanyadaki-otoyol-hattinda-heyelan-tehlikesi-iddiasi-65262.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "72ee36d9e2625ae2",
+    "puan": 8,
+    "gerekce": "Dağlık yamaçtaki otoyol güzergâhı brief'e çok uygun ve haberi destekliyor.",
+    "gorunen": "Dağlık arazide zikzaklar çizen bir karayolu.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T12:18:15+03:00",
+   "baslik": "Antalya'nın çevre ve konut sorunları TBMM bütçe görüşmelerinde gündeme geldi",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/siyaset/antalyanin-cevre-ve-konut-sorunlari-mecliste-bakana-pes-pese-sorular/390133",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: nin → nın"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyanin-cevre-ve-konut-sorunlari-tbmm-butce-e34a8.md",
    "durum": "gorsel_bekliyor",
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"

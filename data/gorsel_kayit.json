@@ -5746,5 +5746,177 @@
     "neden": "puan 0 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (budapeste, budapest)"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T12:12:40+03:00",
+  "haber": "20261127-antalyada-kaybolan-kubra-yapici-cinayetine-iliskin-iddianame-e9c4a.md",
+  "baslik": "Antalya'da kaybolan Kübra Yapıcı cinayetine ilişkin iddianame hazırlandı",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 8,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "bf3bb3c94130dfe3",
+    "puan": null,
+    "neden": "indirilemedi: 500 Server Error: Internal Server Error for url: https://pixabay.com/get/g3fdee0fe774cbb4c8bce400eb68d9554"
+   },
+   {
+    "id": "25959fffabcb08de",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (munich)"
+   },
+   {
+    "id": "f5a8c87e9fbaf642",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum"
+   },
+   {
+    "id": "efe942e250423c75",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "f2f509bab86a2c49",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (brussels, bruksel)"
+   },
+   {
+    "id": "7326a4efda14b3a0",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (londra, london)"
+   },
+   {
+    "id": "5b0ff9742e1d9c1b",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "5128112befd160ad",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: baska_sehir (istanbul)"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T12:14:46+03:00",
+  "haber": "20261127-alanyadaki-otoyol-hattinda-heyelan-tehlikesi-iddiasi-65262.md",
+  "baslik": "Alanya'daki otoyol hattında heyelan tehlikesi iddiası",
+  "sonuc": "seçildi (8/10, pixabay)",
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "72ee36d9e2625ae2",
+   "puan": 8,
+   "gerekce": "Dağlık yamaçtaki otoyol güzergâhı brief'e çok uygun ve haberi destekliyor.",
+   "gorunen": "Dağlık arazide zikzaklar çizen bir karayolu.",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "dab455596872e8e9",
+    "puan": null,
+    "neden": "indirilemedi: HTTPSConnectionPool(host='pixabay.com', port=443): Read timed out. (read timeout=25)"
+   },
+   {
+    "id": "689d1958dfdc2372",
+    "puan": null,
+    "neden": "indirilemedi: 500 Server Error: Internal Server Error for url: https://pixabay.com/get/g544e3d1b9f3396c458c34435bbac0b8e"
+   },
+   {
+    "id": "39c1fd5a4e3fd042",
+    "puan": null,
+    "neden": "indirilemedi: 500 Server Error: Internal Server Error for url: https://pixabay.com/get/g651c25e254fc4ad359c20caba8ceb953"
+   },
+   {
+    "id": "373b16c27e43fb9d",
+    "puan": null,
+    "neden": "indirilemedi: 500 Server Error: Internal Server Error for url: https://pixabay.com/get/g554248afa5fc973e4c91d3b1ef551794"
+   },
+   {
+    "id": "b9dba1721785b650",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-konyaalti-belediyesi-hayatparkt)"
+   },
+   {
+    "id": "937d51fef6281cf3",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "0675247ee148047d",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "d2d0e72230e92422",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "103246354b86fb69",
+    "puan": 7,
+    "neden": "daha yüksek puanlı aday seçildi"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T12:18:15+03:00",
+  "haber": "20261127-antalyanin-cevre-ve-konut-sorunlari-tbmm-butce-e34a8.md",
+  "baslik": "Antalya'nın çevre ve konut sorunları TBMM bütçe görüşmelerinde gündeme geldi",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "42d6864bdc0b7d1e",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (budapest)"
+   },
+   {
+    "id": "3f17460311546db1",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "d56a8a660bc1c86d",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (budapeste, budapest)"
+   },
+   {
+    "id": "28c77a79dd500316",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kisi, yabanci_bayrak, yabanci_kurum; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "fcb0f724413cf6c7",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (budapeste)"
+   },
+   {
+    "id": "098a2063e03c0a6f",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kisi, yabanci_kurum; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "746f180dc9d156de",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (budapest)"
+   },
+   {
+    "id": "4f054a799fb68b78",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kisi, yabanci_bayrak, yabanci_kurum; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "fe51d4753cf9ca8d",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (budapeste, budapest)"
+   },
+   {
+    "id": "86c21fb08d940e0a",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: yabanci_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   }
+  ]
  }
 ]
