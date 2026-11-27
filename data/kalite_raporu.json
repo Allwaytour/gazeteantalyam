@@ -874,6 +874,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.0,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-27T22:12:59+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "kurum": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 10.0,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -3965,6 +3980,14 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 03:43)"
+  },
+  {
+   "tarih": "2026-11-27T22:13:14+03:00",
+   "baslik": "Growtech fuarında başarılı girişimcilere ödülleri verildi",
+   "dosya": "20261127-growtech-fuarinda-basarili-girisimcilere-odulleri-verildi-d530e.md",
+   "deneme": 1,
+   "sonuc": "seçildi (10/10, kurum)",
+   "durum": "yayinlandi"
   }
  ]
 }

@@ -2,8 +2,6 @@
 title: Growtech fuarında başarılı girişimcilere ödülleri verildi
 date: '2026-11-27T16:39:19+03:00'
 ozet: Antalya'da düzenlenen Growtech fuarı kapsamındaki startup yarışmasında dereceye giren başarılı girişimciler ödüllendirildi.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -16,24 +14,31 @@ gorsel_sinif: fuar
 onem: 3
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: gercek
 gorsel_secim:
-  tur: kategori
+  tur: gercek
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Growtech fuarında kürsüde konuşma yapan bir kişi ve izleyiciler.
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 10/10: Haberin konusu olan Growtech fuarındaki etkinlikten doğrudan bir kare, bağlamla tam uyumlu.'
+  surum: b2
   konu_imza: 8acd1fa4906d
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol: {}
+  gorsel_url: /images/kurum/cf75b980f0c6ecf2.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 10
+    esik: 7
+    gerekce: Haberin konusu olan Growtech fuarındaki etkinlikten doğrudan bir kare, bağlamla tam uyumlu.
+    tarih: '2026-11-27T22:13:57+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,32 +46,9 @@ otomatik: true
 yz: true
 kaynak: https://www.agronews.com.tr/
 kaynak_url: https://www.agronews.com.tr/tarim/growtech-antalya-da-basarili-girisimciler-odullendirildi-1360451
-bekleme:
-  ilk: '2026-11-27T19:44:24+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T21:44:24+03:00'
-  brief:
-    ana_konu: Growtech fuarinda duzenlenen girisimcilik yarismasinda dereceye girenlere odullerinin verilmesi
-    olmasi_gereken:
-    - odul toreni sahnesi
-    - girisimciler
-    - fuat alani
-    varliklar:
-    - ad: Growtech
-      tur: etkinlik
-    kacinilacaklar:
-    - spor salonu
-    - konser sahnesi
-    sorgular_en:
-    - startup award ceremony stage
-    - business exhibition Antalya
-    sorgular_tr:
-    - Growtech fuari odul toreni
-    - girisimcilik yarismasi odul
-    tarihi_haber: false
-    hassas: false
-  son_sonuc: eşiği (7) geçen uygun görsel yok
-  kaynak_ts: 1795786759
+gorsel: /images/kurum/cf75b980f0c6ecf2.jpg
+gorsel_kredi: ''
+gorsel_konum: 48% 25%
 ---
 Growtech fuarı kapsamında düzenlenen girişimcilik yarışması, sektörün bazı önemli kuruluşlarının iş birliğiyle gerçekleştirildi. Farklı şehirlerden başvuran 20 firma arasında jüri tarafından yapılan değerlendirmeler sonucunda dereceye giren isimler belirlendi.
 

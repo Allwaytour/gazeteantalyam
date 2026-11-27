@@ -11078,5 +11078,67 @@
     "neden": "puan 2 < 7; güncel haberde eski/arşiv fotoğrafı"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T22:13:14+03:00",
+  "haber": "20261127-growtech-fuarinda-basarili-girisimcilere-odulleri-verildi-d530e.md",
+  "baslik": "Growtech fuarında başarılı girişimcilere ödülleri verildi",
+  "sonuc": "seçildi (10/10, kurum)",
+  "aday_sayisi": 11,
+  "secilen": {
+   "id": "956f66b09ca1dd48",
+   "puan": 10,
+   "gerekce": "Haberin konusu olan Growtech fuarındaki etkinlikten doğrudan bir kare, bağlamla tam uyumlu.",
+   "gorunen": "Growtech fuarında kürsüde konuşma yapan bir kişi ve izleyiciler.",
+   "taninir_yuz": true,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "9edb7ab9007f7e83",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "e453bdd9ff2d7d55",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "bc33cd0cd2956a39",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: yanlis_kisi"
+   },
+   {
+    "id": "060bd51eaaa2f18b",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "61b8f6f3289e5508",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "33be8e68da3e3a32",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "024a4689490e3c45",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "4499c16acdff3b9c",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "280407699b87dc2e",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   }
+  ]
  }
 ]
