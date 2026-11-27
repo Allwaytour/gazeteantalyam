@@ -6324,7 +6324,7 @@
   },
   "20261126-antalyadan-kayseriye-giden-ucakta-fenalasan-yolcu-771ed.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T12:00:37+03:00",
+   "tarih": "2026-11-27T23:16:17+03:00",
    "baslik": "Antalya'dan Kayseri'ye giden uçakta fenalaşan yolcu kurtarılamadı",
    "durum": "bekliyor",
    "metin": {},
@@ -6338,9 +6338,12 @@
     "once": {
      "url": "/images/haber-gorsel/cb69498922ef36a8.jpg",
      "tur": "stok",
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Uçakta fenalaşan yolcu haberi için havada uçan uçak görseli seçilmiş, genel bir havacılık temsilidir.",
-     "gorunen": "Bulutlar üzerinde uçan bir yolcu uçağı ve kanat detayı",
+     "gerekce": "Haber uçuş sırasında yaşanan bir sağlık sorununu konu alıyor. Görsel genel bir uçak fotoğrafı, haberle dolaylı ilgili.",
+     "gorunen": "Bulutların üzerinde uçan bir yolcu uçağı.",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
@@ -6355,7 +6358,7 @@
   },
   "20261126-antalyada-koklu-meyhane-yilbasindan-sonra-kapaniyor-011d4.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T12:00:37+03:00",
+   "tarih": "2026-11-27T23:16:17+03:00",
    "baslik": "Antalya'da köklü meyhane yılbaşından sonra kapanıyor",
    "durum": "bekliyor",
    "metin": {},
@@ -6369,12 +6372,15 @@
     "once": {
      "url": "/images/haber-gorsel/pixabay-7621881-3958deb0.jpg",
      "tur": "stok",
-     "puan": 4,
-     "gerekce": "Kapanan meyhane haberi için sokaktaki klasik bir araba görseli kullanılmış, konuyla doğrudan bağı zayıf.",
-     "gorunen": "Sokakta park halinde açık mavi klasik bir otomobil",
+     "kredi": "Temsilî fotoğraf",
+     "kaynak": "pixabay",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 3,
+     "gerekce": "Haber bir meyhanenin kapanmasıyla ilgili, görselde ise sadece bir otomobil var. Meyhane veya konuyla ilgili hiçbir somut unsur içermiyor.",
+     "gorunen": "Antalya plakalı klasik bir otomobil.",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 4 < 7"
+     "neden": "puan 3 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -6413,7 +6419,7 @@
   },
   "20261126-antalya-muratpasada-yeni-otel-yatirimi-icin-ced-sureci-17819.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T12:00:38+03:00",
+   "tarih": "2026-11-27T23:16:17+03:00",
    "baslik": "Antalya Muratpaşa'da yeni otel yatırımı için ÇED süreci başladı",
    "durum": "bekliyor",
    "metin": {},
@@ -6427,12 +6433,17 @@
     "once": {
      "url": "/images/haber-gorsel/pixabay-315892-e8151302.jpg",
      "tur": "stok",
-     "puan": 5,
-     "gerekce": "Yeni otel yatırımı ÇED süreci haberi için temsili bir otel/kompleks dış görünümü kullanılmış.",
-     "gorunen": "Akşam vakti aydınlatılmış otel ve casino binası dış cephesi",
-     "ihlaller": [],
+     "kredi": "Temsilî fotoğraf",
+     "kaynak": "pixabay",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 2,
+     "gerekce": "Haber yeni bir otel projesiyle ilgili, ancak görselde casino vurgusu var. Türkiye'de casino yasak olduğu için haberle çelişiyor ve yanıltıcı.",
+     "gorunen": "Üzerinde 'Casino' yazan büyük bir otel binası görseli.",
+     "ihlaller": [
+      "kacinilacak"
+     ],
      "taninir_yuz": false,
-     "neden": "puan 5 < 7"
+     "neden": "puan 2 < 7; kesin ret: kacinilacak"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -18498,14 +18509,16 @@
   },
   "20261127-cop31in-antalyanin-2027-turizm-sezonuna-katki-saglamasi-19a3d.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:25+03:00",
+   "tarih": "2026-11-27T23:13:42+03:00",
    "baslik": "COP31'in Antalya'nın 2027 turizm sezonuna katkı sağlaması bekleniyor",
    "durum": "bekliyor",
    "metin": {},
    "metin_mekanik": true,
    "metin_degisiklikleri": [],
    "engeller": [],
-   "reddedilen_duzeltmeler": [],
+   "reddedilen_duzeltmeler": [
+    "metin: Pronofesyonel→Profesyonel (yeni ad)"
+   ],
    "notlar": [],
    "hassas": false,
    "gorsel": {
@@ -18515,22 +18528,180 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 4,
-     "gerekce": "Kongre turizmi ile ilgili genel bir görsel, ancak COP31 zirvesiyle doğrudan bir bağlantısı yok.",
-     "gorunen": "Boş bir konferans salonu ve projeksiyon ekranı.",
+     "puan": 2,
+     "gerekce": "Haberle ilgisi zayıf, genel bir toplantı salonu görseli. COP31 zirvesiyle veya Antalya ile bir bağlantısı kurulmuyor.",
+     "gorunen": "Boş bir konferans salonu",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 4 < 7"
+     "neden": "puan 2 < 7"
+    },
+    "brief": {
+     "ana_konu": "COP31 zirvesinin Antalya turizmine etkisi.",
+     "olmasi_gereken": [
+      "kongre merkezi",
+      "otel",
+      "Antalya manzarası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya",
+       "tur": "mekan"
+      },
+      {
+       "ad": "COP31",
+       "tur": "etkinlik"
+      }
+     ],
+     "kacinilacaklar": [
+      "plajda güneşlenen insanlar",
+      "yazlık kıyafetler"
+     ],
+     "sorgular_en": [
+      "conference center",
+      "Antalya city view",
+      "international summit"
+     ],
+     "sorgular_tr": [
+      "Antalya kongre merkezi",
+      "Antalya otelleri"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "3be0b82110413647",
+      "url": "https://pixabay.com/get/gb37fa87d5489250905aff2713e3c4d4cab6a33cbf89cba4c34da6dd6ccf71844328bfef76a4db94d7c193c2fd29837516af0dbf79f575e983158970ceacbe099_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261123-antalya-yabanciya-konut-satisin)"
+     },
+     {
+      "id": "1eb3ed09ea17537c",
+      "url": "https://pixabay.com/get/g79a6de4692ecc561522fcc3108afc9b98f99240fd770350167149cdf751eb254985106112dbd5535e66f14e97d666a38_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir kongre merkezi atmosferi sunuyor ancak Antalya ile doğrudan bir bağı yok.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "cbaa04087609b3ef",
+      "url": "https://pixabay.com/get/g2036e15e0e721979567ff8e3acf8bd21823bbae67f8012910c19cad1a541e53829bc0c39a8d205b8f6734a1d330293dc0d878779d8e4ad33ad00d16a12c6a5d9_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Uluslararası zirve temasını yansıtıyor ancak Antalya veya COP31 ile somut bir bağı bulunmuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "0e2c6f4f6f11676b",
+      "url": "https://pixabay.com/get/g09d21633a768342ea6d76ced4300cd95ab66fe8015a4d3120ed0e62a9587a0b9d80c85dc86029bf5c7d25e07bec4d83506f94bef5c1aceae99c3f570b19eff02_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Kongre merkezi temasını karşılıyor ancak görseldeki yapı Berlin'deki ICC binasıdır, Antalya ile ilgisi yoktur.",
+      "neden": "puan 4 < 7; kesin ret: baska_sehir (berlin)"
+     },
+     {
+      "id": "91e589af965787b3",
+      "url": "https://pixabay.com/get/g89f041340a40e51d086f1bfd0f39c9571424484ed398e7edd959a874adfe95a1ee4040af080e76bab3c477a2bab028f1f28d80f6c854e7b2051d3ace39ea71ed_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Küresel zirve temasını soyut bir şekilde işliyor ancak haberin içeriğiyle doğrudan bir bağı yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "4eb40e7f65018c1d",
+      "url": "https://pixabay.com/get/g05ef65cfaaec6b95a3c0829998d97eb52bd62b34e4af1fb91acb775d12b8915d5032b54770f44eca21fc76e914c30269a0bb68c39b7ea781f46e3fa95d0f609b_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Kongre turizmi temasını doğrudan yansıtıyor ancak Antalya'ya ait olduğuna dair bir kanıt yok.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "75473bf04c591475",
+      "url": "https://pixabay.com/get/ga7591135e44c18c177f3ed7522cddefc7f756fe8ae02d4551aeef2aa7b42a8a5a1f4f1568a4ce7a6041d59dec9736ab7f7d6c5bb370ded1ea1e67d0c10b55302_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Antalya'nın turizm kimliğini çok iyi yansıtıyor, haberin görsel ihtiyacını karşılıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "d966e74d17017888",
+      "url": "https://pixabay.com/get/gc5461bb25dcb4d4e9ba66b199ce42f6298af561de2850b55c30e7712311654e94b87344470b5d60ba218c3dea9578784ada0b63e076c6b51122cc2b2bab7069d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Haberin konusu olan COP31 ile ilgisi olmayan, farklı bir uluslararası oluşumun bayrakları.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "a301db0a326af1d2",
+      "url": "https://pixabay.com/get/g41b6a0eb57a9d3ddb1ef505be54da2c3ec5ae2db7cfb44c77839bc6c1c52742c3e67a470e5f7eeab4b86f86dc4e272c0ce8bebb86893110657b2111e297b795f_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Kongre merkezi mimarisini andırıyor ancak Berlin'deki bir yapıya ait, Antalya ile ilgisi yok.",
+      "neden": "puan 4 < 7; kesin ret: baska_sehir (berlin)"
+     },
+     {
+      "id": "384a7e642400fd6c",
+      "url": "https://pixabay.com/get/gd48b051906dcbaa7f9391a47cb33f1e6ec7c3e400594bcdd894406b8841962f4d7f6856c7b902c4f1d12298eae5327534e9319cafa41b9f0de3b4881d25036ab_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 9,
+      "gerekce": "Antalya'nın turizm sezonu ve mekanını en iyi anlatan, haberle doğrudan ilişkili bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %20)",
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %20)",
+     "Commons 'Antalya': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Antalya kongre merkezi': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Antalya otelleri': 2 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "fe0b8f4062718592",
+     "yerel_url": "/images/haber-gorsel/fe0b8f4062718592.jpg",
+     "kaynak": "pixabay",
+     "puan": 9,
+     "gerekce": "Antalya'nın turizm potansiyelini ve mekanını çok iyi yansıtıyor, haberin atmosferine uygun.",
+     "gorunen": "Antalya Kaleiçi yat limanı ve çevresindeki tarihi doku.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g1b32a55a12373d69b6e7445e11f097e0ae18b0cd09875e9b4e0d6368a9324c23ae4dc30c2a48bf680f53b1033b0a637ef870502d96a665ac3fcc54d1cbd614e6_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/fe0b8f4062718592.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Antalya Kaleiçi yat limanı ve çevresindeki tarihi doku.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: Antalya'nın turizm potansiyelini ve mekanını çok iyi yansıtıyor, haberin atmosferine uygun.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "6d71bcacea30",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "Antalya'nın turizm potansiyelini ve mekanını çok iyi yansıtıyor, haberin atmosferine uygun.",
+      "tarih": "2026-11-27T23:24:12+03:00"
+     },
+     "kimlik": "fe0b8f4062718592",
+     "phash": "dfb084d7782592e4",
+     "konum": "50% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-bati-antalya-cevre-yolu-projesine-ak-partiden-destek-d2f38.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:25+03:00",
+   "tarih": "2026-11-27T23:13:42+03:00",
    "baslik": "Batı Antalya Çevre Yolu projesine AK Parti'den destek",
    "durum": "bekliyor",
    "metin": {},
@@ -18547,20 +18718,166 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 3,
-     "gerekce": "Haberle ilgisi olmayan bir cami görseli içeriyor ve Antalya'daki çevre yolu projesini yansıtmıyor.",
-     "gorunen": "Dağlık bir arazide uzanan asfalt yol ve küçük bir cami.",
-     "ihlaller": [
-      "dini_yapi"
-     ],
+     "puan": 5,
+     "gerekce": "Çevre yolu projesiyle ilgili genel bir yol görseli ancak Batı Antalya ile bir bağlantısı yok.",
+     "gorunen": "Dağlık bir bölgede uzanan asfalt yol",
+     "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 3 < 7; kesin ret: dini_yapi"
+     "neden": "puan 5 < 7"
+    },
+    "brief": {
+     "ana_konu": "Batı Antalya Çevre Yolu projesine destek.",
+     "olmasi_gereken": [
+      "yol çalışması",
+      "asfalt yol",
+      "trafik"
+     ],
+     "varliklar": [
+      {
+       "ad": "AK Parti",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "tren yolu",
+      "deniz yolu"
+     ],
+     "sorgular_en": [
+      "highway construction",
+      "asphalt road",
+      "traffic flow"
+     ],
+     "sorgular_tr": [
+      "çevre yolu",
+      "yol inşaatı",
+      "Antalya trafik"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "937d51fef6281cf3",
+      "url": "https://pixabay.com/get/g9a50524edbb839ec842932925a45d475978757d74d99aab3ceb368629d08d48e3452e75687e7cdfb72542e9c4c4659fcde95675a6c15f8b0a4d575822dec70c8_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Haber bir yol projesine destekle ilgili, ancak görsel yolu kapalı göstererek olumsuz bir algı yaratıyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "6c23d36a8747b011",
+      "url": "https://pixabay.com/get/g98dce3a0f17f71a32e8bc3d92d1ef6e0a5c6d17e6d10072c88239991d1c9d0e9e108f01c906fe4e46e7f0cca6a641183_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir yol görseli, haberin içeriğiyle doğrudan bir bağlantısı yok, sadece yol temasını karşılıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "cefdf0574a435f66",
+      "url": "https://pixabay.com/get/g72084436409e3edf528996c68b39a2f660df533627c5fe4feea64b41b1455f382ddfefee13f5e30242424728739643b45b12ef745d4efeddfbf2284a6e1d83b4_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haber çevre yolu projesiyle ilgili, taksi görseli konuyla ilgisiz ve yanıltıcı olabilir.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "ea80ccb8860fab92",
+      "url": "https://pixabay.com/get/g431fe7e11e5a3392f70dfa796471729831cb867faa914752afb56b28798ffe496a92390f2110547d52b71070dd6777040943dc05d5e16510c56fb5432b951228_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Genel bir yol görseli, haberin yerel bağlamıyla veya proje desteğiyle doğrudan bir ilgisi bulunmuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "70ade0f180191f28",
+      "url": "https://pixabay.com/get/g0fb0a464e7b16067d5f9f89e0ef264e82bb8156d8cef95ab6170de36722b14c67350e1b9e1daaa6608cde4e7bc91bf352b2e52cbf0bdf2895478e5aef8e1cdbf_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Haber Antalya ile ilgili, görseldeki yabancı şehir dokusu okuru yanıltır.",
+      "neden": "puan 3 < 7; kesin ret: baska_sehir (shanghai, sanghay)"
+     },
+     {
+      "id": "2cd3b9ed258ca894",
+      "url": "https://pixabay.com/get/g743320ed19fb8e46f34421a0dd7d8af8150402d68dea6b92eb1c1658ed0eb308597226170e9522803881abd9aa5372a4400862f91887c09d92d1dd2907418f9c_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Yol inşaatı temasını iyi yansıtıyor ancak yabancı plakalı/markalı araçlar olması puanı biraz düşürüyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "77fb80e70c6e1a0c",
+      "url": "https://pixabay.com/get/g776d6484f26f31aea455fdb94995aef57f6b205a4d5b14a162b3d90422f80bb4c6962e3fb1df8437f5149d1a4caf1894c6149222898c7cafc99bf0417c6bf29d_640.png",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Genel bir yol görseli, haberin içeriğiyle doğrudan bir bağlantısı yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "77fd9a079a477f76",
+      "url": "https://pixabay.com/get/gc42c5c4163e6e3d067f6e676f97031dd7cde031055389e9b2f468be97bbc7ed5fe8261b87cd4dd680929d8ee91985abe0d7a8c35bbbb1eee392d08af7a9f947a_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haber Antalya ile ilgili, görseldeki yabancı şehir dokusu okuru yanıltır.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "0460f6ae2eed3fc9",
+      "url": "https://pixabay.com/get/g89e8e55ca5b184a4c4395f4753365890264cdcb09c62406dcd31501fbc61c9bd1951988eb0150e76bcfdfb01b02259d50dfc9a925d7a7fbaa180b055a3acd070_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Trafik sorununu yansıtıyor ancak haberin konusu olan proje inşaatından ziyade mevcut trafiği gösteriyor.",
+      "neden": "puan 6 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'AK Parti': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'çevre yolu': 12 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'yol inşaatı': 6 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "88c10c798b542984",
+     "yerel_url": "/images/haber-gorsel/88c10c798b542984.jpg",
+     "kaynak": "pixabay",
+     "puan": 9,
+     "gerekce": "Haberin konusu olan yol projesi ve inşaat çalışmalarını en iyi yansıtan görsel.",
+     "gorunen": "İş makineleriyle devam eden bir yol inşaatı sahası.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g4e6c938c83e4a77c27fafd857abdd117c14294e6aeb58f8039c311be5c640494e4d18d06b9522f51ccc520f1679c80ca39c43f5f0b91f821c4bf7cc9f5480f34_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/88c10c798b542984.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "İş makineleriyle devam eden bir yol inşaatı sahası.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: Haberin konusu olan yol projesi ve inşaat çalışmalarını en iyi yansıtan görsel.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "fe4279e29297",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "Haberin konusu olan yol projesi ve inşaat çalışmalarını en iyi yansıtan görsel.",
+      "tarih": "2026-11-27T23:24:25+03:00"
+     },
+     "kimlik": "88c10c798b542984",
+     "phash": "8cf7b9b22c1649d4",
+     "konum": "30% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-antalyada-semt-pazarlarinda-sebze-fiyatlari-aciklandi-4aad3.md": {
    "surum": "t2",
@@ -18651,7 +18968,7 @@
   },
   "20261126-konyaaltinda-bir-sitenin-guvenlik-kulubesi-yandi-4b0b1.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T12:00:37+03:00",
+   "tarih": "2026-11-27T23:16:17+03:00",
    "baslik": "Konyaaltı'nda bir sitenin güvenlik kulübesi yandı",
    "durum": "bekliyor",
    "metin": {},
@@ -18665,12 +18982,17 @@
     "once": {
      "url": "/images/haber-gorsel/78388648e6adbae8.jpg",
      "tur": "stok",
-     "puan": 4,
-     "gerekce": "Güvenlik kulübesi yangını haberi için genel bir hasar/yıkım görseli kullanılmış, doğrudan ilgili değil.",
-     "gorunen": "Harap olmuş yıkık bir ev binası ve çevresi",
-     "ihlaller": [],
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 2,
+     "gerekce": "Haberde bir sitenin güvenlik kulübesinden bahsediliyor, görselde ise tamamen yanmış büyük bir ev var. Olayla ilgisiz ve yanıltıcı.",
+     "gorunen": "Tamamen yanmış, harabe halinde müstakil bir ev.",
+     "ihlaller": [
+      "kacinilacak"
+     ],
      "taninir_yuz": false,
-     "neden": "puan 4 < 7"
+     "neden": "puan 2 < 7; kesin ret: kacinilacak"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -19245,9 +19567,6 @@
     "once": {
      "url": "/images/haber-gorsel/46f3bbc48ce04de2.jpg",
      "tur": "stok",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
      "gerekce": "Haber THY ile ilgili ancak görsel sadece genel bir uçak detayı, kurumsal dönüşüm veya Antalya ile doğrudan bir bağ kurmuyor.",
      "gorunen": "Bir yolcu uçağının kanadı ve gövdesi.",
@@ -19275,14 +19594,6 @@
       "kapatılan tabela",
       "eski logo"
      ],
-     "sorgular_en": [
-      "Turkish Airlines airplane",
-      "Antalya Airport"
-     ],
-     "sorgular_tr": [
-      "Türk Hava Yolları uçağı",
-      "Antalya Havalimanı"
-     ],
      "tarihi_haber": false,
      "hassas": false
     },
@@ -19290,13 +19601,11 @@
      {
       "id": "332b0d537d1bb69a",
       "url": "https://pixabay.com/get/g533ac0544568ddc67ad7a4650e73b088495c7ecb138915f7be5951543265b33d014b47259acdc591275a1b20e4321b2f_1280.jpg",
-      "kaynak": "pixabay",
       "neden": "aynı görsel son 60 günde kullanıldı (20261124-antalya-havalimanindan-devlete-)"
      },
      {
       "id": "eeec874a498bc697",
       "url": "https://pixabay.com/get/g0173709d806fd4caf64a9928999bf8a67f196adca2d3d7f8fc40beffecaf5d00ed0e10d1896e15657306a5cf869f6e2a_640.jpg",
-      "kaynak": "pixabay",
       "puan": 2,
       "gerekce": "Haberle ilgisi olmayan yabancı bir havayolu şirketine ait uçak görseli, konuyla doğrudan bir bağı yok.",
       "neden": "puan 2 < 7"
@@ -19304,7 +19613,6 @@
      {
       "id": "2a53ca8b52f3085e",
       "url": "https://pixabay.com/get/g527b05d498fa2036fa3bd3a906a4567e3d65eba1cc13d0f92f4e6fdfbdd24fd2de7671738489d87585b650f2238397a7_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Havalimanı temasına uygun ancak THY veya Antalya ile doğrudan bir bağlantısı olmayan genel bir görsel.",
       "neden": "puan 5 < 7"
@@ -19312,7 +19620,6 @@
      {
       "id": "598f16c409fa8c88",
       "url": "https://pixabay.com/get/gb5b2adffd7a37a78e2e50687edabd5f0a5196c5864bced0d4bdaf2ca2a66e0f41d3bad94c6c7772f94cfeba702a999a8ea35b0fdc7b412043824ac920f99226f_640.jpg",
-      "kaynak": "pixabay",
       "puan": 2,
       "gerekce": "Haberle ilgisi olmayan yabancı bir havayolu şirketine ait uçak görseli.",
       "neden": "puan 2 < 7"
@@ -19320,7 +19627,6 @@
      {
       "id": "761dc7785135e393",
       "url": "https://pixabay.com/get/g92ea2c4bee57f3f83f06b5a3424740b4c87dc7225459c9856a7baa44eb1b1084fc6f5385eeac8699efead4d47a70df53b6ec28e33197d35b42007a2d010650e7_640.jpg",
-      "kaynak": "pixabay",
       "puan": 9,
       "gerekce": "Haberin ana öznesi olan THY uçağını ve havalimanı ortamını net bir şekilde gösteriyor, habere en uygun görsel.",
       "neden": "kesin ret: baska_sehir (munich)"
@@ -19328,7 +19634,6 @@
      {
       "id": "6ca873888cac5e63",
       "url": "https://pixabay.com/get/geff7bca6d4e63476206ebbd74be51523b13b14a151fcb17bc7c7ec8d06597e21109638efa9d6cb7ca737e047f750ce6e_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Havalimanı atmosferini yansıtıyor ancak THY ile doğrudan bir ilişkisi yok, genel bir havalimanı görseli.",
       "neden": "puan 5 < 7"
@@ -19336,7 +19641,6 @@
      {
       "id": "46f3bbc48ce04de2",
       "url": "https://pixabay.com/get/g1257fa49dc5aba3e12ccfca9df04677953a70bf20d24652cc19c282a62c882216f19e0c7993f06fbfbaadb6074f58e27_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Havacılıkla ilgili ancak haberin kurumsal dönüşüm konusuyla doğrudan bir bağı yok, çok genel bir görsel.",
       "neden": "puan 4 < 7"
@@ -19344,7 +19648,6 @@
      {
       "id": "30e27450414b8e1d",
       "url": "https://pixabay.com/get/g7aaf060c353a5c0e8ff0b11fbd887cbf0743a32163e5fa398f72016921c3dc37669222eba9be90398f463007d0353d07_640.jpg",
-      "kaynak": "pixabay",
       "puan": 3,
       "gerekce": "Antalya havalimanı olsa da THY uçağı içermiyor ve yabancı havayolu şirketleri öne çıkıyor.",
       "neden": "puan 3 < 7"
@@ -19352,7 +19655,6 @@
      {
       "id": "89e9869e0c0c2c3f",
       "url": "https://pixabay.com/get/g27b91a04cd1bfe8b3b04adf55f91617e0eaf94dbbdabd80039089589a3791bb380c7631cc7d3fcfce9d62ca6d34778dd186ea067821a024027c220d6b0bd2d51_640.jpg",
-      "kaynak": "pixabay",
       "puan": 2,
       "gerekce": "Haberin kurumsal yapılanma konusuyla ilgisi olmayan, genel bir uçak içi görseli.",
       "neden": "puan 2 < 7"
@@ -19360,19 +19662,10 @@
      {
       "id": "e453bdd9ff2d7d55",
       "url": "https://pixabay.com/get/gd3e928818e05b4db7256f90abc214fb4cf1f44f308fdf89ae44c277a7b17b7bd99740e10c87ce86b3d9900416703d2eef2fe787182a8998d2619a5a3ef0302ab_640.jpg",
-      "kaynak": "pixabay",
       "puan": 1,
       "gerekce": "Haberin havacılık ve THY konusuyla hiçbir ilgisi yok, sadece Antalya'yı temsil eden genel bir manzara.",
       "neden": "puan 1 < 7"
      }
-    ],
-    "notlar": [
-     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26)",
-     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26)",
-     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26)",
-     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %33)",
-     "Commons 'Türk Hava Yolları': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
-     "Commons 'Antalya': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
     ],
     "karar": "kaldir",
     "sonuc": "eşiği (7) geçen uygun görsel yok"
@@ -19399,9 +19692,6 @@
     "once": {
      "url": "/images/haber-gorsel/ed9f23deb79d8e4d.jpg",
      "tur": "stok",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
      "gerekce": "Ödül törenini temsil eden genel bir görsel, ancak haberdeki kurum veya kişiyle somut bir bağ içermiyor.",
      "gorunen": "Mavi kurdeleli altın ve bronz madalyalar.",
@@ -19433,14 +19723,6 @@
       "kuyumcu dükkanı içi",
       "fiyat etiketi"
      ],
-     "sorgular_en": [
-      "award ceremony",
-      "business award"
-     ],
-     "sorgular_tr": [
-      "ödül töreni",
-      "Mimar Sinan Kongre Merkezi"
-     ],
      "tarihi_haber": false,
      "hassas": false
     },
@@ -19448,19 +19730,16 @@
      {
       "id": "bc75c6100b85e9d9",
       "url": "https://pixabay.com/get/g0ff8be134306ebec78b30f724b7db6cd759e8764498416cbefb3bfe14e2fd68821fabf17edb1e7b935a032ec96d8e714cbf4c83487f228032965c05964566712_1280.jpg",
-      "kaynak": "pixabay",
       "neden": "aynı görsel son 60 günde kullanıldı (20261123-muratpasa-belediyesinin-genc-te)"
      },
      {
       "id": "02d0a36cf8b15445",
       "url": "https://pixabay.com/get/g5b2357df24d848dbef82b62b09fde9528e8f9ab20a4c4f2f2112c59826b5149608112f2fa559d4f146e5915070ded3f8bdfc3ee8d792fe8ebe56d88a80b8999c_1280.jpg",
-      "kaynak": "pixabay",
       "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
      },
      {
       "id": "024a4689490e3c45",
       "url": "https://pixabay.com/get/g46c179b513f5a6c971956569ed538f0ecf412450589a8a125d83167a3aaf68eeca997121d5dec801d01f5d3fc837aaf2230ebdf1cca43d68af4f5bf1836a41d1_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Haberle ilgili ödül kavramını temsil ediyor ancak stok fotoğraf olduğu için bağlamdan kopuk ve genel kalıyor.",
       "neden": "puan 4 < 7"
@@ -19468,7 +19747,6 @@
      {
       "id": "a755197f512dfce1",
       "url": "https://pixabay.com/get/g3c5418348be7babc14bb8dafb62c39ef9f641e3e6f932d270cab608a74ecd5d7260b61a51a2eacad7b524f5b205c9184_640.jpg",
-      "kaynak": "pixabay",
       "puan": 2,
       "gerekce": "Haberle doğrudan ilgisi yok, yabancı bayraklar içeriyor ve konuyla zayıf bir bağı var.",
       "neden": "puan 2 < 7; kesin ret: yabanci_bayrak"
@@ -19476,7 +19754,6 @@
      {
       "id": "ed9f23deb79d8e4d",
       "url": "https://pixabay.com/get/gb3ff732c3587a33d9d6150dfd3a5dde7a4c1a151b7ecb297c1348c274ce3afba03dce594545c9d19410ce784a472f326_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Ödül töreni temasını destekliyor ancak haberdeki mücevherat veya ihracat ödülü ile doğrudan bir bağı yok.",
       "neden": "puan 4 < 7"
@@ -19484,7 +19761,6 @@
      {
       "id": "d1a30883ab49fa41",
       "url": "https://pixabay.com/get/g42b29b3ee9ca455bf0ce52ac8ecf04f6c35fc1795cc7cf0b09769c7cf47ab1946ba1f66f1a4bb13d4f05156c66057ee00e08ebab08a9f0d899f82b7c06acfb45_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "İş dünyasını yansıtıyor ancak haberin öznesi olan ödül töreni veya mücevherat ile ilgili somut bir detay içermiyor.",
       "neden": "puan 5 < 7"
@@ -19492,7 +19768,6 @@
      {
       "id": "baa46d2a903df6d0",
       "url": "https://pixabay.com/get/gf15904ef900822cde6c51e9969dcb01d3e8994d2a917a364266f618b824a5280fd39070017db1125cd301e749ca68ebd2de146a46bff319be51a9dfddf5244eb_640.jpg",
-      "kaynak": "pixabay",
       "puan": 2,
       "gerekce": "Haber ekonomi ve mücevherat ile ilgiliyken spor ödülü kullanılması çelişkili ve ilgisiz.",
       "neden": "puan 2 < 7"
@@ -19500,7 +19775,6 @@
      {
       "id": "fd111137ac686c0b",
       "url": "https://pixabay.com/get/gd31ba438be29e5605d7f4db95794b1355a1717a6e310a6c59d2743622b4ac5310bdb34d92ff5540ef400ed1be6596d9fb4b7050e86e0f28cc068227a04f3c0a7_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Ödül töreni atmosferini yansıtıyor ancak stok fotoğraf olduğu için haberin özgünlüğünü taşımıyor.",
       "neden": "puan 4 < 7"
@@ -19508,7 +19782,6 @@
      {
       "id": "fe52796c1a81b5e9",
       "url": "https://pixabay.com/get/g95db5e53938fe87c4dce90a17b459822deedf3dc9b2d140c790b2ceb01ac805cf7bf2644f545b5e212d4248053dcd1391712ecee1b76a361a2f151ae73c1f2b3_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "İş dünyası temalı genel bir görsel, haberin içeriğiyle doğrudan bir bağı yok.",
       "neden": "puan 4 < 7"
@@ -19516,7 +19789,6 @@
      {
       "id": "c82ee03ed7f9597d",
       "url": "https://pixabay.com/get/g418917b82da9b5fe39dc7791f9d0433f9f9af8b33ad8d5ab9eba8bb2e964a48cd1c00e5ebb08b38fdc21b607e263a62b_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Ödül töreni temasını yansıtıyor ancak stok fotoğraf olduğu için haberin özgünlüğünü taşımıyor.",
       "neden": "puan 4 < 7"
@@ -19524,15 +19796,10 @@
      {
       "id": "75fbae946f9c761e",
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pusat_Saz_ve_Prof._Eser_Bilgeman_-_%C3%96d%C3%BCl_T%C3%B6reni_-_Award_Ceremony_%282024%29.jpg/500px-Pusat_Saz_ve_Prof._Eser_Bilgeman_-_%C3%96d%C3%BCl_T%C3%B6reni_-_Award_Ceremony_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "kaynak": "commons",
       "puan": 2,
       "gerekce": "Haber mücevherat ihracatı ile ilgiliyken piyano festivali görseli kullanılması büyük bir çelişkidir.",
       "neden": "puan 2 < 7; kesin ret: celiski"
      }
-    ],
-    "notlar": [
-     "kurum sitelerinde aynı haber bulunamadı",
-     "Commons 'ödül töreni': 9 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
     ],
     "karar": "kaldir",
     "sonuc": "eşiği (7) geçen uygun görsel yok"
@@ -19559,9 +19826,6 @@
     "once": {
      "url": "/images/haber-gorsel/b9d1d45860a6f325.jpg",
      "tur": "stok",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 4,
      "gerekce": "Müze ortamını yansıtıyor ancak haberdeki huzurevi sakinleri veya öğrencilerle ilgisi yok, genel bir stok görsel.",
      "gorunen": "Müzede tablolara bakan bir kadın.",
@@ -19590,14 +19854,6 @@
       "hastane odası",
       "tekerlekli sandalye (vurgu müzede olmalı)"
      ],
-     "sorgular_en": [
-      "Side Museum",
-      "ancient ruins museum"
-     ],
-     "sorgular_tr": [
-      "Side Müzesi",
-      "Side Antik Kenti"
-     ],
      "tarihi_haber": false,
      "hassas": false
     },
@@ -19605,7 +19861,6 @@
      {
       "id": "09ba22feb6974cd7",
       "url": "https://pixabay.com/get/g555f5def0311140476f65ceac534e34a9f7bce429f0da6b7a89a82286f6f4a0a8dcbebc6e50ee0c3ed53e585ff361af731637283afc1fada714138153c6c0014_640.jpg",
-      "kaynak": "pixabay",
       "puan": 0,
       "gerekce": "Haberle hiçbir ilgisi olmayan bir otomobil görselidir.",
       "neden": "puan 0 < 7; kesin ret: kacinilacak"
@@ -19613,7 +19868,6 @@
      {
       "id": "fa25f7dbb69308a3",
       "url": "https://pixabay.com/get/g7ada9c34c89913c86e5a3bbcb9d4e29ea7c49916bd8548f823bab220daf8157a6922420f096a625feefd58076a55f62b6720fe4e8902f80237d7f3a27446f798_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Müze ve antik kent temasıyla dolaylı ilgili olsa da, İtalya'daki bir antik kenti gösterdiği için yanıltıcıdır.",
       "neden": "puan 5 < 7; kesin ret: baska_sehir"
@@ -19621,7 +19875,6 @@
      {
       "id": "8921e41e017f5c92",
       "url": "https://pixabay.com/get/g3b75c6123bb44916a30b8284e2d9d607850102302a7cd286bc68782f28ef73cd1406f066ee23b2f9ea55f37cd122956efea2b3605411ac0c15a61c3e94c39527_640.png",
-      "kaynak": "pixabay",
       "puan": 0,
       "gerekce": "Haberin konusu olan müze gezisi ve sosyal sorumluluk projesiyle tamamen ilgisizdir.",
       "neden": "puan 0 < 7"
@@ -19629,7 +19882,6 @@
      {
       "id": "75bf72a455145d84",
       "url": "https://pixabay.com/get/gc941fc99ffdc9dcc860f038dd376862ce8d15e68713c4dbde598060d9f1afccc582fb959c3842279e613a3b69dc565b1_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Müze ortamını yansıtsa da, haberle ilgisi olmayan yabancı bir müzeden çekilmiştir.",
       "neden": "puan 5 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (london)"
@@ -19637,7 +19889,6 @@
      {
       "id": "0d272b99ca14ef01",
       "url": "https://pixabay.com/get/g514b7a956af8db9d0e2c961926bfea862ec03a0abd7807efd22590f6f3f591a0ec999f9f7de628c0c474b75441a8c0a620d8f1eecf8709b52d378a646aa5e9ce_640.jpg",
-      "kaynak": "pixabay",
       "puan": 0,
       "gerekce": "Haberin konusuyla hiçbir bağlantısı olmayan bir askeri araç görselidir.",
       "neden": "puan 0 < 7"
@@ -19645,7 +19896,6 @@
      {
       "id": "0893f84c9057ec74",
       "url": "https://pixabay.com/get/g24e5a24b03d0610e20bf6152983f997b82ed87e7c1dac9ab5dd8ba738f6929f6d972ab49f0bf3aaba1644c2d68f84418_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Müze ve arkeoloji temasıyla dolaylı ilgili olsa da, Yunanistan'daki bir antik alanı gösterdiği için yanıltıcıdır.",
       "neden": "puan 5 < 7; kesin ret: baska_sehir"
@@ -19653,7 +19903,6 @@
      {
       "id": "9d0ce65ae1909b8e",
       "url": "https://pixabay.com/get/g99ad7b4dfbfe8c5f4c44634495348d7d5a08db064997ffdd71ad4c3e06a2fa736d89d705a0dc2de01b1bb51273f0ef446b96adcec601a662a3be54e05dab7938_640.jpg",
-      "kaynak": "pixabay",
       "puan": 0,
       "gerekce": "Haberin konusuyla hiçbir ilgisi olmayan bir sanat eseri görselidir.",
       "neden": "puan 0 < 7; güncel haberde eski/arşiv fotoğrafı"
@@ -19661,7 +19910,6 @@
      {
       "id": "c587883ec1eb548d",
       "url": "https://pixabay.com/get/g068560efc284081e7d4cc4b105d71e41fe37eaf7a7ed9d2da6cfa8d21a6c7fe710a58f1ed724a1a2346c2e375a115d4ec3ad4b490a50970e675d701e124766ac_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Müze ve tarih temasıyla dolaylı ilgili olsa da, haberin içeriğini yansıtmaktan uzaktır.",
       "neden": "puan 4 < 7"
@@ -19669,7 +19917,6 @@
      {
       "id": "3d80afeab8584017",
       "url": "https://pixabay.com/get/g4434629df870f7c5c79af2af22ef6b3c1a26089ea1a9dc0bb8fbee6fe9648b37fc71a3f1a98fe4f6838daef130cd20654e2093c10ad43d5b9cb0c35d00ffd03d_640.png",
-      "kaynak": "pixabay",
       "puan": 0,
       "gerekce": "Haberin konusuyla hiçbir bağlantısı olmayan silah görselleridir.",
       "neden": "puan 0 < 7"
@@ -19677,19 +19924,10 @@
      {
       "id": "d9970309c9232050",
       "url": "https://pixabay.com/get/gba4b4e9b35f510fc3eeba795d3c603f1c701911776e29dcd2f2051a8515908af1f6ed85129ebc2187160d1a86770f5de_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Müze ve antik kent atmosferini yansıtsa da, Manavgat/Side yerine Efes'i gösterdiği için yanıltıcıdır.",
       "neden": "puan 5 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (ephesus, efes)"
      }
-    ],
-    "notlar": [
-     "Manavgat Belediyesi: fotoğraf kurumun kendi sunucusunda değil (d25tea7qfcsjlw.cloudfront.net); kullanılmadı",
-     "Manavgat Belediyesi: fotoğraf kurumun kendi sunucusunda değil (d25tea7qfcsjlw.cloudfront.net); kullanılmadı",
-     "Manavgat Belediyesi: fotoğraf kurumun kendi sunucusunda değil (d25tea7qfcsjlw.cloudfront.net); kullanılmadı",
-     "Commons 'Side Müzesi': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
-     "Commons 'Manavgat Belediyesi': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
-     "Commons 'Side Müzesi': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
     ],
     "karar": "kaldir",
     "sonuc": "eşiği (7) geçen uygun görsel yok"
@@ -19716,9 +19954,6 @@
     "once": {
      "url": "/images/haber-gorsel/e80b3717f6694ee1.jpg",
      "tur": "stok",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
      "gerekce": "Haberdeki güvenlik kamerası vurgusunu destekliyor ancak olay yerini veya şüphelileri göstermeyen genel bir görsel.",
      "gorunen": "Sokak lambasına monte edilmiş bir güvenlik kamerası.",
@@ -19743,14 +19978,6 @@
       "yüzü görünen şüpheli",
       "polis kelepçesi"
      ],
-     "sorgular_en": [
-      "empty street market",
-      "shopping street"
-     ],
-     "sorgular_tr": [
-      "Manavgat çarşı",
-      "turistik cadde"
-     ],
      "tarihi_haber": false,
      "hassas": false
     },
@@ -19758,7 +19985,6 @@
      {
       "id": "f1f5e5b2e750f0c0",
       "url": "https://pixabay.com/get/gb458b3c43489834da696b35179f3e90dcb10a8d4f839bcc0a4ed50296ddeb9540f5d2b20a672957ed7845f3b778546a890d9c6adb6918323e607118acfea96d7_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Çarşı atmosferini yansıtıyor ancak Türkiye ile ilgisi olmayan, tanınabilir bir yabancı mekân.",
       "neden": "puan 4 < 7; kesin ret: baska_sehir (londra, london)"
@@ -19766,7 +19992,6 @@
      {
       "id": "1d7c353ab274932f",
       "url": "https://pixabay.com/get/ga1f77559eaf835c70d0374f3ef28f6e1e2e3d0746dc69a56e29e4ea9c99b0ffd26a953d62d1b4923d6964bbe8b62438fa34e3d2e5ddbaafbd0efabdcc9cba181_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Alışveriş temasıyla dolaylı ilgili ancak haberin mekânı veya olayıyla doğrudan bir bağı yok.",
       "neden": "puan 5 < 7"
@@ -19774,7 +19999,6 @@
      {
       "id": "6a7de6038a47c36b",
       "url": "https://pixabay.com/get/gc917778744af2a551edff75e8e50416288618d996c4698b73ab283c38a6bf2744483d0faf950c3ea45909cb6cafaddab70bf2445b428eb3b448e26904303f13a_640.jpg",
-      "kaynak": "pixabay",
       "puan": 3,
       "gerekce": "Haberle ilgisi olmayan bir dini yapı ve yabancı bir pazar ortamı içeriyor.",
       "neden": "puan 3 < 7; kesin ret: dini_yapi"
@@ -19782,7 +20006,6 @@
      {
       "id": "7e6ff0c00d64a7a0",
       "url": "https://pixabay.com/get/g76d2dd8d03b3bc6020cf67be4e48abe097cbf8cf65cc71b550e670080a65366ca059eb6fef87448e08d8c8d2359b0dd77f0733e7b4c571cef795482aad020057_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Çarşı caddesi konseptine uygun ancak Türkiye'den olmadığı çok belirgin.",
       "neden": "puan 5 < 7"
@@ -19790,7 +20013,6 @@
      {
       "id": "328662b9ced8904f",
       "url": "https://pixabay.com/get/g24e9695989002def2ad7f38db237f5ef68df01cfd2e02dd5bfbaa45f6229e63b58b0377de0d4ff26be136873c2a040a83e86df9c58d7b20db8535af27248bc98_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Çarşı/cadde atmosferi var ancak yabancı bir şehir olduğu için haberle zayıf bağlantılı.",
       "neden": "puan 4 < 7; kesin ret: baska_sehir (manhattan, new york)"
@@ -19798,7 +20020,6 @@
      {
       "id": "76f3ea703e41964a",
       "url": "https://pixabay.com/get/g343586be39aa9687b89c1e72f1c054e4d40c8963ded7c19963b0a28cda12fa1c65c6f45bfd3500904215dc4775739c5aec1d7eccf6a837d86038428678c26dce_640.jpg",
-      "kaynak": "pixabay",
       "puan": 3,
       "gerekce": "Haberin konusu olan Manavgat çarşısı ile hiçbir görsel benzerliği yok.",
       "neden": "puan 3 < 7"
@@ -19806,7 +20027,6 @@
      {
       "id": "9cc6f7181f112d5c",
       "url": "https://pixabay.com/get/gb21a5d9cfd003ba6a4254e25abfe9cd5d3c0c73adf2314301a4e3b11687281e36cc5f3de67d595b72ac0e4070f2526428634196c0a9c518ce5efd5d5ee535d77_640.jpg",
-      "kaynak": "pixabay",
       "puan": 3,
       "gerekce": "Hırsızlık şüphesi uyandırabilecek karanlık bir ortam ancak haberle doğrudan bir ilgisi yok.",
       "neden": "puan 3 < 7"
@@ -19814,7 +20034,6 @@
      {
       "id": "777a69c06b81dc32",
       "url": "https://pixabay.com/get/g153bea25d6fa3024a86d5ace2c60def7e97bd2751f77817f4f08391c00a4b72a65a65120a88671c3e120159d15d8f2690646b4ddd7ea748264111e3b2272fc3f_640.jpg",
-      "kaynak": "pixabay",
       "puan": 4,
       "gerekce": "Cadde görüntüsü olsa da yabancı bir şehir olduğu için haberle uyumsuz.",
       "neden": "puan 4 < 7"
@@ -19822,7 +20041,6 @@
      {
       "id": "2591120e71dc9e87",
       "url": "https://pixabay.com/get/gee39bcc3937b43e7b0ac47c55bfe839b3553a3dc757caebb2da6f96d8e864eb5a5ba7bbf27a83b2c91140236131098ce2a468c3e23bc34eb3ebe01f498193d8e_640.jpg",
-      "kaynak": "pixabay",
       "puan": 3,
       "gerekce": "Haberin konusuyla ilgisi olmayan, tamamen farklı bir coğrafyaya ait bir görsel.",
       "neden": "puan 3 < 7"
@@ -19830,15 +20048,10 @@
      {
       "id": "12a95e8406b7429c",
       "url": "https://pixabay.com/get/g6c9b3788191543eb642f292a9f605607b597dcc6366e6942531658845a401be6d2acfadf6fe6b29ae164a07c268cc6946f1ac3086198c295acf662bb7f45d8a7_640.jpg",
-      "kaynak": "pixabay",
       "puan": 5,
       "gerekce": "Genel bir cadde/yaya görüntüsü, haberin konusuyla dolaylı bir bağlantı kurulabilir.",
       "neden": "puan 5 < 7"
      }
-    ],
-    "notlar": [
-     "kurum sitelerinde aynı haber bulunamadı",
-     "Commons 'Manavgat': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
     ],
     "karar": "kaldir",
     "sonuc": "eşiği (7) geçen uygun görsel yok"
@@ -19851,7 +20064,7 @@
   },
   "20261127-lvbel-c5-bu-aksam-antalyada-sahne-alacak-8311d.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:18+03:00",
+   "tarih": "2026-11-27T23:13:11+03:00",
    "baslik": "Lvbel C5 bu akşam Antalya'da sahne alacak",
    "durum": "bekliyor",
    "metin": {},
@@ -19869,21 +20082,179 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Konser haberini genel olarak destekliyor ancak sanatçının kendisini veya Antalya'daki mekanı göstermiyor.",
-     "gorunen": "Konser alanında ellerini havaya kaldırmış kalabalık.",
+     "gerekce": "Haberde adı geçen sanatçıya dair bir görüntü yok, sadece genel bir konser atmosferi yansıtılmış.",
+     "gorunen": "Konser alanında ellerini havaya kaldırmış kalabalık ve sahne ışıkları.",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
+    },
+    "brief": {
+     "ana_konu": "Lvbel C5'in Antalya'da vereceği konser.",
+     "olmasi_gereken": [
+      "sahne",
+      "mikrofon",
+      "konser kalabalığı"
+     ],
+     "varliklar": [
+      {
+       "ad": "Lvbel C5",
+       "tur": "kisi"
+      },
+      {
+       "ad": "The Bar Kaleiçi",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "stüdyo kaydı",
+      "boş sahne"
+     ],
+     "sorgular_en": [
+      "concert stage performance",
+      "rapper on stage",
+      "live music concert"
+     ],
+     "sorgular_tr": [
+      "konser sahnesi",
+      "müzik konseri"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "8b8c5e0dd0b05342",
+      "url": "https://pixabay.com/get/g7028e1f13c15142c2fed5e3e377484248e918a121e401abae75faaecfb74fef7578f800c2f094b966672a7f8f6434e0341efd9569b4229162d13ec8e4455311e_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261127-demre-noel-baba-festivali-arali)"
+     },
+     {
+      "id": "572f7250b2d56c8e",
+      "url": "https://pixabay.com/get/g7201bb20a794b7044fca61a9ecc6070219b24fe069292d59107221d5a92a95bf3c0c977eb5a5cdb336935fcb7364d94681da7212379391d9ff79286cb422acad_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Genel bir konser atmosferi yansıtıyor, haberin konusuyla dolaylı olarak ilgili.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "c37856df940f7478",
+      "url": "https://pixabay.com/get/g00c2ec1f52db8b4ea2365a344f06696e195208e09ca29d7f45ffde6963ad7e987c0d5c49b0ed1c191065d75e88d02215d2b56c7f4c9d2b7ebf6a0fb979f65451_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haberin konusuyla tamamen alakasız ve gerçek dışı bir görsel.",
+      "neden": "puan 0 < 7; kesin ret: celiski"
+     },
+     {
+      "id": "09baeffcf5fa37de",
+      "url": "https://pixabay.com/get/gd25e33f4662a488da189dc0b53a2f81d678d606c0dfb1e07ec0117db30b05959fccf4257c6dd9c0c0499ca6002896b0d497c299b8846d4f23b1c1341b3590ef4_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Rapçi görseli haberle ilgili ancak sanatçı Lvbel C5 değil, genel bir temsil.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "e2aed2437d79ab56",
+      "url": "https://pixabay.com/get/ga825cb07b96f768cd862aadb233ea91e9b4e3fe01ff3164635f16361b0c6e7ff9f1a5633d88041ade9df120fb240d5c9d6036e0af244a3ed1ac627d6eba1c1f4_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Konser atmosferini yansıtan genel bir görsel.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "502a43fac813f69c",
+      "url": "https://pixabay.com/get/g1c3043050427460b3b38af7768d329e30f2a82c832ff577e38a59b23132f565c2ff61bf4383ac748a77aa8ec9405c48a96e002392942437cd7494c29e2794bf2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Stüdyo kaydı olduğu için kaçınılması gerekenler listesinde yer alıyor.",
+      "neden": "puan 4 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "e002867076cb4239",
+      "url": "https://pixabay.com/get/g5ee4f0f2b3da547838ddbd9013e28a72961931879b73bf85e84b0beab16888104538c2dc45fa62ad94a4f5a75e1683b0792bed7a1d286e161220feb4e1f6699b_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Konser atmosferini yansıtan genel bir görsel.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "beb200bff1e73739",
+      "url": "https://pixabay.com/get/ga97223ad4d1100a7eb5f38291c7ff9913bed470fe5ef01dcce82cae3be49d36b9fb6de5d489c525f18bbb42662280ac32301b09df7d15feed02f3b3d7da95b38_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Konserle ilgili bir nesne ancak çok genel ve cansız.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "28642d7bea18c31f",
+      "url": "https://pixabay.com/get/g846d3c2ade9ba94578e30a9c7c6ae01702f439b45254dcdb1cab1ecba4c01c0e0b8df02fb3de81ab5369b29f493598ea7ae4a757ee26a426f7c1f324af0ab1bf_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haberin konusuyla ilgisi olmayan sanatsal bir fotoğraf.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "b3ad933602e18018",
+      "url": "https://pixabay.com/get/gab664b1f61ba9df291396812085c4d26c56146cc1f06b984a3d6b834151286b449323babb614bab4357f06eac6b6452209a30e8ee7f6aa4cf19159caaf971027_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Haberde adı geçen kişi yerine başka bir sanatçının fotoğrafı kullanılmış.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Lvbel C5': 3 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'The Bar Kaleiçi': 2 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'konser sahnesi': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'müzik konseri': 12 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "83bf29600ec8acb8",
+     "yerel_url": "/images/haber-gorsel/83bf29600ec8acb8.jpg",
+     "kaynak": "pixabay",
+     "puan": 7,
+     "gerekce": "Konser atmosferini ve sahneyi net bir şekilde gösteriyor.",
+     "gorunen": "Sahne ışıkları ve kalabalık bir konser alanı.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gc1ad2145f3703a32a8e511ef37575a80acbe5e097cc269b205b18376d958737beeb12f81798ddab2eae68b19713b35db6c4ba734efd028ef9a8f5329d631b9c0_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/83bf29600ec8acb8.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Sahne ışıkları ve kalabalık bir konser alanı.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 7/10: Konser atmosferini ve sahneyi net bir şekilde gösteriyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "33dca9729064",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 7,
+      "esik": 7,
+      "gerekce": "Konser atmosferini ve sahneyi net bir şekilde gösteriyor.",
+      "tarih": "2026-11-27T23:19:54+03:00"
+     },
+     "kimlik": "83bf29600ec8acb8",
+     "phash": "c6bf6b84cc1f0385",
+     "konum": "50% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-kumluca-ciftcisinin-sulama-ve-vergi-sorunlari-meclise-6085a.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:19+03:00",
+   "tarih": "2026-11-27T23:13:13+03:00",
    "baslik": "Kumluca çiftçisinin sulama ve vergi sorunları Meclis'e taşındı",
    "durum": "bekliyor",
    "metin": {},
@@ -19900,22 +20271,22 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 5,
-     "gerekce": "Çiftçilik faaliyetini gösteriyor ancak haberin ana konusu olan Meclis gündemi veya sulama sorunlarıyla doğrudan bir bağ kurmuyor.",
-     "gorunen": "Sera ortamında toprakla uğraşan bir çiftçi.",
+     "puan": 7,
+     "gerekce": "Haberdeki tarımsal faaliyet ve çiftçi vurgusunu somut olarak destekliyor, okuru yanıltmıyor.",
+     "gorunen": "Sera ortamında toprakla uğraşan, kırmızı eldivenli bir çiftçi.",
      "ihlaller": [],
-     "taninir_yuz": false,
-     "neden": "puan 5 < 7"
-    }
+     "taninir_yuz": false
+    },
+    "karar": "korundu",
+    "alt_sonra": "Sera ortamında toprakla uğraşan, kırmızı eldivenli bir çiftçi."
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
+   "degisiklik_var": true,
+   "grup": "toplu",
    "grup_nedeni": []
   },
   "20261127-konyaaltindaki-doga-projesine-avrupadan-14-milyon-liralik-d1de5.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:20+03:00",
+   "tarih": "2026-11-27T23:13:14+03:00",
    "baslik": "Konyaaltı'ndaki doğa projesine Avrupa'dan 14 milyon liralık hibe",
    "durum": "bekliyor",
    "metin": {},
@@ -19932,22 +20303,170 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 5,
-     "gerekce": "Haberdeki doğa projesiyle dolaylı bir ilgisi var ancak Konyaaltı veya projeyle doğrudan bir bağlantı kurmuyor.",
-     "gorunen": "Doğa yürüyüşü yapan çocuklar",
+     "puan": 6,
+     "gerekce": "Doğa projesi ve kuşaklar arası buluşma temasını dolaylı olarak yansıtıyor.",
+     "gorunen": "Doğada yürüyüş yapan sırt çantalı üç çocuk.",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 5 < 7"
+     "neden": "puan 6 < 7"
+    },
+    "brief": {
+     "ana_konu": "Konyaaltı Belediyesi'nin doğa projesine Avrupa'dan hibe desteği.",
+     "olmasi_gereken": [
+      "doğa",
+      "yürüyüş yolu",
+      "ormanlık alan"
+     ],
+     "varliklar": [
+      {
+       "ad": "Konyaaltı Belediyesi",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "şehir trafiği",
+      "inşaat alanı"
+     ],
+     "sorgular_en": [
+      "nature hiking trail",
+      "green forest path",
+      "outdoor nature activity"
+     ],
+     "sorgular_tr": [
+      "doğa yürüyüşü",
+      "orman yolu",
+      "Konyaaltı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "2ba3c7ca81573c33",
+      "url": "https://pixabay.com/get/gd948bb274e8a5f497431bc71ca862131db0c1132d2afadc3d4502749683d43c80467d3af1d0f3cde9ff5b24f5b3e3a07ae4a3d366c3bf7895dcc0758e106290f_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Haberin ana teması olan doğa ve yürüyüş yolu unsurlarını net bir şekilde yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "54f4e1200c657965",
+      "url": "https://pixabay.com/get/gbba5363c3e31094b3d1fe4c21c45dbe0ef4c0000f2f9c2925b63e9713404b84f2bf23ea566c96a655b835a1ed1aeeee764ca060ef9e07c5a20cbe2f935ba8ced_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Doğa ile ilgili olsa da haberin odak noktası olan proje ve mekandan ziyade spor yapan bir kişiye odaklanıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "d5f565691295f72b",
+      "url": "https://pixabay.com/get/g0ec50e4367b8623cb0c19c6b4f885e634af2eb8a78da2464a05351f593fe12b300b7b4a3058bbb5d0703da4f651ded1927998d6e61aba5a6a474a75291a050d1_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Konyaaltı haberi için İsviçre Alpleri görseli kullanılması coğrafi olarak yanıltıcıdır.",
+      "neden": "puan 4 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "9054af1e7764bb1b",
+      "url": "https://pixabay.com/get/g7c5700309dabfdf272b804878dcae669dc214f4fd9fce34d8e4b2e9cf2b374fde69691659cce4eada89cda1ff1541350_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Doğa projesi ve orman yolu temasını başarıyla temsil eden estetik bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "a463bab6d1548108",
+      "url": "https://pixabay.com/get/g373afe7e6a0f29bd8c86a84292c766f0cb57d877254dece0cc5a5994a0e0eb3efca78b513066e52968a79c5f4dac186d324349adae600aa32e0f88c6c6d7590d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Haberin doğa projesi odağından uzak, daha çok bireysel bir aktiviteyi yansıtıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "af9516c3fdef7999",
+      "url": "https://pixabay.com/get/g5956da17c5de10713a08095e3ba83bc23147aedca13594b0aa48c16a67de997ae3be26867cd9f6a532fa11789e369f853e0a070bd947678f438d900e5ab55a07_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Doğa yürüyüşü temasını destekliyor ancak haberin genelini yansıtmaktan ziyade detay bir görsel.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "4b290f3b2a227c7a",
+      "url": "https://pixabay.com/get/g20e1b0b046db032fa820b9c220a999fe037d53115175d01e8e7de064c5244b8b3f3d16a8e54658a67ad8afe625dc7926cd85485d2160884230c068d597a2747e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Doğa ve yürüyüş yolu temasını genel bir manzara ile iyi bir şekilde veriyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "62a77b1733094266",
+      "url": "https://pixabay.com/get/g30c05d9c64a73c9b20381c1fec2a12c32d42dc03dd651458173f2f4ec446db827bd45594b650f51aff3fc3c55a4141921cad44db6ff5eaa5b0d187de8ba6bf41_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Doğa temasıyla ilgili olsa da haberin belediye projesi ve hibe odağından uzak kalıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "28bd23ebd756e6cd",
+      "url": "https://pixabay.com/get/ga15b9ba760c6d7e647ce834c64663a2b6674edcb62f8cb8bf4fc2ee0c37df29cc1b80ce42555236f3dceea8119ac94c7_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Haberin konusu olan doğa projesi ve yürüyüş yolu temasına uygun, atmosferik bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Konyaaltı Belediyesi': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'doğa yürüyüşü': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'orman yolu': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "4555dea5fa0afda4",
+     "yerel_url": "/images/haber-gorsel/4555dea5fa0afda4.jpg",
+     "kaynak": "pixabay",
+     "puan": 9,
+     "gerekce": "Haberin konusu olan doğa projesi ve yürüyüş yolu temasını en iyi yansıtan, kaliteli bir görsel.",
+     "gorunen": "Orman içinde güneş ışığı alan bir yürüyüş yolu.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g4db171f1c3993ee1466e7f458f2504867b833c5cd0c32f3ef7b5b3a4900206d247d0b72684d074deaed38625f52db8fdd6e60053a2f92a3651a6e7f394a60897_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/4555dea5fa0afda4.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Orman içinde güneş ışığı alan bir yürüyüş yolu.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: Haberin konusu olan doğa projesi ve yürüyüş yolu temasını en iyi yansıtan, kaliteli bir görsel.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "b7ae991bb748",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "Haberin konusu olan doğa projesi ve yürüyüş yolu temasını en iyi yansıtan, kaliteli bir görsel.",
+      "tarih": "2026-11-27T23:20:05+03:00"
+     },
+     "kimlik": "4555dea5fa0afda4",
+     "phash": "d2419c4f744b76c9",
+     "konum": "50% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-kepezde-ozel-bireylere-yonelik-projeler-degerlendirildi-4241c.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:22+03:00",
+   "tarih": "2026-11-27T23:13:16+03:00",
    "baslik": "Kepez'de özel bireylere yönelik projeler değerlendirildi",
    "durum": "bekliyor",
    "metin": {},
@@ -19964,18 +20483,173 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 5,
-     "gerekce": "Engelli bireylere yönelik projelerle ilgili genel bir görsel, ancak haberdeki toplantı veya kurumla doğrudan bir bağı yok.",
-     "gorunen": "Tekerlekli sandalyede oturan bir adam",
+     "puan": 4,
+     "gerekce": "Haberdeki 'özel birey' vurgusunu destekliyor ancak görseldeki kişi haberle ilgisiz, stok fotoğraf olduğu belli.",
+     "gorunen": "Tekerlekli sandalyede oturan güneş gözlüklü bir erkek.",
      "ihlaller": [],
+     "taninir_yuz": true,
+     "neden": "puan 4 < 7"
+    },
+    "brief": {
+     "ana_konu": "Kepez Belediyesi'nin özel bireylere yönelik projelerinin değerlendirilmesi.",
+     "olmasi_gereken": [
+      "toplantı masası",
+      "insanlar",
+      "belediye binası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Kepez Belediyesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Kepez Belediyesi Kent Konseyi Engelliler Meclisi",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "hastane ortamı",
+      "tıbbi cihazlar"
+     ],
+     "sorgular_en": [
+      "community meeting",
+      "inclusive social project",
+      "people talking in a meeting"
+     ],
+     "sorgular_tr": [
+      "belediye toplantısı",
+      "sosyal proje toplantısı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "876b818a10b4f06a",
+      "url": "/images/kurum/6b9f73f14177184a.jpg",
+      "kaynak": "kurum",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261127-kepez-belediyesinden-engelsiz-y)"
+     },
+     {
+      "id": "9f6dee3e3e0d5152",
+      "url": "https://pixabay.com/get/gf338514e0bde5e7f29e73d2e1eafe3c53d128950c4dcbce4eab298561b1b8a892dd82016bfda631cacb8cf905b068ea92664237a512d034ac044b3e14b83164e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Toplantı veya iş birliği temasını dolaylı olarak yansıtıyor ancak belediye veya meclis ortamını göstermiyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "d40a7904b6ba4ed5",
+      "url": "https://pixabay.com/get/g7966306fc69cb43f3d6a5fa23a6748879d18fbae98f59269bc617d966b3ecd01ea5754881e76fe2d9facce5d2976075ee7f9ca552469c97f7447d3851b92a6a2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haberle hiçbir ilgisi olmayan, tamamen alakasız bir görsel.",
+      "neden": "puan 0 < 7"
+     },
+     {
+      "id": "6caf54386e622e2c",
+      "url": "https://pixabay.com/get/gf9bbff95b827791842aad218fe20b6c0137cf5532959bedffa0c5ee6354a6975e61b11b70a62dc2092655b76f7f31e7316b6ec6a51186714063936ebeba36a5f_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "İş birliği ve toplantı temasını yansıtıyor ancak belediye meclisi atmosferinden uzak.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "ef38a9d3a9cbc050",
+      "url": "https://pixabay.com/get/g6a1d7bbb3a7e30f61fe96e614ff4712c643be0ebb933f10ca56e6c0f509e7fd02c929e32c0454a0f8f410efa5aba99696301fe299886740a4f7783c0e85face8_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Engelli bireylere yönelik bir etkinlik olabilir ancak haberdeki toplantı ve değerlendirme vurgusunu karşılamıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "5dad79f063c2c4ab",
+      "url": "https://pixabay.com/get/g2957717e0e6a630f6d1c2d7a10d1962bcb590d6e3b0c87d683316c8cb1bf1fd446f2e9a62dca30eeb2be11f856dd5ee9ddd5adef1ccd2e70784e6bb7de1b4b3b_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haberin konusuyla hiçbir ilgisi bulunmayan, alakasız bir görsel.",
+      "neden": "puan 0 < 7"
+     },
+     {
+      "id": "62b41d8ea27aad0d",
+      "url": "https://pixabay.com/get/gadfdf83c7b5fd631fad619336fddb7cb78e1bdc99e238f53e09478e8f779c1b25fa718a9d79c3c41b68d3f49c04d018e3422af59fe6442842f7d0e9b9dfebe93_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Toplantı ortamını gösterse de, görseldeki kişilerin ve ortamın Türkiye'deki Kepez Belediyesi ile ilgisi yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "689d1958dfdc2372",
+      "url": "https://pixabay.com/get/g5e1af4c111e67ff7f51695832fd4ca70cc5341889fe0454ea1eb295bf7c51faf3f1da8f8e5657c4e0375b2a12a9ab950_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Toplantı ve çalışma ortamını net bir şekilde yansıtıyor, haberin içeriğiyle uyumlu.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "08230185b015adbd",
+      "url": "https://pixabay.com/get/g3fcef926788ff5eac52c72b68c7fd1273324ce339c9c16a3993d1726ed961d00167eb72a9e08eacb9eff1589e85d4e59d01d84dda2c40234a84a36d4ea90e37d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haberle hiçbir ilgisi olmayan, tamamen alakasız bir doğa görseli.",
+      "neden": "puan 0 < 7"
+     },
+     {
+      "id": "698d5ef7be1938fe",
+      "url": "https://pixabay.com/get/g78bb5e1b52304c947e49b93ef6c42f51c193a244276976556f7353d61e51e69986155708cc22b2220178c730327eb51b02cff56e2f23c07e0dd50de0904995ad_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Kurumsal bir toplantı havası verse de, haberin konusu olan engelliler meclisi ile doğrudan bir bağı yok.",
+      "neden": "puan 5 < 7"
+     }
+    ],
+    "notlar": [
+     "Commons 'Kepez Belediyesi': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'belediye toplantısı': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "dab455596872e8e9",
+     "yerel_url": "/images/haber-gorsel/dab455596872e8e9.jpg",
+     "kaynak": "pixabay",
+     "puan": 8,
+     "gerekce": "Haberin konusu olan toplantı ve çalışma ortamını başarıyla yansıtıyor, brief'teki unsurlarla uyumlu.",
+     "gorunen": "Masa başında çalışan ve toplantı yapan bir grup insan.",
      "taninir_yuz": false,
-     "neden": "puan 5 < 7"
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gf89c5bd43ab17b18cae81740d735e19d8d58cee47ebc73bf1eca43600c7d9811317fc6e0ea6fff5bcddb5c14983603a46b0a1e41df3de63293073f92839d1bae_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/dab455596872e8e9.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Masa başında çalışan ve toplantı yapan bir grup insan.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Haberin konusu olan toplantı ve çalışma ortamını başarıyla yansıtıyor, brief'teki unsurlarla uyumlu.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "a0510a0d96e3",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Haberin konusu olan toplantı ve çalışma ortamını başarıyla yansıtıyor, brief'teki unsurlarla uyumlu.",
+      "tarih": "2026-11-27T23:20:19+03:00"
+     },
+     "kimlik": "dab455596872e8e9",
+     "phash": "d0877e908f699356",
+     "konum": "50% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-kepez-belediyesinden-engelsiz-yasam-icin-kapsamli-projeler-15bfc.md": {
    "surum": "t2",
@@ -19993,9 +20667,6 @@
     "once": {
      "url": "/images/kurum/6b9f73f14177184a.jpg",
      "tur": "gercek",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 9,
      "gerekce": "Haberde adı geçen kurumun toplantısını ve mekanını birebir gösteriyor.",
      "gorunen": "Kepez Kent Konseyi Engelliler Meclisi toplantısı",
@@ -20011,7 +20682,7 @@
   },
   "20261127-kemerde-ogrenciler-icin-dalis-ve-bilgilendirme-etkinligi-e699b.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:22+03:00",
+   "tarih": "2026-11-27T23:13:16+03:00",
    "baslik": "Kemer'de öğrenciler için dalış ve bilgilendirme etkinliği düzenlendi",
    "durum": "bekliyor",
    "metin": {},
@@ -20028,22 +20699,22 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 6,
-     "gerekce": "Haberdeki dalış etkinliğini temsil ediyor ancak Kemer'de çekildiğine dair bir kanıt veya özel bir bağ yok.",
-     "gorunen": "Sualtı dalışı yapan bir dalgıç",
+     "puan": 8,
+     "gerekce": "Haberdeki dalış etkinliğini açıkça gösteriyor, konuyla doğrudan ilgili.",
+     "gorunen": "Sualtında dalış yapan ve 'tamam' işareti yapan bir dalgıç.",
      "ihlaller": [],
-     "taninir_yuz": false,
-     "neden": "puan 6 < 7"
-    }
+     "taninir_yuz": false
+    },
+    "karar": "korundu",
+    "alt_sonra": "Sualtında dalış yapan ve 'tamam' işareti yapan bir dalgıç."
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
+   "degisiklik_var": true,
+   "grup": "toplu",
    "grup_nedeni": []
   },
   "20261127-istanbul-karmasi-uefa-regions-cup-7-grup-macinda-ikinci-oldu-fd456.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:22+03:00",
+   "tarih": "2026-11-27T23:13:16+03:00",
    "baslik": "İstanbul karması UEFA Regions Cup 7. grup maçında ikinci oldu",
    "durum": "bekliyor",
    "metin": {},
@@ -20060,22 +20731,149 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 4,
-     "gerekce": "Futbol maçı olduğu için konuyla ilgili ancak haberdeki İstanbul Karması veya Polonya ekibiyle bir bağı yok.",
+     "puan": 5,
+     "gerekce": "Haberle ilgili bir futbol maçı görseli ancak İstanbul Karması veya UEFA Regions Cup ile doğrudan bir bağlantısı yok, genel bir spor görseli.",
      "gorunen": "Futbol maçı oynayan oyuncular",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 4 < 7"
-    }
+     "neden": "puan 5 < 7"
+    },
+    "brief": {
+     "ana_konu": "İstanbul Karması'nın UEFA Regions Cup'taki ikinciliği.",
+     "olmasi_gereken": [
+      "futbol sahası",
+      "futbolcular",
+      "futbol topu"
+     ],
+     "varliklar": [
+      {
+       "ad": "İstanbul Karması",
+       "tur": "takim"
+      },
+      {
+       "ad": "Arslan Zeki Demirci Spor Kompleksi",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "basketbol sahası",
+      "tenis kortu"
+     ],
+     "sorgular_en": [
+      "football match",
+      "soccer players on field",
+      "stadium match"
+     ],
+     "sorgular_tr": [
+      "futbol maçı",
+      "Arslan Zeki Demirci Spor Kompleksi"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "a1019a08867dd2a2",
+      "url": "https://pixabay.com/get/g34db0b5e70ceed58fa56b81885a2f0e861f97a82cce6ef991c9de93aa0ad616ccb32cede52157feb3c5bbdd624e6631bca9e973ce29714741606872d06e7262a_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-antalyasporda-juergen-elitim-an)"
+     },
+     {
+      "id": "2087ef8f96192e3b",
+      "url": "https://pixabay.com/get/ge80414fb12940b57c985daabf35bc03f1bc5ab993769c84515d04b24d5e3cd5fa5e96ed4673828d2085d4d3c7c8005a322c987662ce6a6b3fb238045c02ef04a_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-antalyaspor-ve-alanyaspordan-be)"
+     },
+     {
+      "id": "f457459fc5fadd2f",
+      "url": "https://pixabay.com/get/g038a613a92ec3a2c6f84691e65e1e25a7ee4d50ffce4a730bcd23e4aefe8a079066ba387718ee1a1f8ee0049911db6e6101041665eb4d9ad0483c6e099a5fb8a_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyaspor-kotu-gidise-konyaspo)"
+     },
+     {
+      "id": "b738edef7afac053",
+      "url": "https://pixabay.com/get/g0a242f5d2fef5a718cdc908e959b8d1cd4b2901762634f40b0fbd929bf13caecaa5c9538fc4e32f292b92907b0e5d90fa80d2226b5d96bb0e0ec1923dbc8e7fd_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261127-alanyaspor-ile-konyaspor-alanya)"
+     },
+     {
+      "id": "5dfc5c1fe53482a3",
+      "url": "https://pixabay.com/get/g2e6ef7a43b837d155b5fa1daff8f3b8301627c66a107287eb2ff3618277713f4e8a14c89a9ae763beb67951b465d2c27c1c81bb294e54cdab4893fb1fa988eb6_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-mahalle-macinda-sopali)"
+     },
+     {
+      "id": "cb9fc730e1f7a7e9",
+      "url": "https://pixabay.com/get/ge6a2b2ea5ef17f4a60b5eb1c8b076ca1bf803cbddcbc628fe3e33e39ecc16a7d47a68af9aebeed8bcec51b6cf4f4b68196551ffef33fbe05b5a38c8110c9db19_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261127-gurcistandaki-macin-ardindan-go)"
+     },
+     {
+      "id": "3bc848e42e8f7009",
+      "url": "https://pixabay.com/get/g1c28e8b5987c6f3f1ca82ee5e84854e55759fe76b0206c55e898f2ad3635e16d9c94f567f3673ac7ca42cc81a27963d60d8573c5e75135289fa92902d5872b04_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Haberin konusuyla ilgili genel bir görsel ancak İstanbul Karması veya turnuvayı yansıtmıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "ce847c6ab5c158e0",
+      "url": "https://pixabay.com/get/g982615fcdc6ab1a8a0d71fe16c66e68c69d12711740ff4a7829a0d2bb04b7bb9c4fc0041d05080ce6d403c84d0a8c29feb2e8875fe6d5249a4ba0ff7df3452ea_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Futbol temalı genel bir görsel, haberin içeriğiyle doğrudan bir bağı yok.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "1a6c84a0459ea193",
+      "url": "https://pixabay.com/get/g9681b64fb643958543cf70bc4de06f6f32328e4491eb8bc4450f4e8d2515aef6d77c70ba96868b547cc43da5e0d76272_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haber futbol ile ilgiliyken boks görseli kullanılması tamamen çelişkilidir.",
+      "neden": "puan 0 < 7; kesin ret: celiski"
+     },
+     {
+      "id": "5aa6cd77d7a37e4e",
+      "url": "https://pixabay.com/get/gfe825ad4d8f9e5d521290ba35aaf27e9871d3cbda457aeef2143c645bf185aa47367f37f59f34f6858ea40f6ac267d2347262c8fae21898759a8ce04607a998e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Futbol temalı genel bir görsel, haberin içeriğiyle doğrudan bir bağı yok.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "3e4075b32c690b02",
+      "url": "https://pixabay.com/get/g0b642a043df35d0cdbf2e3fc76b3aee20c3f148e8b7b59150d1d7a3bd70a906fe1b070d8aea8389cfe47eaaaed5a77153df7a890f14ce499629fb606508f0aa8_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Haberin konusuyla ilgili genel bir görsel ancak İstanbul Karması veya turnuvayı yansıtmıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "ae8e61ff48f956b1",
+      "url": "https://pixabay.com/get/gd86a434c0a7e37ad986029d8ffe92a66656e0b96865f4940a5dcf6fa6d856936ad748ee72e203349bd0f2e52c2f64cce876babefa96b1c98bc5930bd2ed9a7b1_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Futbol temalı genel bir görsel, haberin içeriğiyle doğrudan bir bağı yok.",
+      "neden": "puan 5 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'İstanbul Karması': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'futbol maçı': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)"
+   ]
   },
   "20261127-gurcistandaki-macin-ardindan-gozaltina-alinan-besiktasli-8a935.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:23+03:00",
+   "tarih": "2026-11-27T23:13:18+03:00",
    "baslik": "Gürcistan'daki maçın ardından gözaltına alınan Beşiktaşlı taraftarlar serbest",
    "durum": "bekliyor",
    "metin": {},
@@ -20094,18 +20892,145 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 3,
-     "gerekce": "Haber Beşiktaş taraftarlarının gözaltına alınmasıyla ilgili, ancak görsel sadece genel bir stadyum görüntüsü, olayla ilgisi zayıf.",
+     "puan": 4,
+     "gerekce": "Haberle ilgili bir stadyum görseli ancak Gürcistan'daki olayla veya Beşiktaş ile doğrudan bir bağı yok, genel bir stadyum fotoğrafı.",
      "gorunen": "Dolu bir futbol stadyumu",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 3 < 7"
-    }
+     "neden": "puan 4 < 7"
+    },
+    "brief": {
+     "ana_konu": "Gürcistan'da gözaltına alınan Beşiktaşlı taraftarların serbest bırakılması.",
+     "olmasi_gereken": [
+      "Beşiktaş taraftarı",
+      "futbol atkısı",
+      "stadyum"
+     ],
+     "varliklar": [
+      {
+       "ad": "Beşiktaş",
+       "tur": "takim"
+      }
+     ],
+     "kacinilacaklar": [
+      "polis merkezi",
+      "kelepçe",
+      "mahkeme salonu"
+     ],
+     "sorgular_en": [
+      "football fans cheering",
+      "stadium crowd",
+      "soccer supporters"
+     ],
+     "sorgular_tr": [
+      "Beşiktaş taraftarı",
+      "futbol stadyumu"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "5dfc5c1fe53482a3",
+      "url": "https://pixabay.com/get/g7677c149f89436fe4d39e9b324e458006fb8e1afe49759741c87c99b2bafc412faf626481498042c9a0b593fd77020ced264e4e75d4b647f6a8741f37434ab9a_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-mahalle-macinda-sopali)"
+     },
+     {
+      "id": "5d933238d4519fb7",
+      "url": "https://pixabay.com/get/gfe44469bc2d0b0940c8697bdddf5d450a67d463d0479bf9097988f1cfa1336ae053c05d27fed6c47eab3167a877189b87967132d92a198f5e391c6c55f0774e2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Brezilya bayrağı ve forması haberle tamamen ilgisizdir, okuru yanıltır.",
+      "neden": "puan 2 < 7; kesin ret: yabanci_bayrak"
+     },
+     {
+      "id": "4427a805ff96f03b",
+      "url": "https://pixabay.com/get/gabc6aa636a9982b65c48f1224c2786d703b07330e8dc3a1b627feb07429aa01c945cd6bef102e527a89e34c02518cdbf_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir stadyum görüntüsü, Beşiktaş ile doğrudan bir bağı yok ancak taraftar atmosferini yansıtıyor.",
+      "neden": "puan 5 < 7; kesin ret: baska_sehir (barcelona)"
+     },
+     {
+      "id": "cb9fc730e1f7a7e9",
+      "url": "https://pixabay.com/get/g0eadadabfb9199cedcd75d153be377c36c55cdbc7884e9b654b5cc67dbf6661810577df3b5ec4d0202822e56e4577fd41a877a04b63c0a83b60031c2d39d431f_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir stadyum görseli, haberin atmosferini yansıtmak için dolaylı olarak kullanılabilir.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "dedea6150c2a391d",
+      "url": "https://pixabay.com/get/gf2d35d3f2b98fa420cf20059fda56992e70fa9c89f1271c0b262ec22f742922d5191501a2ec7d74851fc8decf2fe716ec363e047c22b5c92439f092c6aafa718_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir taraftar grubu görseli, haberin içeriğiyle dolaylı olarak ilgili.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "07fc3807fa4a55f9",
+      "url": "https://pixabay.com/get/g2ba1fa07d88ab1fc34811264142ba27b7cc9caa9f99517a5083d29f4b0beff7bb24652dd73c3b8dd3297102b8c69fc1c217093ca2a8562f96851e806db3da956_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Avusturya bayrağı haberle ilgisizdir ve okuru yanıltır.",
+      "neden": "puan 2 < 7; kesin ret: yabanci_bayrak"
+     },
+     {
+      "id": "d9d28a2c23915f8a",
+      "url": "https://pixabay.com/get/gb540958f8f5cd50d0e96a18abc5edb5d642bda57e4d6bda349a8e5b9349607b719c2b9afa21a26ed0786b70cc958cd2c0ce452bda6f03f94ffef8b8593fe882c_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haberle ilgisi olmayan, başka bir ülkeye ait bir stadyum ve şehir silueti.",
+      "neden": "puan 2 < 7; kesin ret: baska_sehir (los angeles)"
+     },
+     {
+      "id": "3a032c5f48855ec4",
+      "url": "https://pixabay.com/get/g9766b4a19528fb32c7699debec45b05328b1e763f2df83b2ce097c0224e98903fb252d9961c8477664b590a0cd787340ff816fd00cf8296ab0c819eca39eccaa_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberle hiçbir ilgisi olmayan, stok görsel niteliğinde bir obje fotoğrafı.",
+      "neden": "puan 1 < 7; kesin ret: yabanci_bayrak"
+     },
+     {
+      "id": "594307252f287ae9",
+      "url": "https://pixabay.com/get/g1d3bbb4c17787170733e92ba5b77978763e17fea6bf477280a01e3d92df14776826018373a7f28eec540d0d2cec0fd362e23677de31806b4fba010322ebad46a_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir taraftar görseli, haberin konusu olan taraftar atmosferini yansıtıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "f29432ffe7fede79",
+      "url": "https://pixabay.com/get/gf6b1896e89565fe81a33ec449dd0124ac5458ebee38f127fbc11abfc913eb65194c2cb865ef94d3d3f2ca38583f0e2e7_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Genel bir stadyum görseli, ancak eski bir maç olduğu için güncel haberde kullanımı zayıf.",
+      "neden": "puan 5 < 7; kesin ret: baska_sehir (berlin); güncel haberde eski/arşiv fotoğrafı"
+     },
+     {
+      "id": "cd80ce62dd4825b8",
+      "url": "https://pixabay.com/get/g7c6caf568e50ae06f52462556ad0aaed354e5a96159016ab18e2ecead493a3f595e0215f914d72963643d18828c91d5d7c6c59fdd1dd0bfcf5c19b956b785a41_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haber Beşiktaş ile ilgiliyken başka bir kulübün logosunu/bayrağını kullanmak hatalıdır.",
+      "neden": "puan 1 < 7; kesin ret: logo"
+     }
+    ],
+    "notlar": [
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %40)",
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %46)",
+     "Commons 'Beşiktaş': 2 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Beşiktaş taraftarı': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)"
+   ]
   },
   "20261127-growtech-tarim-fuarinda-startup-yarismasi-odulleri-02410.md": {
    "surum": "t2",
@@ -20123,9 +21048,6 @@
     "once": {
      "url": "/images/kurum/2ca984b0c3e1a16a.jpg",
      "tur": "gercek",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 9,
      "gerekce": "Haberin içeriğiyle doğrudan ilgili, fuar ortamını ve konuşmacıyı net bir şekilde yansıtıyor.",
      "gorunen": "Growtech Tarım Fuarı'nda kürsüde konuşma yapan bir yetkili ve izleyiciler.",
@@ -20157,9 +21079,6 @@
     "once": {
      "url": "/images/haber-gorsel/f2a92c55f4700f81.jpg",
      "tur": "stok",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 8,
      "gerekce": "Haberde adı geçen hava yolu şirketini ve uçağını doğru bir şekilde temsil ediyor.",
      "gorunen": "EasyJet logolu bir yolcu uçağı pistte duruyor.",
@@ -20175,7 +21094,7 @@
   },
   "20261127-demre-noel-baba-festivali-aralik-ayinda-renkli-etkinliklere-30055.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:23+03:00",
+   "tarih": "2026-11-27T23:13:18+03:00",
    "baslik": "Demre Noel Baba Festivali Aralık ayında renkli etkinliklere sahne olacak",
    "durum": "bekliyor",
    "metin": {},
@@ -20193,21 +21112,141 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Festival atmosferini yansıtan genel bir konser görseli, ancak özel bir festival detayı içermiyor.",
-     "gorunen": "Sahne ışıkları altında konser izleyen kalabalık bir kitle.",
+     "gerekce": "Festival atmosferini yansıtıyor ancak Demre'deki Noel Baba Festivali ile özel bir bağı olmayan genel bir konser görseli.",
+     "gorunen": "Gece konserinde sahne ışıkları ve kalabalık",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
-    }
+    },
+    "brief": {
+     "ana_konu": "Demre Noel Baba Festivali hazırlıkları.",
+     "olmasi_gereken": [
+      "festival alanı",
+      "süslemeler",
+      "meydan"
+     ],
+     "varliklar": [
+      {
+       "ad": "Demre",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "karlı kış manzarası (festival aralıkta)",
+      "kapalı alan"
+     ],
+     "sorgular_en": [
+      "festival square",
+      "outdoor festival celebration",
+      "cultural event"
+     ],
+     "sorgular_tr": [
+      "Demre",
+      "festival alanı",
+      "Noel Baba Meydanı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "89076d794ad60fc2",
+      "url": "/images/kurum/f319b75ca1c16488.jpg",
+      "kaynak": "kurum",
+      "puan": 5,
+      "gerekce": "Haberle doğrudan ilgili ancak bir basın toplantısı görüntüsü olduğu için festivalin atmosferini yansıtmaktan uzak ve görselde baskın yazı/logo bulunuyor.",
+      "neden": "puan 5 < 7; kesin ret: yazi_logo"
+     },
+     {
+      "id": "5d5de029cebe200a",
+      "url": "https://pixabay.com/get/g0e13fcd945888327bfdbc0f85f99b9fd9ef0bd444ffa682498ee8624d985822f03e296099969618c6042954971df8fa7c7bf5b7fdbbe8b8e302a3fb24fd71a0f_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Yabancı bir şehirdeki Noel pazarını gösteriyor, Demre ile ilgisi yok.",
+      "neden": "puan 2 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "a866ef16954e70a1",
+      "url": "https://pixabay.com/get/g81cf81738b74f330363ba436278ce9988a1d5419514a01d1ab5e0bcb705be9580542ab5ad435483a94d92f8e571b1e42_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Festival atmosferini çağrıştırsa da genel bir stok görsel, Demre ile bağı yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "d36fda03e9143645",
+      "url": "https://pixabay.com/get/g88997b63c02fab8b9e50426972d5a915e7a7b9332c24d22d113378c8541484ce46df70344b1d083d05ab9ac88428a9ad47dcb075c08657564dc285ad8d330861_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberle hiçbir ilgisi olmayan, tamamen farklı bir kültürel etkinliğe ait görsel.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "5e03b04f0deecb23",
+      "url": "https://pixabay.com/get/g68245976beacc2626cccc3a4e1677bfa2f4b63adca9f2e4e76bf979e1fb8c1f37d2e9d012eaaa7654afadaccab26f732a94a7b46a7ebdd465a014387401bc818_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Yabancı bir şehirdeki Noel pazarını gösteriyor, Demre ile ilgisi yok.",
+      "neden": "puan 2 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "d344111b17418295",
+      "url": "https://pixabay.com/get/g4d1480aae4edef9559a3b11c2d79e4838392b1f3b2f4583ad22c0062acee0f55f4602748ca1af62fc38b64db41bcee026c16ab85051b53b7d7cd08b5accd0bdf_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Festival temasına uygun olsa da Demre ile ilgisi olmayan genel bir stok görsel.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "5424586255908d2f",
+      "url": "https://pixabay.com/get/g61447b38891ca958407a5747559aced9d1423f5201ae63379cc27aa605e763234dacf81d2061a415778cc4fa8e3290abc20a4d3c47d9fad0f617123c8d9420e2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberle ilgisi olmayan, tamamen farklı bir kültürel etkinliğe ait görsel.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "3d008b0c318196fe",
+      "url": "https://pixabay.com/get/g268212f9f62b81bcdad5d465131099d1cf74851ab8fb061fd8ce564772963ef713fa8c254d2f59c2e22d27951b2cf10f76558850e5852c3368c9746bb90b23ab_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Yabancı bir şehirdeki Noel atmosferini gösteriyor, Demre ile ilgisi yok.",
+      "neden": "puan 2 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "8ec841802df0075c",
+      "url": "https://pixabay.com/get/ga2f5a75b9ba698e7f0ec13c29688b8fabb4691e811cf41d6d59126eb66e49d3fd3db67b3115e02e83e885346920651389697a7654a75460a4b1f03a0c18a7333_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberle ilgisi olmayan, genel bir stok görsel.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "38ed5f2044bf7263",
+      "url": "https://pixabay.com/get/gb079d7a4c6ef95d902cf6f9ad2e1248450d9f32b4e1352876cdfef37123726197ec28213a6207100f6b85f3c9a368df811474c6d71fd9d13f7ddd529400a791a_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Festival atmosferini çağrıştırsa da Demre ile ilgisi olmayan genel bir stok görsel.",
+      "neden": "puan 2 < 7"
+     }
+    ],
+    "notlar": [
+     "Commons 'Demre': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Demre': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'festival alanı': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)"
+   ]
   },
   "20261127-antalyadaki-sampiyonadan-dereceyle-dondu-9d11b.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:25+03:00",
+   "tarih": "2026-11-27T23:14:43+03:00",
    "baslik": "Antalya'daki şampiyonadan dereceyle döndü",
    "durum": "bekliyor",
    "metin": {},
@@ -20224,24 +21263,143 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 2,
-     "gerekce": "Haber Antalya'da geçmesine rağmen görseldeki tabela yabancı dilde, yerel bir şampiyonayı temsil etmiyor.",
-     "gorunen": "Taekwondo yapan sporcular.",
-     "ihlaller": [
-      "kacinilacak"
-     ],
+     "puan": 5,
+     "gerekce": "Haber Antalya'daki bir şampiyonadan bahsediyor ancak görseldeki tabela yabancı dilde (Hintçe/Kannada) ve ortam yerel bir şampiyonayı yansıtmıyor.",
+     "gorunen": "Taekwondo antrenmanı yapan sporcular",
+     "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 2 < 7; kesin ret: kacinilacak"
-    }
+     "neden": "puan 5 < 7"
+    },
+    "brief": {
+     "ana_konu": "Kağan Binici'nin Antalya'daki Okul Sporları Taekwondo İl Şampiyonası'nda ikinci olması.",
+     "olmasi_gereken": [
+      "taekwondo sporcusu",
+      "tatami",
+      "madalya"
+     ],
+     "varliklar": [
+      {
+       "ad": "Mevlüt Çavuşoğlu Spor Lisesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Kağan Binici",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "futbol sahası",
+      "basketbol topu"
+     ],
+     "sorgular_en": [
+      "taekwondo athlete",
+      "taekwondo match",
+      "martial arts competition"
+     ],
+     "sorgular_tr": [
+      "taekwondo müsabakası",
+      "taekwondo sporcusu"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "36d09e3fe12f579b",
+      "url": "https://pixabay.com/get/gf7a9ec3565e1d46dda77f69893019b0e240b60ee1b3d81517309fb584c629a851775eb2c4cf67bcc22e8fd5fb07e8a9c8165fabfba1b996b1caa5059e3b298f9_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Taekwondo sporcusunu gösteriyor ancak müsabaka ortamı değil, dış mekanda çekilmiş bir stok fotoğraf.",
+      "neden": "puan 5 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "e52bc2a4daec0669",
+      "url": "https://pixabay.com/get/g45ef9f9f24b51c1fe956ef82fa7474ff523e635d66697376722fa7e606e608286336df5f7498efc117e254278110e7aec892584a97d9e9561e17427a54130dcc_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Taekwondo müsabakasını ve sporcuları net bir şekilde gösteriyor. Müsabaka ortamına uygun bir görsel.",
+      "neden": "kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "30164b1e907b17d5",
+      "url": "https://pixabay.com/get/g3e747e9bb1f7244b752c74d62bc3ea8b80c3cbfce45225ffe2a18652b087cf0cbcf4caeb9cbad521139e9f517e56566af8113731e57b43398fa1043c62f74be9_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Sadece sporcuların sırtını ve kuşaklarını gösteriyor, haberin içeriğini tam olarak yansıtmaktan uzak.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "eda23d9c4f54677c",
+      "url": "https://pixabay.com/get/gb4691b9f05f1cec291f69e36234266115495359d4ff2e8e4bb00d37f86f7c13ea751f26534dd3e5d00e2fb6d5cd6684217bce7ce93b862c3d2c1b352394511df_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Sanatsal bir görsel ancak haberin içeriğiyle doğrudan bir bağı yok, çok genel bir görsel.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "f14a88e5af1abee2",
+      "url": "https://pixabay.com/get/gcadbd7457537deff558db79b5f67df2c66074acef1754505cb14751b07c65b7527f01eab1c174ecec72c9211cf057aed1d89bf9a5fc34d928eec899f4c05f7a8_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "3. aday ile aynı görsel, haberin içeriğini yansıtmıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "bfe4f9cbcb9b961d",
+      "url": "https://pixabay.com/get/g1c23c01bbc553eaeac74b5b1546be332ca7548861e466431a99c8927e9b74e7b11627f6bb7c8c7c45c99b55b463f2fadde6f95ee2f82dcbd048004ff02fc0a3d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Görsel taekwondo değil, jiu-jitsu/MMA müsabakasıdır. Haberle çelişmektedir.",
+      "neden": "puan 3 < 7; kesin ret: celiski; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "9a43d4582260c1a5",
+      "url": "https://pixabay.com/get/g040aaf115f2f4d19fa91d2e76469c84a5dda9317ae919e7def8a2de1c9ed2ff38be8ca4358fcfa3c6c297449f948d679_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Taekwondo sporcusunu gösteriyor ancak müsabaka ortamı değil, stüdyo/duvar önü çekimi.",
+      "neden": "puan 5 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "5e8e6cff96e32551",
+      "url": "https://pixabay.com/get/gb1bec7c1a5caaed043abf24124fdac1705770815fae5b2c397bc11f252c89c048020d8f55351095f2cc863c920beaa455185c1253075ba83d6a747713acba31c_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haberle hiçbir ilgisi olmayan, tamamen alakasız bir görsel.",
+      "neden": "puan 0 < 7"
+     },
+     {
+      "id": "632fd87b3aa710ed",
+      "url": "https://pixabay.com/get/g08ec6382963369bf5c130fbd58e9a55720cf6dd07012ede62614c6743b230c1bd568f1bb71e152886ec17f24361033645b9184d8259e60b3f33035d449979522_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Müsabaka ortamını gösteriyor ancak haberdeki sporcu erkek olduğu için tam eşleşmiyor.",
+      "neden": "puan 6 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "ad87565f4789cd8e",
+      "url": "https://pixabay.com/get/gc8081b5f6dc2443747e8b663230366e4fde6afb18116d1c26bc8e1699aa62fe5533af20c43b9dadbcba1f8c594360891efdfa1b7eb2fcf41c04c603ab40755af_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Taekwondo sporcusunu gösteriyor ancak müsabaka değil, antrenman görüntüsü.",
+      "neden": "puan 5 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)"
+   ]
   },
   "20261127-antalyadaki-otoyol-ve-yol-projelerine-elestiri-b2f22.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:27+03:00",
+   "tarih": "2026-11-27T23:14:50+03:00",
    "baslik": "Antalya'daki otoyol ve yol projelerine eleştiri",
    "durum": "bekliyor",
    "metin": {},
@@ -20259,21 +21417,147 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 4,
-     "gerekce": "Haber Antalya'daki yol projeleriyle ilgili ancak görsel genel bir otoyol manzarası, yerel bir bağlam taşımıyor.",
-     "gorunen": "Kırsal bir alanda uzanan otoyol manzarası.",
+     "gerekce": "Görsel genel bir otoyol fotoğrafı, Antalya'daki projeyle doğrudan bir bağı yok, stok fotoğraf niteliğinde.",
+     "gorunen": "Kırsal alanda uzanan bir otoyol manzarası",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 4 < 7"
-    }
+    },
+    "brief": {
+     "ana_konu": "Antalya'daki otoyol projelerine ve yüksek geçiş ücretlerine yönelik eleştiriler.",
+     "olmasi_gereken": [
+      "otoyol",
+      "trafik yoğunluğu",
+      "yol çalışması"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya",
+       "tur": "mekan"
+      },
+      {
+       "ad": "D400 Karayolu",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "tren rayları",
+      "havaalanı pisti"
+     ],
+     "sorgular_en": [
+      "highway traffic",
+      "asphalt road",
+      "busy road"
+     ],
+     "sorgular_tr": [
+      "otoyol",
+      "trafik yoğunluğu",
+      "karayolu"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "71bf91fe555becde",
+      "url": "/images/kurum/eddf036eb5b36e82.jpg",
+      "kaynak": "kurum",
+      "puan": 6,
+      "gerekce": "Haberin konusu olan otoyol projesiyle ilgili genel bir yol görüntüsü sunuyor ancak trafik yoğunluğu veya çalışma detayını içermiyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "b05e53dba37f3daf",
+      "url": "https://pixabay.com/get/gb9e322fed310e7807c220915633f21e54e2e1a43ad0dd660d97dca33b057c80589469be97944a153e8a7caf56ea3abb05b41ee816fe7c74fd59c45c240813408_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Antalya'nın iklimiyle çelişen karlı bir görüntü. Otoyol temasına uygun olsa da yerel bağlamdan uzak.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "6c23d36a8747b011",
+      "url": "https://pixabay.com/get/g98dce3a0f17f71a32e8bc3d92d1ef6e0a5c6d17e6d10072c88239991d1c9d0e9e108f01c906fe4e46e7f0cca6a641183_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Otoyol projesi için genel bir temsil sunuyor ancak trafik yoğunluğu veya eleştiri konusunu yansıtmıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "2234541a792b14b9",
+      "url": "https://pixabay.com/get/gc749d05fceb1f929ce6cb9a2191aeeac36144b6b857658ce1444c0529edd3320a42c1c594432f41c228a30c6e778105d391e23472d5fc14b86f5fb7183463b18_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haberle ilgisi olmayan yabancı bir şehir görüntüsü. Antalya haberi için uygun değil.",
+      "neden": "puan 2 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (hong kong)"
+     },
+     {
+      "id": "8800095de9630a2a",
+      "url": "https://pixabay.com/get/g30a9b9012c10473438cb42537ab1c44160f755275d44394d4d5fee09fff09fa2bbd5b7f6d813aeeb9632d0d5e2a81bd2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Trafik yoğunluğunu soyut bir şekilde temsil ediyor ancak yerel bir bağlamı yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "ea80ccb8860fab92",
+      "url": "https://pixabay.com/get/g431fe7e11e5a3392f70dfa796471729831cb867faa914752afb56b28798ffe496a92390f2110547d52b71070dd6777040943dc05d5e16510c56fb5432b951228_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Antalya'daki otoyol projesiyle görsel olarak ilgisi yok, çok farklı bir coğrafyayı yansıtıyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "dca5ae01fe7232ce",
+      "url": "https://pixabay.com/get/ga3e86b0a481bdffa2b7558f7790486e2e99dee1a7e45606bc45cf1866c4a35bee3dd8cb42aab09f692d8aed2a693a874f388d489b0cec75d90dfd8f0589bdf8e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haberin konusu olan otoyol ve yol projesiyle doğrudan bir ilgisi bulunmuyor.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "9b92bb71e2aea8bb",
+      "url": "https://pixabay.com/get/gda15fb90754b13913d095cb9f70620183926e6832f0f94cd68867104cf7e61f1b9eb9c648683e43d538f36fd89e4378fa33d75e4bd11c180d9e9cd76252ea6f2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Trafik yoğunluğunu gösteriyor ancak Antalya ile bir bağı yok, genel bir stok görsel.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "77fb80e70c6e1a0c",
+      "url": "https://pixabay.com/get/g776d6484f26f31aea455fdb94995aef57f6b205a4d5b14a162b3d90422f80bb4c6962e3fb1df8437f5149d1a4caf1894c6149222898c7cafc99bf0417c6bf29d_640.png",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Otoyol projesiyle ilgili genel bir görsel ancak haberin eleştirel tonunu veya trafik sorununu yansıtmıyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "afa3d2b74217582b",
+      "url": "https://pixabay.com/get/gd2951a4451e567ac64dac34cea01527fa77bc19d8fe705cb73c2629384d0ab03d09f105558fb254c8d2d942f04108e3249ed0d60fb3c8c60678413637dfd8522_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin konusu olan otoyol projeleriyle hiçbir ilgisi olmayan, alakasız bir görsel.",
+      "neden": "puan 1 < 7"
+     }
+    ],
+    "notlar": [
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %44)",
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %38)",
+     "Commons 'Antalya': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'D400 Karayolu': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'otoyol': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)"
+   ]
   },
   "20261127-antalyada-duzenlenen-ozel-gastronomi-gecesinde-ozgun-26650.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:27+03:00",
+   "tarih": "2026-11-27T23:14:50+03:00",
    "baslik": "Antalya'da düzenlenen özel gastronomi gecesinde özgün lezzetler sunuldu",
    "durum": "bekliyor",
    "metin": {},
@@ -20291,21 +21575,172 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 6,
-     "gerekce": "Gastronomi etkinliğini temsil eden genel bir sofra görseli, ancak haberin özel içeriğini doğrudan yansıtmıyor.",
-     "gorunen": "Restoran masasında şık bir sofra düzeni.",
+     "gerekce": "Gastronomi gecesi konseptine uygun ancak haberdeki özel etkinliğe ait değil, genel bir restoran görseli.",
+     "gorunen": "Restoran masası düzeni",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 6 < 7"
+    },
+    "brief": {
+     "ana_konu": "Antalya'da düzenlenen özel bir gastronomi etkinliğinde sunulan yemekler.",
+     "olmasi_gereken": [
+      "gurme yemek tabağı",
+      "şarap kadehi",
+      "restoran masası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Corendon Playa Kemer Hotel",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "fast food",
+      "sokak yemeği"
+     ],
+     "sorgular_en": [
+      "gourmet food plating",
+      "fine dining table",
+      "wine pairing"
+     ],
+     "sorgular_tr": [
+      "gurme yemek",
+      "şarap sunumu",
+      "gastronomi"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "490a7534f2406eb0",
+      "url": "https://pixabay.com/get/g8a8ed1253d4caa0d16ee24f6b9492896ca767707c9e324c559b0e68c720c8f4814bd813b661ea3319d1f5b8f3377313e0656c69e14ef933a19b84665a7d0e863_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261127-kemerde-gastronomi-dunyasinin-s)"
+     },
+     {
+      "id": "85b24567a70367fe",
+      "url": "https://pixabay.com/get/g29e82b666834ce673ad91e9b93b9828f8e802ee4ae95fd03d1b139d062a8918035053aefb848786dbffd78978959b74206f14251b53d2c05635448a7eaa1d913_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Gurme yemek tabağı görseli, ancak şarap eşleşmesi veya restoran atmosferi eksik.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "a8a6ce20a66383ce",
+      "url": "https://pixabay.com/get/g3bf23e5e51669bdbb008dc889a6b13550b1d1ab08777adf72b5efe79627dfe6b9860b5bef715b78871c772609785e5ba_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Şarap eşleşmesini temsil ediyor ancak yemek tabağı ve restoran ortamı yok.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "eeea1b2e46ceb63b",
+      "url": "https://pixabay.com/get/gf54f8eeabfa49c0e6ed81e73fb345db229378f1eb22c9ab7aeebc720b7c14ae146e77e350d2374a42bd8a72c30d814bc_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Gastronomi etkinliği atmosferini yansıtıyor, ancak odak noktası olan yemek tabağı eksik.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "a48f04b569a7c800",
+      "url": "https://pixabay.com/get/g56c8623ff61c6d1a068e3735dec558be14782e8a8f738482c0582af6d85d60c9062936314d881a95cb1078d55272996c778e05d7512da510f150dbc4d48f8eba_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Şarap sunumu var ancak gurme yemek tabağı yerine sadece peynir bulunuyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "5d4a722c7cd94950",
+      "url": "https://pixabay.com/get/gf8be2e5cb53469a8e5b64edf6312c4dcbadfb27c25046c75b1513d30459267d013dbadb2eeb3c8095b6a2fff063117b94609393033ab69eb8352d2999edde2d8_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Gurme yemek tabağı görseli, ancak şarap eşleşmesi ve restoran atmosferi eksik.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "ab908b937e9638e0",
+      "url": "https://pixabay.com/get/gac3e4c3cbb8cdcf1365698af7382f0abfe171ba46fdeec413db65e5730361e2616217df7529daf5cad1185dc7471bd8484b8f8b28f2a108a135371f7627eda81_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Gurme yemek tabağı görseli, ancak şarap eşleşmesi ve restoran atmosferi eksik.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "f0b9de42165a51d4",
+      "url": "https://pixabay.com/get/g0b8c0b75dfb37d0c2532a0144737dacb625d161df4b570ee63756faf07b3bebd8cdf0fe97802fe1fa9ba9750c651a8a2ac449c24b54e9c2f13dc946f9fe4f875_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Şarap sunumu var ancak gurme yemek tabağı eksik, daha çok bir şarküteri tabağı gibi.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "4e5a4608133400d9",
+      "url": "https://pixabay.com/get/g6da83baa5d37f8336d2cced644e25f11f7e36be86cc7ae310719a36c38e168eb047ae2b6d6d6d43e7a54be4995bbae0a8348fe0b5056577f67d21c3c674c8cd8_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haberdeki gastronomi etkinliği ve şarap eşleşmesi ile ilgisi olmayan bir tatlı görseli.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "957d8d7799124745",
+      "url": "https://pixabay.com/get/g6dc152c98eb19b9933c8102dd16c0f959dfe8dbbcdcce657ab3057821117a3d1cee4a524b31839e141281623f4851a6d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Restoran atmosferi, gurme yemek ve şarap kadehleri bir arada, etkinliği iyi yansıtıyor.",
+      "neden": "kesin ret: baska_sehir (berlin)"
+     }
+    ],
+    "notlar": [
+     "Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %6)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "4b85be0e6659e501",
+     "yerel_url": "/images/haber-gorsel/4b85be0e6659e501.jpg",
+     "kaynak": "pixabay",
+     "puan": 8,
+     "gerekce": "Gurme yemek tabağı ve şarap eşleşmesini bir arada gösteriyor, etkinliğin ruhuna uygun.",
+     "gorunen": "Restoran ortamında şık bir tabakta sunulan lazanya ve yanında şarap kadehi.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gd4003b394af2c6a30f0857d89b6b9324a53f5385b5515de42f1bf1af2dc3d35a5f24697b7ea0d55979f8c2377c019ce1b70c1def7ab80c05a2752fad64591bac_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/4b85be0e6659e501.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Restoran ortamında şık bir tabakta sunulan lazanya ve yanında şarap kadehi.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Gurme yemek tabağı ve şarap eşleşmesini bir arada gösteriyor, etkinliğin ruhuna uygun.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "36bb68b4eb5e",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Gurme yemek tabağı ve şarap eşleşmesini bir arada gösteriyor, etkinliğin ruhuna uygun.",
+      "tarih": "2026-11-27T23:26:12+03:00"
+     },
+     "kimlik": "4b85be0e6659e501",
+     "phash": "e06531c26f31cea7",
+     "konum": "50% 60%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-antalyada-cocuk-acil-ve-yogun-bakim-kongreleri-800-kisinin-aee4f.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:27+03:00",
+   "tarih": "2026-11-27T23:14:50+03:00",
    "baslik": "Antalya'da çocuk acil ve yoğun bakım kongreleri 800 kişinin katılımıyla başladı",
    "durum": "bekliyor",
    "metin": {},
@@ -20323,23 +21758,177 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Kongre haberini genel olarak yansıtıyor ancak çocuk sağlığıyla ilgili spesifik bir detay içermiyor.",
-     "gorunen": "Konferans salonunda oturan katılımcılar.",
+     "gerekce": "Kongre ortamını yansıtıyor ancak haberdeki çocuk acil ve yoğun bakım kongresiyle doğrudan bir bağlantısı yok, genel bir toplantı görseli.",
+     "gorunen": "Konferans salonunda oturan katılımcılar",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
+    },
+    "brief": {
+     "ana_konu": "Antalya'da düzenlenen çocuk acil tıp ve yoğun bakım kongreleri.",
+     "olmasi_gereken": [
+      "kongre salonu",
+      "doktorlar",
+      "sunum ekranı"
+     ],
+     "varliklar": [
+      {
+       "ad": "Türk Çocuk Acil Tıp ve Yoğun Bakım Derneği",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Belek Turizm Merkezi",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "hastane odası",
+      "ameliyathane"
+     ],
+     "sorgular_en": [
+      "medical conference",
+      "doctors meeting",
+      "seminar room"
+     ],
+     "sorgular_tr": [
+      "tıp kongresi",
+      "sağlık çalışanları"
+     ],
+     "tarihi_haber": false,
+     "hassas": true
+    },
+    "reddedilen": [
+     {
+      "id": "31f40cdb27f0c25f",
+      "url": "https://pixabay.com/get/ga8f73fe6368ecb751c446ba6b3e2b858dbd8f6100cf4b0fcf00aea942e55a3418218c43e603da491cbe5093168ec6daf012971c706776a43cd1c34f807f90b06_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261127-alanyada-309-egitimciye-bilimse)"
+     },
+     {
+      "id": "6a7444df9c3104a8",
+      "url": "https://pixabay.com/get/g86d86328103bca72c4d69540d8fba4879ad3ed6d2ee92c0fb42feb09bfa7dae203e33d02059dc7518f14914bebeefd200488f5c969f8081ce912337d0a849d32_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Kongre ortamını çağrıştırıyor ancak genel bir stok fotoğraf, kongreye dair spesifik bir detay içermiyor.",
+      "neden": "puan 5 < 7; hassas haberde tanınabilir kişi"
+     },
+     {
+      "id": "564612262e879ff3",
+      "url": "https://pixabay.com/get/g268a2a3b29ee912727e6b38b444b531a6be4537a437761f63b84b6fbf4401176a01c5cbbc95856abc18be716331887c37682743c5fbe16463c2219783d7a9f75_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Doktor görüşmesini gösteriyor ancak kongre atmosferinden uzak, birebir hasta-hekim görüşmesi gibi duruyor.",
+      "neden": "puan 5 < 7; hassas haberde tanınabilir kişi"
+     },
+     {
+      "id": "03fd64417256a26d",
+      "url": "https://pixabay.com/get/g04a32488326d3bedba69f640fbc78d0589d7c8580dd165ca2d7a09123145a1ca0d63ea29b215b8f85ed69c4294dec91a4e77d8aa8eb2a944dd80ab0ad714aba2_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Kongrelerdeki profesyonel etkileşimi temsil edebilir ancak çok genel bir stok görsel.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "0003a6d8a5f2198f",
+      "url": "https://pixabay.com/get/ga2d3949b3e19957aef47e9c359d53a2ec14503bdffb30c1cb81b1493771d783ff16106e2a0888c390ea94281106ab3ba1058e97ee5055e50260ab12de81b2658_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Kongre mekanı olabilir ancak insan unsuru eksik, çok cansız ve genel bir görsel.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "d7927dbfede9f552",
+      "url": "https://pixabay.com/get/g4231d7cc9c1b51de64de3b684710be5d219a87a36ea3868a15fbf4c2a5ac9a7a92f3f4b274918984ef904de7b35275d1c846e13f2743efea1451501928f9dd15_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Kongre salonu atmosferini yansıtıyor, konuyla dolaylı olarak ilgili.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "053e901151acf5b1",
+      "url": "https://pixabay.com/get/g2627a0fc7fe7aaca6beeb2b5713a907c1bd0b9548e24a99583579240fe2a450e5aaed7d1b1a4dee71e20e1aac4ab5e620d965372562f3d71266de6c3d1a3732d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 0,
+      "gerekce": "Haberin konusuyla ilgisiz ve gerçek dışı bir fotomontaj.",
+      "neden": "puan 0 < 7; kesin ret: celiski; hassas haberde tanınabilir kişi"
+     },
+     {
+      "id": "d7055439ceac82e6",
+      "url": "https://pixabay.com/get/gb7072ec72171a71d4fe942df1759876478b93deaec36af31a0b3fa458fefc78f45714a03ede98b333891b26bac65c0dfd5b83ebd13b85e8a50311b785e76f1b6_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Kongre mekanı için uygun bir görsel ancak katılımcıların olmaması etkisini azaltıyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "0288108cf883d887",
+      "url": "https://pixabay.com/get/g5b1b2381faaa4cd71830ada0b214e77b9eeb3159b88ab790eb43bdb8b5974b7e4db141f9cbe089946d579dd057354bc56c49d6717e621d94cc90f5eeaf7cc50e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Aday 3 ile benzer, profesyonel bir etkileşimi gösteriyor ancak çok genel.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "c956cd7d37cbcc8d",
+      "url": "https://pixabay.com/get/gb6c66dea9cca3d462c755b9d428ae1caca423b181bf16f3fa6aee7f74f10a1da6085868bcf212ad3049de4a2017ef472d16713df4c7b5be6c822d37ec720a8b1_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Kongre mekanı olarak kullanılabilir, temiz ve düzenli bir görsel.",
+      "neden": "puan 6 < 7"
+     }
+    ],
+    "notlar": [
+     "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %15)",
+     "Commons 'sağlık çalışanları': 12 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "5d3c11daebfcae27",
+     "yerel_url": "/images/haber-gorsel/5d3c11daebfcae27.jpg",
+     "kaynak": "pixabay",
+     "puan": 7,
+     "gerekce": "Sağlık çalışanlarının bir araya gelmesini ve iş birliğini iyi temsil ediyor, kongre ruhuna uygun.",
+     "gorunen": "Ellerini birleştiren bir grup sağlık çalışanı.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g448ec659be921c7c1f1030c7b4bbc44ddc84bd0c4fabb8365f772c4d4778278a83dae11ad0ded2e46c9f7634bc6fbafb683f2513be817fda15f270f2629fb7e3_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/5d3c11daebfcae27.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Ellerini birleştiren bir grup sağlık çalışanı.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 7/10: Sağlık çalışanlarının bir araya gelmesini ve iş birliğini iyi temsil ediyor, kongre ruhuna uygun.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "fdf26bb25a15",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 7,
+      "esik": 7,
+      "gerekce": "Sağlık çalışanlarının bir araya gelmesini ve iş birliğini iyi temsil ediyor, kongre ruhuna uygun.",
+      "tarih": "2026-11-27T23:26:49+03:00"
+     },
+     "kimlik": "5d3c11daebfcae27",
+     "phash": "d5aa19578669925d",
+     "konum": "50% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
+   "degisiklik_var": true,
+   "grup": "tek",
    "grup_nedeni": [
+    "görsel değişiyor",
     "ölüm/suç/intihar/çocuk haberi"
    ]
   },
   "20261127-antalya-toptanci-hali-esnafinin-kira-duzenlemesi-komisyona-29964.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:27+03:00",
+   "tarih": "2026-11-27T23:14:50+03:00",
    "baslik": "Antalya toptancı hali esnafının kira düzenlemesi komisyona iade edildi",
    "durum": "bekliyor",
    "metin": {},
@@ -20356,24 +21945,148 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 2,
-     "gerekce": "Görseldeki etiketler Almanca, Türkiye'deki bir hal ile ilgisi yok ve yazı yoğunluğu görseli bozuyor.",
-     "gorunen": "Almanca etiketli meyve ve sebze reyonu.",
-     "ihlaller": [
-      "yazi_logo"
-     ],
+     "puan": 4,
+     "gerekce": "Haber Antalya hal esnafı ile ilgili ancak görseldeki etiketler Almanca, bu da Türkiye'deki bir hal ile ilgisiz olduğunu gösteriyor.",
+     "gorunen": "Almanca etiketli meyve ve sebze reyonu",
+     "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 2 < 7; kesin ret: yazi_logo"
-    }
+     "neden": "puan 4 < 7"
+    },
+    "brief": {
+     "ana_konu": "Antalya Büyükşehir Belediye Meclisi'nde hal esnafının kira düzenlemesinin görüşülmesi.",
+     "olmasi_gereken": [
+      "belediye meclis salonu",
+      "toplantı masası",
+      "mikrofon"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya Büyükşehir Belediyesi",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "sebze hali",
+      "pazar yeri"
+     ],
+     "sorgular_en": [
+      "city council meeting",
+      "municipal assembly",
+      "politicians meeting"
+     ],
+     "sorgular_tr": [
+      "belediye meclisi",
+      "Antalya Büyükşehir Belediyesi"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "8419d4437caf67fe",
+      "url": "https://pixabay.com/get/g56ce4bbb46cad87dfd64445bef08ad4a41ab85068defd4114eea0859f206633a0b04ddf4d0c8ba069db2d04d35a599cd8fa700d3b3760a788218064020374fed_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-kayit-disi-emlakcilikl)"
+     },
+     {
+      "id": "6bfa56a51341331e",
+      "url": "https://pixabay.com/get/gdbdd8625f21615e815b8b3f5327d779f185f12b077c3ea0f2b945250c95da26deba2eba5c93ad4c4837cd88f8411209f2159538800b56ff75856cf7357248af3_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberle hiçbir ilgisi olmayan, yurt dışından bir şehir manzarasıdır.",
+      "neden": "puan 1 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "51b7ed2c5d4ea333",
+      "url": "https://pixabay.com/get/g439f49f2a29cd45af08068708eec4ade63b1fedeb118e26feae47dc0d8308267753edc61b6ad0440a01fc63e75ab1861ca173166ab8541a2414dd710e4ead444_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Haberde kaçınılması istenen 'hal/pazar' ortamına benzer bir üretim alanı ve konuyla ilgisiz işçiler yer alıyor.",
+      "neden": "puan 2 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "916e01d2c0f74f45",
+      "url": "https://pixabay.com/get/ged1d2e1fdd1f052d6d5500617dec84f5ddeda35561f9b277576202860593dd1dde3a1d447515ca56f109f020b9935197d4e420d1b912ad9f9ec0218a90289b0c_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Belediye meclisi toplantısını andıran bir masa başı görüşme sahnesi, ancak yerel bir belediye meclisi atmosferinden uzak.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "31c4acf41f049c81",
+      "url": "https://pixabay.com/get/gc0abadc776872a3f09cc9fed862556f6261d9800274ddee233855bf5cf718b611a2c4f23755604d27885f1f7408971c0c4822484be94712e6523bd6c0157904a_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin konusuyla tamamen alakasız, sokakta motosikletli kişileri gösteren bir görsel.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "c86211ce05a50485",
+      "url": "https://pixabay.com/get/gc78933fe74778fd2a2a84e98fe0e6eb9655e7118fb090b336cd6aa668e368e611d9b60030f5e0868407702ee234474443ea4a7f14640c179768ed3e305842e50_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin ciddiyetiyle bağdaşmayan, oyuncak figürlerini gösteren ilgisiz bir görsel.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "ba6db2e74715c5c4",
+      "url": "https://pixabay.com/get/ge71aeb530ffd4be44e1258e12848948523099fd6be3185f6bc98a530be3c4716d95960b6735195e7e3f82204d7c35a79_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberle ilgisi olmayan, tarihi bir yabancı devlet görüşmesi.",
+      "neden": "puan 1 < 7; kesin ret: yabanci_kurum; güncel haberde eski/arşiv fotoğrafı"
+     },
+     {
+      "id": "3501a93ff123e29c",
+      "url": "https://pixabay.com/get/gad2a5be12f00c2412c041518656ce5857a1192c2f61741744315e856aac77f94dde2e9c4db813714d8451c0d21ac5123_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 6,
+      "gerekce": "Belediye meclisi ortamını yansıtıyor ancak yabancı bir parlamento binası olduğu için puanı düşüktür.",
+      "neden": "puan 6 < 7; kesin ret: yabanci_kurum"
+     },
+     {
+      "id": "0109360c3b621f04",
+      "url": "https://pixabay.com/get/gd8a147ad7588f48bdaee7e4b156ffc8b107e611d727af015c4956327db9a74f6c7ea1e5fb22c7530f5bccf52f15ac9abdbcac6294153cbac9dbfb5dce8f41688_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin konusu olan kira düzenlemesi ve belediye meclisi ile ilgisi olmayan bir bahçıvanlık görseli.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "86c96035169f85b5",
+      "url": "https://pixabay.com/get/g807ffec79e76f5a1dc9cd32ae418830dbe0e3c33db0b037f3b72c8f39b476aa728f36902c677db6c43036544af611b34_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Toplantı ortamı uygun olsa da yabancı bir devlet başkanının yer alması haberi yanıltıcı kılar.",
+      "neden": "puan 5 < 7; kesin ret: yabanci_kurum"
+     },
+     {
+      "id": "235d7ba76a0c4102",
+      "url": "https://pixabay.com/get/g3305169bad5b27ca79e13bb50429bcf5bba56d8b9aff2871c6edcfa80326089a1b6d96f2965effe8e40c1b9e756125f26f815745f57000274f417f2917244fc6_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin konusuyla tamamen alakasız, bir enstrüman atölyesini gösteren görsel.",
+      "neden": "puan 1 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Antalya Büyükşehir Belediyesi': 11 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'belediye meclisi': 6 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Antalya Büyükşehir Belediyesi': 11 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)"
+   ]
   },
   "20261127-antalya-rusyadan-duzenlenecek-charter-ucuslarla-binlerce-86175.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:27+03:00",
+   "tarih": "2026-11-27T23:14:50+03:00",
    "baslik": "Antalya, Rusya'dan düzenlenecek charter uçuşlarla binlerce turist ağırlayacak",
    "durum": "bekliyor",
    "metin": {},
@@ -20390,22 +22103,180 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 6,
-     "gerekce": "Charter uçuş haberini temsil eden genel bir uçak görseli, konuyla dolaylı ilgili.",
-     "gorunen": "Gün batımında uçan iki yolcu uçağı.",
+     "puan": 5,
+     "gerekce": "Haber charter uçuşları ile ilgili, görsel genel bir uçuş teması sunuyor ancak Antalya veya Rusya ile doğrudan bir bağı yok.",
+     "gorunen": "Gün batımında uçan iki yolcu uçağı",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 6 < 7"
+     "neden": "puan 5 < 7"
+    },
+    "brief": {
+     "ana_konu": "Rusya'dan Antalya'ya düzenlenecek charter uçuşlar.",
+     "olmasi_gereken": [
+      "yolcu uçağı",
+      "havalimanı",
+      "turist grubu"
+     ],
+     "varliklar": [
+      {
+       "ad": "Ural Airlines",
+       "tur": "kurum"
+      },
+      {
+       "ad": "FUN&SUN",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "askeri uçak",
+      "tren"
+     ],
+     "sorgular_en": [
+      "passenger airplane",
+      "airport runway",
+      "tourists at airport"
+     ],
+     "sorgular_tr": [
+      "yolcu uçağı",
+      "havalimanı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "92a6844606ad4eda",
+      "url": "https://pixabay.com/get/g03592234ecd1a06576785bf80741a27f2ba1fada22e64956329e41f1e89c4537da0a2a4e142b635e388d6a24017704fa72835285d6db20be3f0485a1d45eb1a4_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261123-antalya-havalimaninda-cop31-iki)"
+     },
+     {
+      "id": "06a20a3530ae0b84",
+      "url": "https://pixabay.com/get/gdfcb2c6cca3210538218504a05987047880d20d2dd01d90b197799d8d810a60fb4b32d3bd958c9ce5329fe7bfc87e578_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Haberdeki modern charter uçuşları ile uyuşmayan, nostaljik ve küçük bir uçak görseli.",
+      "neden": "puan 3 < 7; güncel haberde eski/arşiv fotoğrafı"
+     },
+     {
+      "id": "ea47897000a7a925",
+      "url": "https://pixabay.com/get/g75337a4155e44ecc10864e61fd460ec9a32485c61367ae1d9565354a352bc004297d8a820616148a128e0223096f54124f5abee84e2f8939fefcac7bf02c14de_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Haberin ana konusu olan yolcu uçağı ve uçuş temasını başarıyla yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "dc9c01c7366856d0",
+      "url": "https://pixabay.com/get/g916a1cc38563a204e8a286a2611a83e9b5f0cdcf45933d168fecd2e24b6d21b76331f45439d924d339f7c507eb12ec32421e9e6b3d052899b900519785c30f85_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Uçuşu temsil etse de haberin odak noktası olan charter uçuşları ve turist trafiğini yansıtmaktan uzak.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "1969ff3f91deafd8",
+      "url": "https://pixabay.com/get/g744ba29cf7c5c48b9478b6472d1d7fad10d5077bfe081aa880fcb2375e84bcfac5b739d47109e6c5034db7d463ac3a1b6480ff275d333f5707f5f799724b31cf_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Haberin konusu olan uçuşları ve havacılık temasını net bir şekilde görselleştiriyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "12b6b1c5ed0c7e00",
+      "url": "https://pixabay.com/get/ga113145d5287306c695078be8691413cb25a01add9cbfbdb24bbec5bc6ff34545a49014bc7eb47d7ad2ad8b23492c5141b4d1cf8845214c05b88d08a8fd65c23_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Turistlerin havalimanındaki hareketliliğini yansıtıyor, haberin turizm boyutuyla uyumlu.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "41e2720bf9eebc98",
+      "url": "https://pixabay.com/get/g6dd1bd53bd3cb37a17d12fdc7d6ef97fa530c8aa099829eb9a58567d5e079a6f9734173693114d5cd4d76091cbcd28d37aa4853a41bd6714be378d01baa8bd7c_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Antalya'ya iniş yapan turist uçaklarını temsil etmek için uygun bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "ce979afd392cc0a9",
+      "url": "https://pixabay.com/get/gf099524c6628a1f3a4eac44a56dfc3a5e2489b2719370bb81221354f226a150ed8cbef04218ff17b322e28e4734771aa753f44b3e3355e1daf2c3d3e2ad36750_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 2,
+      "gerekce": "Antalya'nın iklimi ve haberin konusu olan charter uçuşları ile görsel olarak çelişiyor.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "1b901eb7bf7da5ee",
+      "url": "https://pixabay.com/get/gaee8dff136b84cff9936685a417c5f5a521e490c115c5917f1fcb49270d78fae2a9ed37c113158d63109f39af2537e0bc7b922247b71dfaff324ea9aae01c000_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Havalimanı ile ilgili olsa da haberin ana konusu olan uçuş ve turist trafiğini göstermiyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "c9890155051d71d4",
+      "url": "https://pixabay.com/get/g7a94ab540a99cf26ec48cb255f02e059bed0c437b237a71e3e618735bc1e31dfac8a14b2d9411f5e0cfa22c5748aa4a6936f852fc8c5ef2c0ea7ecba4c202b70_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Haberin konusu olan uçuşları ve havacılık temasını başarıyla yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Ural Airlines': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'FUN&SUN': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'yolcu uçağı': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'havalimanı': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "e066505e6123239e",
+     "yerel_url": "/images/haber-gorsel/e066505e6123239e.jpg",
+     "kaynak": "pixabay",
+     "puan": 9,
+     "gerekce": "Havalimanı atmosferini ve seyahat temasını çok iyi yansıtıyor, haberin içeriğiyle doğrudan ilgili.",
+     "gorunen": "Havalimanı uçuş bilgi ekranına bakan bir yolcu.",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g3c01fa00d88b1813318dae4eb5a81412a1b8de01dba943f0a1d4985c3399abd245bad2dded8eb9591e56be0d2ad1ce77cabed5ba1b61a03590d83e06eeb6ec71_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/e066505e6123239e.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Havalimanı uçuş bilgi ekranına bakan bir yolcu.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: Havalimanı atmosferini ve seyahat temasını çok iyi yansıtıyor, haberin içeriğiyle doğrudan ilgili.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "b61587b4084d",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "Havalimanı atmosferini ve seyahat temasını çok iyi yansıtıyor, haberin içeriğiyle doğrudan ilgili.",
+      "tarih": "2026-11-27T23:27:37+03:00"
+     },
+     "kimlik": "e066505e6123239e",
+     "phash": "b3fc8d184532c34f",
+     "konum": "50% 50%"
     }
    },
-   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
   },
   "20261127-antalya-kadina-yonelik-siddet-ve-cinayet-verilerinde-ust-0aca0.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:28+03:00",
+   "tarih": "2026-11-27T23:15:14+03:00",
    "baslik": "Antalya kadına yönelik şiddet ve cinayet verilerinde üst sıralarda yer alıyor",
    "durum": "bekliyor",
    "metin": {},
@@ -20422,14 +22293,12 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 3,
-     "gerekce": "Haberin içeriğiyle (kadın cinayetleri) görseldeki eylem (erkeklerin eşitlik pankartı) bağlam olarak zayıf ve İngilizce yazı içeriyor.",
-     "gorunen": "İngilizce pankart taşıyan bir grup erkek.",
-     "ihlaller": [
-      "yazi_logo"
-     ],
+     "puan": 4,
+     "gerekce": "Haber kadın cinayetleri ve şiddet verileriyle ilgili, görsel ise genel bir protesto sahnesi; konuyla doğrudan bir bağ kurmuyor.",
+     "gorunen": "Kadın hakları ile ilgili pankart taşıyan bir grup erkek",
+     "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 3 < 7; kesin ret: yazi_logo"
+     "neden": "puan 4 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20441,7 +22310,7 @@
   },
   "20261127-antalya-icin-soguk-hava-ve-firtina-uyarisi-fb781.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:28+03:00",
+   "tarih": "2026-11-27T23:15:14+03:00",
    "baslik": "Antalya için soğuk hava ve fırtına uyarısı",
    "durum": "bekliyor",
    "metin": {},
@@ -20458,12 +22327,12 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 5,
-     "gerekce": "Haberdeki hava durumu uyarısını genel bir görselle destekliyor ancak Antalya'ya özgü bir mekân veya spesifik bir kanıt içermiyor.",
-     "gorunen": "Fırtınalı havada kayalık kıyıya vuran dev dalgalar.",
+     "puan": 6,
+     "gerekce": "Haber fırtına ve kötü hava koşulları ile ilgili, görsel fırtınalı bir deniz sahnesi sunarak haberi destekliyor.",
+     "gorunen": "Kayalıklara vuran şiddetli dalgalar",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 5 < 7"
+     "neden": "puan 6 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20473,7 +22342,7 @@
   },
   "20261127-antalya-2026-kadinlar-ehf-avrupa-hentbol-sampiyonasi-52ab7.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:28+03:00",
+   "tarih": "2026-11-27T23:15:14+03:00",
    "baslik": "Antalya 2026 Kadınlar EHF Avrupa Hentbol Şampiyonası maçlarına ev sahipliği yapacak",
    "durum": "bekliyor",
    "metin": {},
@@ -20490,12 +22359,12 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 4,
-     "gerekce": "Hentbol sporunu temsil ediyor ancak haber Antalya'daki bir şampiyona ile ilgiliyken görseldeki sporcunun kimliği ve mekân belirsiz.",
-     "gorunen": "Hentbol oynayan bir kadın sporcu.",
+     "puan": 5,
+     "gerekce": "Haber 2026 Avrupa Şampiyonası ile ilgili, görsel hentbol sporunu temsil ediyor ancak Antalya veya Türkiye ile bir bağı yok.",
+     "gorunen": "Hentbol oynayan bir kadın sporcu",
      "ihlaller": [],
-     "taninir_yuz": true,
-     "neden": "puan 4 < 7"
+     "taninir_yuz": false,
+     "neden": "puan 5 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20505,7 +22374,7 @@
   },
   "20261127-alanyaspor-ile-konyaspor-alanya-oba-stadyumunda-karsilasiyor-97d9b.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:28+03:00",
+   "tarih": "2026-11-27T23:15:14+03:00",
    "baslik": "Alanyaspor ile Konyaspor Alanya Oba Stadyumu'nda karşılaşıyor",
    "durum": "bekliyor",
    "metin": {},
@@ -20523,8 +22392,8 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Futbol maçını temsil eden genel bir görsel. Stadyumun Alanya Oba Stadyumu olduğuna dair ayırt edici bir özellik bulunmuyor.",
-     "gorunen": "Stadyum zemininde duran bir futbol topu.",
+     "gerekce": "Haber Alanyaspor-Konyaspor maçı ile ilgili, görsel genel bir futbol teması sunuyor ancak maçın kendisini veya takımları göstermiyor.",
+     "gorunen": "Stadyum zemininde duran bir futbol topu",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
@@ -20537,7 +22406,7 @@
   },
   "20261127-alanyadaki-otoyol-hattinda-heyelan-tehlikesi-iddiasi-65262.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:29+03:00",
+   "tarih": "2026-11-27T23:15:16+03:00",
    "baslik": "Alanya'daki otoyol hattında heyelan tehlikesi iddiası",
    "durum": "bekliyor",
    "metin": {},
@@ -20555,8 +22424,8 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Otoyol projesi ve heyelan riski haberini genel bir dağ yolu görseliyle destekliyor ancak Antalya-Alanya otoyoluna ait somut bir görüntü değil.",
-     "gorunen": "Dağlık arazide kıvrımlı bir yol.",
+     "gerekce": "Haberdeki otoyol projesiyle doğrudan ilgili değil, stok bir dağ yolu görseli kullanılmış. Konuyla dolaylı bir ilgisi var.",
+     "gorunen": "Dağlık arazide kıvrımlı bir karayolu manzarası.",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
@@ -20569,7 +22438,7 @@
   },
   "20261127-alanyada-seyir-halindeki-otobuste-cikan-yangin-korkuttu-1ff13.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:29+03:00",
+   "tarih": "2026-11-27T23:15:16+03:00",
    "baslik": "Alanya'da seyir halindeki otobüste çıkan yangın korkuttu",
    "durum": "bekliyor",
    "metin": {},
@@ -20586,14 +22455,14 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 0,
-     "gerekce": "Görseldeki itfaiye aracı ve ekipmanlar Türkiye'ye ait değil, yabancı bir ülkeye ait olduğu açıkça belli oluyor.",
-     "gorunen": "Yanan bir otobüse müdahale eden itfaiyeciler.",
+     "puan": 2,
+     "gerekce": "Görseldeki itfaiye üniformaları ve otobüs yapısı Türkiye'ye ait değil. Yabancı polis/itfaiye unsuru içeriyor, yanıltıcı.",
+     "gorunen": "Yanan bir otobüse müdahale eden itfaiye ekipleri.",
      "ihlaller": [
       "yabanci_polis"
      ],
      "taninir_yuz": false,
-     "neden": "puan 0 < 7; kesin ret: yabanci_polis"
+     "neden": "puan 2 < 7; kesin ret: yabanci_polis"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20603,7 +22472,7 @@
   },
   "20261127-alanyada-kuran-kursunda-anneler-ve-cocuklar-sonbahar-4b224.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:30+03:00",
+   "tarih": "2026-11-27T23:15:17+03:00",
    "baslik": "Alanya'da Kur'an kursunda anneler ve çocuklar sonbahar etkinliğinde buluştu",
    "durum": "bekliyor",
    "metin": {},
@@ -20622,12 +22491,12 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 4,
-     "gerekce": "Haberdeki çocuk etkinliğini genel olarak yansıtıyor ancak haberin içeriği olan Kur'an kursu veya turşu kurma etkinliğiyle doğrudan bir bağı yok.",
+     "puan": 5,
+     "gerekce": "Haberdeki etkinliği tam yansıtmıyor, genel bir çocuk ve eğitim görseli. Konuyla dolaylı bir ilgisi var.",
      "gorunen": "Masada resim yapan çocuklar.",
      "ihlaller": [],
-     "taninir_yuz": true,
-     "neden": "puan 4 < 7; hassas haberde tanınabilir kişi"
+     "taninir_yuz": false,
+     "neden": "puan 5 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20640,7 +22509,7 @@
   },
   "20261127-alanyada-genc-kizlar-basketbol-musabakalari-tamamlandi-8fdd5.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:30+03:00",
+   "tarih": "2026-11-27T23:15:17+03:00",
    "baslik": "Alanya'da genç kızlar basketbol müsabakaları tamamlandı",
    "durum": "bekliyor",
    "metin": {},
@@ -20658,7 +22527,7 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Haber Alanya'daki okul sporları müsabakalarıyla ilgili, ancak görsel genel bir basketbol silüeti, yerel bir bağlam taşımıyor.",
+     "gerekce": "Haberdeki turnuvayı değil, genel bir basketbol temasını yansıtıyor. Dolaylı bir görsel.",
      "gorunen": "Gün batımında basketbol oynayan iki kişinin silüeti.",
      "ihlaller": [],
      "taninir_yuz": false,
@@ -20686,9 +22555,6 @@
     "once": {
      "url": "/images/kurum/8862f76fc25af6db.jpg",
      "tur": "gercek",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 9,
      "gerekce": "Haberde adı geçen yenilenmiş parkı ve çocukları doğrudan gösteriyor, konuyla tam uyumlu.",
      "gorunen": "Alanya'daki yenilenmiş çocuk parkında scooter süren çocuklar.",
@@ -20704,7 +22570,7 @@
   },
   "20261127-alanyada-aileler-ali-imam-camiinde-duzenlenen-programda-d4da2.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:30+03:00",
+   "tarih": "2026-11-27T23:15:17+03:00",
    "baslik": "Alanya'da aileler Ali İmam Camii'nde düzenlenen programda buluştu",
    "durum": "bekliyor",
    "metin": {},
@@ -20722,8 +22588,8 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 5,
-     "gerekce": "Haberdeki cami etkinliğini genel olarak yansıtıyor ancak spesifik olarak Ali İmam Camii'ni kanıtlamıyor.",
-     "gorunen": "Bir cami içerisinde namaz kılan veya oturan cemaat.",
+     "gerekce": "Haberdeki özel programı değil, genel bir cami ortamını gösteriyor. Dolaylı bir görsel.",
+     "gorunen": "Camide namaz kılan veya oturan bir grup insan.",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 5 < 7"
@@ -20738,7 +22604,7 @@
   },
   "20261127-alanyada-309-egitimciye-bilimsel-proje-ve-patent-egitimi-02b54.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:31+03:00",
+   "tarih": "2026-11-27T23:15:19+03:00",
    "baslik": "Alanya'da 309 eğitimciye bilimsel proje ve patent eğitimi verildi",
    "durum": "bekliyor",
    "metin": {},
@@ -20756,8 +22622,8 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 4,
-     "gerekce": "Eğitim toplantısı haberini temsil etmek için çok genel ve cansız bir görsel, haberin ruhunu yansıtmıyor.",
-     "gorunen": "Boş bir toplantı odası, masa ve sandalyeler.",
+     "gerekce": "Haberdeki eğitim toplantısını yansıtmıyor, tamamen boş ve ilgisiz bir toplantı odası görseli.",
+     "gorunen": "Boş bir toplantı odası.",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 4 < 7"
@@ -20770,7 +22636,7 @@
   },
   "20261127-alanya-universitesi-aday-ogrencilere-egitim-ve-burs-0392c.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:31+03:00",
+   "tarih": "2026-11-27T23:15:19+03:00",
    "baslik": "Alanya Üniversitesi aday öğrencilere eğitim ve burs imkânlarını anlattı",
    "durum": "bekliyor",
    "metin": {},
@@ -20787,14 +22653,12 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 2,
-     "gerekce": "Alanya Üniversitesi haberi için kullanılan görseldeki kişilerin fiziksel özellikleri ve kıyafetleri Türkiye'deki bir üniversite ortamıyla uyuşmuyor.",
-     "gorunen": "Üniformalı, yabancı görünümlü öğrenciler.",
-     "ihlaller": [
-      "yanlis_kisi"
-     ],
-     "taninir_yuz": true,
-     "neden": "puan 2 < 7; kesin ret: yanlis_kisi"
+     "puan": 5,
+     "gerekce": "Eğitim temalı genel bir görsel, ancak Alanya Üniversitesi ile doğrudan bir bağı yok, stok fotoğraf izlenimi veriyor.",
+     "gorunen": "Sınıfta takım elbiseli öğrenciler",
+     "ihlaller": [],
+     "taninir_yuz": false,
+     "neden": "puan 5 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20818,9 +22682,6 @@
     "once": {
      "url": "/images/haber-gorsel/d5c0a85b92817635.jpg",
      "tur": "stok",
-     "kredi": "",
-     "kaynak": "b2",
-     "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 8,
      "gerekce": "Haberdeki ilk yardım eğitimi konusunu somut ve doğru bir şekilde yansıtıyor.",
      "gorunen": "İlk yardım eğitimi sırasında maket üzerinde kalp masajı yapan bir kişi.",
@@ -20836,7 +22697,7 @@
   },
   "20261127-alanya-merkez-ve-konakli-arasinda-yol-calismasi-nedeniyle-fbd03.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:31+03:00",
+   "tarih": "2026-11-27T23:15:19+03:00",
    "baslik": "Alanya merkez ve Konaklı arasında yol çalışması nedeniyle uzun araç kuyrukları oluştu",
    "durum": "bekliyor",
    "metin": {},
@@ -20853,12 +22714,12 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 5,
-     "gerekce": "Haber Alanya'daki yerel bir yol çalışmasıyla ilgili ancak görsel genel bir otoyol trafiğini temsil ediyor, yerel bağlamı yok.",
-     "gorunen": "Gece vakti yoğun trafikli bir otoyolun havadan görünümü.",
+     "puan": 4,
+     "gerekce": "Trafik sıkışıklığını temsil eden genel bir görsel, ancak Alanya'daki yerel yol çalışmasıyla ilgisi bulunmuyor.",
+     "gorunen": "Gece vakti yoğun trafikli bir otoyol",
      "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 5 < 7"
+     "neden": "puan 4 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20868,7 +22729,7 @@
   },
   "20261127-alanya-emlak-ve-insaat-sektorunden-ortak-cozum-adimi-558d4.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:31+03:00",
+   "tarih": "2026-11-27T23:15:19+03:00",
    "baslik": "Alanya emlak ve inşaat sektöründen ortak çözüm adımı",
    "durum": "bekliyor",
    "metin": {},
@@ -20886,8 +22747,8 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 6,
-     "gerekce": "İnşaat ve emlak sektörünü temsil eden genel bir görsel, ancak haberdeki derneklerin buluşmasını veya Alanya'yı yansıtmıyor.",
-     "gorunen": "Mimari proje planı üzerinde çalışan iki kişinin elleri.",
+     "gerekce": "İnşaat ve emlak sektörünü temsil eden uygun bir görsel, ancak haberdeki dernek buluşmasını yansıtmıyor.",
+     "gorunen": "Mimari proje üzerinde çalışan eller",
      "ihlaller": [],
      "taninir_yuz": false,
      "neden": "puan 6 < 7"
@@ -20900,7 +22761,7 @@
   },
   "20261127-aksu-belediyesinden-vandaki-ogrencilere-anlamli-destek-55152.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:35+03:00",
+   "tarih": "2026-11-27T23:16:17+03:00",
    "baslik": "Aksu Belediyesi'nden Van'daki öğrencilere anlamlı destek",
    "durum": "bekliyor",
    "metin": {
@@ -20924,13 +22785,11 @@
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 2,
-     "gerekce": "Van'daki öğrenciler yerine tamamen farklı bir coğrafyadan çocukların kullanılması okuru yanıltmaktadır.",
-     "gorunen": "Gülümseyen ve el sallayan Uzak Doğulu çocuklar.",
-     "ihlaller": [
-      "yanlis_kisi"
-     ],
+     "gerekce": "Haber Van'daki öğrencilerle ilgili ancak görseldeki çocuklar Türkiye'den değil, uzak doğu kökenli görünüyor.",
+     "gorunen": "El sallayan ve gülümseyen çocuklar",
+     "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 2 < 7; kesin ret: yanlis_kisi"
+     "neden": "puan 2 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20942,7 +22801,7 @@
   },
   "20261127-akdeniz-universitesi-ogrencisi-sumeyra-eylul-ayyildiz-vefat-22e6c.md": {
    "surum": "t2",
-   "tarih": "2026-11-27T22:10:35+03:00",
+   "tarih": "2026-11-27T23:16:17+03:00",
    "baslik": "Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız vefat etti",
    "durum": "bekliyor",
    "metin": {},
@@ -20959,14 +22818,323 @@
      "kredi": "",
      "kaynak": "b2",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
-     "puan": 2,
-     "gerekce": "Haber Akdeniz Üniversitesi ile ilgili ancak görsel Türkiye'de olmayan, yabancı bir mimari yapıyı göstermektedir.",
-     "gorunen": "Modern ve tarihi mimarinin birleştiği bir Avrupa kütüphanesi veya müzesi binası.",
-     "ihlaller": [
-      "baska_sehir"
-     ],
+     "puan": 1,
+     "gerekce": "Görseldeki bina Akdeniz Üniversitesi değil, yurt dışındaki bir yapıya ait. Haberle ilgisi yok.",
+     "gorunen": "Modern bir üniversite binası",
+     "ihlaller": [],
      "taninir_yuz": false,
-     "neden": "puan 2 < 7; kesin ret: baska_sehir"
+     "neden": "puan 1 < 7"
+    }
+   },
+   "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
+   "degisiklik_var": false,
+   "grup": "bekliyor",
+   "grup_nedeni": []
+  },
+  "20261127-kemerde-gastronomi-dunyasinin-seckin-isimleri-bir-araya-f5766.md": {
+   "surum": "t2",
+   "tarih": "2026-11-27T23:13:16+03:00",
+   "baslik": "Kemer'de gastronomi dünyasının seçkin isimleri bir araya geldi",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "/images/haber-gorsel/490a7534f2406eb0.jpg",
+     "tur": "stok",
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 7,
+     "gerekce": "Gastronomi etkinliği ve gala yemeği temasını başarıyla yansıtıyor.",
+     "gorunen": "Şık bir şekilde hazırlanmış gala yemeği masası.",
+     "ihlaller": [],
+     "taninir_yuz": false
+    },
+    "karar": "korundu",
+    "alt_sonra": "Şık bir şekilde hazırlanmış gala yemeği masası."
+   },
+   "degisiklik_var": true,
+   "grup": "toplu",
+   "grup_nedeni": []
+  },
+  "20261127-growtech-fuarinda-basarili-girisimcilere-odulleri-verildi-d530e.md": {
+   "surum": "t2",
+   "tarih": "2026-11-27T23:13:18+03:00",
+   "baslik": "Growtech fuarında başarılı girişimcilere ödülleri verildi",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "/images/kurum/cf75b980f0c6ecf2.jpg",
+     "tur": "gercek",
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 9,
+     "gerekce": "Haberin içeriği olan Growtech fuarını ve ödül töreni atmosferini doğrudan yansıtıyor.",
+     "gorunen": "Growtech fuarında kürsüde konuşma yapan bir kişi",
+     "ihlaller": [],
+     "taninir_yuz": true
+    },
+    "karar": "korundu",
+    "alt_sonra": "Growtech fuarında kürsüde konuşma yapan bir kişi"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "kişi fotoğrafı"
+   ]
+  },
+  "20261127-antalyada-findikkiran-balesi-yeni-sezonda-izleyiciyle-d6d52.md": {
+   "surum": "t2",
+   "tarih": "2026-11-27T23:14:50+03:00",
+   "baslik": "Antalya'da Fındıkkıran Balesi yeni sezonda izleyiciyle buluştu",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "/images/haber-gorsel/5d47493fecceb363.jpg",
+     "tur": "stok",
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 6,
+     "gerekce": "Bale ile ilgili ancak Antalya Devlet Opera ve Balesi'nin sahnelediği özel bir gösteriye ait değil, genel bir bale görseli.",
+     "gorunen": "Bale yapan bir çift",
+     "ihlaller": [],
+     "taninir_yuz": false,
+     "neden": "puan 6 < 7"
+    },
+    "brief": {
+     "ana_konu": "Antalya Devlet Opera ve Balesi'nin Fındıkkıran Balesi'ni sahnelemesi.",
+     "olmasi_gereken": [
+      "bale sahnesi",
+      "balerin",
+      "tiyatro sahnesi"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya Devlet Opera ve Balesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Fındıkkıran",
+       "tur": "etkinlik"
+      }
+     ],
+     "kacinilacaklar": [
+      "sinema salonu",
+      "sokak gösterisi"
+     ],
+     "sorgular_en": [
+      "ballet performance",
+      "Nutcracker ballet",
+      "stage dance"
+     ],
+     "sorgular_tr": [
+      "bale gösterisi",
+      "Antalya Devlet Opera ve Balesi"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "e46553b256ee1ebe",
+      "url": "https://pixabay.com/get/g64a3ea49bafd487670271fc48137d21bbfc68ecd5cb3479803568bd89d0ca02b706ca6955f7d0631262165d61e09663b9587bd92061348962eb94171bc10466c_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Bale temasıyla ilgili ancak haberin konusu olan sahne gösterisiyle doğrudan bir bağı yok, dış mekanda çekilmiş.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "760ce0ff7d19785f",
+      "url": "https://pixabay.com/get/g685f7743071c662492c5454e7f687160bc5fdd9960fcaa81455ea91189b74bb825f25e17207d13c6d06ab916057d3dea4e3452b9f5f8cdb7150e093729bd7c27_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Haberin ismiyle doğrudan ilgili bir obje ancak bale gösterisini temsil eden bir sahne fotoğrafı değil, dekoratif bir figür.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "98d60fb75bbf700e",
+      "url": "https://pixabay.com/get/g45a2525f7cf939167aacc0d19d49e6ab333db168af44bfef1594814593b5505f60749d5eebe45216095912a48a44237227956af364d08f7bf23b6b55e301c3c0_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 5,
+      "gerekce": "Sahne performansı olması açısından uygun ancak Fındıkkıran balesinin estetiğiyle doğrudan örtüşmüyor, daha modern bir dans gösterisi gibi.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "6caa232e311697ca",
+      "url": "https://pixabay.com/get/ga6e0384eb5882697e7480e7cdd0d97ebcb8d95a72fa2b86a8827d9704a9c686f99eee0ea142081cb17a2919033fb9659f053d9842343dba1da4adc86c054a189_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Bale estetiği var ancak dış mekanda çekilmiş olması haberin konusu olan sahne gösterisiyle uyuşmuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "199f4344dd39564b",
+      "url": "https://pixabay.com/get/g39d7c67f82dd2cffb362a5f85ee81da76a20b796dbe2ff5e826bdb04347b5e91abdf12b4346707e4101e177dfd611655ee51355b2df8ea18574466674a915ce7_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin başlığındaki 'Fındıkkıran' kelimesiyle kelime oyunu yapılmış ancak haberin bale gösterisi olmasıyla hiçbir ilgisi yok, yanıltıcı.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "28642d7bea18c31f",
+      "url": "https://pixabay.com/get/g752e83ce4a9862ea72d9b47e084cc361f4dce5e6a590bd7d3a35580983007733ce7eccb76a29e6d1337fb8a2ae4a3ef3ae642669b14f11189f2736fc61cbb746_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 4,
+      "gerekce": "Sahne atmosferini andırsa da bale ile doğrudan bir bağlantısı yok, çok genel bir görsel.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "3bb70473689dbe3a",
+      "url": "https://pixabay.com/get/g94e4aada4f60b8fb08c8b6ac90b1f14a51f52de4f9d655d37920240fb186236ec11d1ff362221ec9319e17881d8942733a03a33635185e23f2a08e04dd0a294e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 1,
+      "gerekce": "Haberin konusu olan bale ile ilgisi yok, sadece isim benzerliği üzerinden seçilmiş, okuru yanıltır.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "9cec97e5ab8d528b",
+      "url": "https://pixabay.com/get/gd4e565b0d14ed2c7239bcc4e280db6cc9b201f9e763468447e46b54cc4db0dee6fe78ac5af09a0722d8fb3147dc216879498babf233e482c2c42bc75305c3888_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 3,
+      "gerekce": "Gösteri atmosferini yansıtsa da bale ile ilgisi yok, daha çok bir konser veya eğlence etkinliğini çağrıştırıyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "5d47493fecceb363",
+      "url": "https://pixabay.com/get/g3bfb84c556fe5034c677e09788e4c908c554a15c19176d086044482e70aea503958535334b4a8029b3404cffc143dbd965906130d918754d1034ac5137a6800d_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Bale gösterisini ve sahne atmosferini çok iyi yansıtıyor. Haberle doğrudan ilgili ve profesyonel bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "04f3d5785c9f2a64",
+     "yerel_url": "/images/haber-gorsel/04f3d5785c9f2a64.jpg",
+     "kaynak": "pixabay",
+     "puan": 9,
+     "gerekce": "Haberin konusu olan bale gösterisini ve sahne atmosferini birebir yansıtıyor. Haber için en uygun görsel.",
+     "gorunen": "Sahne üzerinde bale kostümüyle dans eden bir balerin.",
+     "taninir_yuz": true,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/ge6ece08cbcf3ef444089e7dcaea5174a36c66c67cf5a699d2c6dcd8fcb6d766d4f3b45d3139e825b9a145458652c1d335781d04108dcf255f9c230e5ba57d78a_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/04f3d5785c9f2a64.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Sahne üzerinde bale kostümüyle dans eden bir balerin.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: Haberin konusu olan bale gösterisini ve sahne atmosferini birebir yansıtıyor. Haber için en uygun görsel.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "3bf099d3d90e",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "Haberin konusu olan bale gösterisini ve sahne atmosferini birebir yansıtıyor. Haber için en uygun görsel.",
+      "tarih": "2026-11-27T23:25:49+03:00"
+     },
+     "kimlik": "04f3d5785c9f2a64",
+     "phash": "99356a6a9595897a",
+     "konum": "50% 50%"
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor",
+    "kişi fotoğrafı"
+   ]
+  },
+  "20261127-antalyada-ciftci-aileler-birincilik-icin-yaristi-4a33a.md": {
+   "surum": "t2",
+   "tarih": "2026-11-27T23:14:50+03:00",
+   "baslik": "Antalya'da çiftçi aileler birincilik için yarıştı",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "/images/haber-gorsel/fd111137ac686c0b.jpg",
+     "tur": "stok",
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 7,
+     "gerekce": "Yarışma ve ödül töreni temasını başarıyla yansıtıyor, okuru yanıltmıyor.",
+     "gorunen": "Masa üzerinde dizili kupa ve madalyalar",
+     "ihlaller": [],
+     "taninir_yuz": false
+    },
+    "karar": "korundu",
+    "alt_sonra": "Masa üzerinde dizili kupa ve madalyalar"
+   },
+   "degisiklik_var": true,
+   "grup": "toplu",
+   "grup_nedeni": []
+  },
+  "20261127-aile-ve-sosyal-hizmetler-bakanligindan-kasim-ayi-dogum-92fb8.md": {
+   "surum": "t2",
+   "tarih": "2026-11-27T23:16:17+03:00",
+   "baslik": "Aile ve Sosyal Hizmetler Bakanlığı'ndan kasım ayı doğum yardımı ödemesi",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "/images/haber-gorsel/f78ad81c8746e675.jpg",
+     "tur": "stok",
+     "kredi": "",
+     "kaynak": "b2",
+     "kaynak_karari": "b2 kurallarıyla seçilmiş",
+     "puan": 6,
+     "gerekce": "Doğum yardımı konusunu temsil eden genel bir görsel, ancak haberin içeriğiyle doğrudan bir bağ kurmuyor.",
+     "gorunen": "Bebeğini kucağında tutan bir anne",
+     "ihlaller": [],
+     "taninir_yuz": false,
+     "neden": "puan 6 < 7"
     }
    },
    "bekliyor": "brief/görsel araması için bütçe ya da süre kalmadı",
@@ -20976,17 +23144,17 @@
   }
  },
  "ozet": {
-  "guncelleme": "2026-11-27T22:16:10+03:00",
-  "islenen": 205,
-  "toplu_grup": 18,
-  "tek_tek_grup": 132,
-  "degisiklik_yok": 43,
-  "gorsel_yenilenen": 66,
-  "yayindan_kaldirilacak": 65,
-  "gorsel_korunan": 19,
+  "guncelleme": "2026-11-27T23:27:37+03:00",
+  "islenen": 210,
+  "toplu_grup": 22,
+  "tek_tek_grup": 148,
+  "degisiklik_yok": 28,
+  "gorsel_yenilenen": 75,
+  "yayindan_kaldirilacak": 71,
+  "gorsel_korunan": 24,
   "karantina_onerisi": 3,
   "adres_degisen": 32,
-  "bekleyen": 55,
+  "bekleyen": 40,
   "uygulanan": 1
  }
 }
