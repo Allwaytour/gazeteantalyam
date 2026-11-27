@@ -44,8 +44,8 @@ kaynak: Gazipaşa Manşet
 kaynak_url: https://gazipasamanset.com.tr/haber/gazipasanin-hakkini-sordu-20797
 bekleme:
   ilk: '2026-11-26T21:42:08+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T03:42:08+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T09:42:08+03:00'
   brief:
     ana_konu: Yeni Parti Antalya Milletvekili Aykut Kaya'nın Meclis'te yaptığı konuşma
     olmasi_gereken:
