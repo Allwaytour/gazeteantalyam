@@ -607,6 +607,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.67,
    "islenen": 5
+  },
+  {
+   "tarih": "2026-11-27T13:41:06+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 4
   }
  ],
  "haberler": [
@@ -2329,6 +2344,76 @@
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
    }
+  },
+  {
+   "tarih": "2026-11-27T13:42:00+03:00",
+   "baslik": "Aile ve Sosyal Hizmetler Bakanlığı'ndan kasım ayı doğum yardımı ödemesi",
+   "kaynak": "Akdenizmanset",
+   "kaynak_url": "https://www.akdenizmanset.com.tr/bakan-goktas-dogum-yardimlarindan-1-milyon-495-bin-87-cocuk-faydalandi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-aile-ve-sosyal-hizmetler-bakanligindan-kasim-ayi-dogum-92fb8.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "f78ad81c8746e675",
+    "puan": 8,
+    "gerekce": "Anne ve bebek temasını başarılı bir şekilde yansıtıyor, haberin içeriğiyle uyumlu.",
+    "gorunen": "Bebegini kucaginda seven bir anne",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T13:43:26+03:00",
+   "baslik": "Kumluca çiftçisinin sulama ve vergi sorunları Meclis'e taşındı",
+   "kaynak": "Akdenizmanset",
+   "kaynak_url": "https://www.akdenizmanset.com.tr/ciftci-suya-ve-vergiye-mahkum",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-kumluca-ciftcisinin-sulama-ve-vergi-sorunlari-meclise-6085a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "görüntü puanlaması yapılamadı: Expecting property name enclosed in double quotes: line 12 column 7 (char 243)"
+   }
+  },
+  {
+   "tarih": "2026-11-27T13:44:18+03:00",
+   "baslik": "Akdeniz Üniversitesi öğrencisi Sümeyra Eylül Ayyıldız vefat etti",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/antalyada-aci-haber-akdeniz-universitesi-doktora-ogrencisi-hayatini-kaybetti/390142",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-akdeniz-universitesi-ogrencisi-sumeyra-eylul-ayyildiz-vefat-22e6c.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T13:45:07+03:00",
+   "baslik": "Anahtar Parti Antalya İl Başkanlığı'ndan TEMAD'a taziye ziyareti",
+   "dosya": "20261127-anahtar-parti-antalya-il-baskanligindan-temada-taziye-4eba1.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 17:43)"
   }
  ]
 }
