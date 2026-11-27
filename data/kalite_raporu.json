@@ -725,6 +725,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 8.0,
    "islenen": 7
+  },
+  {
+   "tarih": "2026-11-27T17:12:45+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 2,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 9.0,
+   "islenen": 4
   }
  ],
  "haberler": [
@@ -3057,6 +3072,95 @@
    "deneme": 1,
    "sonuc": "seçildi (8/10, pixabay)",
    "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T17:13:00+03:00",
+   "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/korkuteli-osbde-mustafa-yayla-donemi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: Bölgesinde → Bölgesi'nde",
+     "metin: \n\n → \n\\"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:13:15+03:00",
+   "baslik": "Alanya Müftülüğü personelinden ilk yardım eğitimi",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanya-muftulugu-personeline-ilk-yardim-egitimi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-alanya-muftulugu-personelinden-ilk-yardim-egitimi-e6731.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "d5c0a85b92817635",
+    "puan": 10,
+    "gerekce": "Brief'te istenen eğitim salonu, ilk yardım mankeni ve katılımcı unsurlarını eksiksiz ve başarılı şekilde yansıtıyor.",
+    "gorunen": "Eğitim salonunda ilk yardım mankeni üzerinde uygulamalı kalp masajı yapan katılımcılar.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:13:32+03:00",
+   "baslik": "Antalyaspor'un eski teknik direktörü Alex de Souza'nın yeni takımı belli oldu",
+   "kaynak": "mygazete",
+   "kaynak_url": "https://www.mygazete.com/alex-de-souza-imzayi-atti-yeni-takimi-sasirtti/789133",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyasporun-eski-teknik-direktoru-alex-de-souzanin-yeni-02311.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:13:51+03:00",
+   "baslik": "Antalya, Rusya'dan düzenlenecek charter uçuşlarla binlerce turist ağırlayacak",
+   "kaynak": "Turizm Ajansı",
+   "kaynak_url": "https://www.turizmajansi.com/amp/fun-sun-rusya-nin-6-sehrinden-antalya-turizmine-binlerce-turist-tasiyacak-h74888",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalya-rusyadan-duzenlenecek-charter-ucuslarla-binlerce-86175.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "3f7143eb4bed8739",
+    "puan": 8,
+    "gerekce": "Haberin uçuş seferleri temasına uygun, estetik bir yolcu uçağı görseli. Okuru yanıltmıyor.",
+    "gorunen": "Gün batımında uçuş yapan yolcu uçakları silueti",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
   }
  ]
 }

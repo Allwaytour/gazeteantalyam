@@ -8486,5 +8486,244 @@
     "neden": "daha yüksek puanlı aday seçildi"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T17:13:00+03:00",
+  "haber": "20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+  "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "5e2b151f597879d8",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "b899c97d3f9bf376",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "50adce38f20fc3ec",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "0151bdc13bbd6030",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "cb36f95e262a4e34",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "8b4d9549a3f3aaf7",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "7e6ff0c00d64a7a0",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "2fd5482342189f98",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "bc467a02d5e0d792",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "43c7638338e067ef",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:13:15+03:00",
+  "haber": "20261127-alanya-muftulugu-personelinden-ilk-yardim-egitimi-e6731.md",
+  "baslik": "Alanya Müftülüğü personelinden ilk yardım eğitimi",
+  "sonuc": "seçildi (10/10, pixabay)",
+  "aday_sayisi": 9,
+  "secilen": {
+   "id": "d5c0a85b92817635",
+   "puan": 10,
+   "gerekce": "Brief'te istenen eğitim salonu, ilk yardım mankeni ve katılımcı unsurlarını eksiksiz ve başarılı şekilde yansıtıyor.",
+   "gorunen": "Eğitim salonunda ilk yardım mankeni üzerinde uygulamalı kalp masajı yapan katılımcılar.",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "e07eb3873230c706",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "f211d2a0a2a8562f",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "9a3fa3bee7857e2e",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "f9b2c3ac4fe46a40",
+    "puan": 3,
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "07ae63dbd65f1776",
+    "puan": 2,
+    "neden": "puan 2 < 7; güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "d6e9641e0f67a4ae",
+    "puan": 3,
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "e994f04cb9f45449",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "f6b6d4b5b7bd29e8",
+    "puan": 7,
+    "neden": "daha yüksek puanlı aday seçildi"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:13:32+03:00",
+  "haber": "20261127-antalyasporun-eski-teknik-direktoru-alex-de-souzanin-yeni-02311.md",
+  "baslik": "Antalyaspor'un eski teknik direktörü Alex de Souza'nın yeni takımı belli oldu",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "f457459fc5fadd2f",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyaspor-kotu-gidise-konyaspo)"
+   },
+   {
+    "id": "a928c8bcb1cdf965",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "998fba5d109caf26",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "efdd02dc8e336198",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: celiski; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "830dd293f12a2aa5",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "a2c7cbb403bc06cf",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "02c35b97c42dfe7e",
+    "puan": 5,
+    "neden": "puan 5 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "b738edef7afac053",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "5d41d15f079ef650",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "3e4075b32c690b02",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:13:51+03:00",
+  "haber": "20261127-antalya-rusyadan-duzenlenecek-charter-ucuslarla-binlerce-86175.md",
+  "baslik": "Antalya, Rusya'dan düzenlenecek charter uçuşlarla binlerce turist ağırlayacak",
+  "sonuc": "seçildi (8/10, pixabay)",
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "3f7143eb4bed8739",
+   "puan": 8,
+   "gerekce": "Haberin uçuş seferleri temasına uygun, estetik bir yolcu uçağı görseli. Okuru yanıltmıyor.",
+   "gorunen": "Gün batımında uçuş yapan yolcu uçakları silueti",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "92a6844606ad4eda",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261123-antalya-havalimaninda-cop31-iki)"
+   },
+   {
+    "id": "7baa408bb3967081",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261127-antalya-ucusunda-rotar-krizi-pa)"
+   },
+   {
+    "id": "40c1673250f6e161",
+    "puan": 8,
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "e4d36f17502873c0",
+    "puan": 7,
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "41e2720bf9eebc98",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "7f39990f1bba5ed3",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "c9890155051d71d4",
+    "puan": 7,
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "6d2fd2077a057978",
+    "puan": 1,
+    "neden": "puan 1 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "31b2dffc04918457",
+    "puan": 7,
+    "neden": "daha yüksek puanlı aday seçildi"
+   }
+  ]
  }
 ]
