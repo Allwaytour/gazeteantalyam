@@ -652,6 +652,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 8.33,
    "islenen": 5
+  },
+  {
+   "tarih": "2026-11-27T14:42:29+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 4,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 7
   }
  ],
  "haberler": [
@@ -2610,6 +2625,126 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 17:51)"
+  },
+  {
+   "tarih": "2026-11-27T14:42:44+03:00",
+   "baslik": "Konyaaltı'ndaki doğa projesine Avrupa'dan 14 milyon liralık hibe",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/konyaalti/konyaaltinin-dogasina-avrupa-destegi-14-milyon-tl-hibe/390148",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-konyaaltindaki-doga-projesine-avrupadan-14-milyon-liralik-d1de5.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "adayların hepsi elendi (tekrar/indirme)"
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:42:50+03:00",
+   "baslik": "Lvbel C5 bu akşam Antalya'da sahne alacak",
+   "kaynak": "Antalya Hürses",
+   "kaynak_url": "https://www.antalyahurses.com/lvbel-c5-bu-aksam-antalyada-sahne-alacak/562122",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-lvbel-c5-bu-aksam-antalyada-sahne-alacak-8311d.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "adayların hepsi elendi (tekrar/indirme)"
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:43:03+03:00",
+   "baslik": "Antalya kadına yönelik şiddet ve cinayet verilerinde üst sıralarda yer alıyor",
+   "kaynak": "Gün Haber",
+   "kaynak_url": "https://www.gunhaber.com.tr/haber/Antalya-kadin-cinayetlerinde-4-uncu-sirada/578617",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalya-kadina-yonelik-siddet-ve-cinayet-verilerinde-ust-0aca0.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "adayların hepsi elendi (tekrar/indirme)"
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:43:26+03:00",
+   "baslik": "DİSK Genel-İş Antalya Şubesinde genel kurul heyecanı",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/diskgenel-is-antalyada-zorlu-secim/390147",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: şubesinde → Şubesinde"
+    ],
+    "kurallar": [
+     "metin: kesme işareti tek karaktere indirildi"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-disk-genel-is-antalya-subesinde-genel-kurul-heyecani-6d71a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:43:45+03:00",
+   "baslik": "Antalya'da düzenlenen özel gastronomi gecesinde özgün lezzetler sunuldu",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/ozel-geceye-ozgun-lezzetler",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalyada-duzenlenen-ozel-gastronomi-gecesinde-ozgun-26650.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "eeea1b2e46ceb63b",
+    "puan": 8,
+    "gerekce": "Fine dining ve restoran ortamını net şekilde yansıtıyor, haberin atmosferine uygun.",
+    "gorunen": "Lüks bir restoran masasında şık masa düzeni, bardaklar ve peçeteler",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T14:44:10+03:00",
+   "baslik": "Antalya'da kaybolan Kübra Yapıcı cinayetine ilişkin iddianame hazırlandı",
+   "dosya": "20261127-antalyada-kaybolan-kubra-yapici-cinayetine-iliskin-iddianame-e9c4a.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 18:14)"
+  },
+  {
+   "tarih": "2026-11-27T14:44:10+03:00",
+   "baslik": "Antalya'nın çevre ve konut sorunları TBMM bütçe görüşmelerinde gündeme geldi",
+   "dosya": "20261127-antalyanin-cevre-ve-konut-sorunlari-tbmm-butce-e34a8.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 18:19)"
   }
  ]
 }

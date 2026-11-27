@@ -44,8 +44,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/siyaset/antalyanin-cevre-ve-konut-sorunlari-mecliste-bakana-pes-pese-sorular/390133
 bekleme:
   ilk: '2026-11-27T12:19:56+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T14:19:56+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T18:19:56+03:00'
   brief:
     ana_konu: TBMM'de gerçekleştirilen bütçe görüşmeleri ve konuşmalar
     olmasi_gereken:
