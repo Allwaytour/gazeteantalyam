@@ -846,6 +846,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.67,
    "islenen": 8
+  },
+  {
+   "tarih": "2026-11-27T21:12:57+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 1,
+   "gorsel_yok": 4,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 7
   }
  ],
  "haberler": [
@@ -3811,6 +3824,116 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 02:43)"
+  },
+  {
+   "tarih": "2026-11-27T21:13:10+03:00",
+   "baslik": "Antalya'da Çiftçi Aileler Yarışıyor finalinin kazananı Elmalı'dan çıktı",
+   "kaynak": "Yeşil Afşin Gazetesi",
+   "kaynak_url": "https://www.yesilafsin.com/antalyadaki-ciftci-aileler-yarisiyor-finalinde-birinci-elmalidan-cikti",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyada-ciftci-aileler-yarisiyor-finalinin-kazanani-e5514.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T21:14:36+03:00",
+   "baslik": "Alanya'da öğrencilere iyilik bilinci aşılanıyor",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanyada-iyilikte-yarisan-siniflar-bulusmasi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-alanyada-ogrencilere-iyilik-bilinci-asilaniyor-62c78.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T21:15:10+03:00",
+   "baslik": "Mimar Mustafa Temiz'den Alanya'nın il olma sürecine yönelik uyarılar",
+   "kaynak": "Bölge Gündemi",
+   "kaynak_url": "https://www.bolgegundemi.com/antalya/mimar-mustafa-temiz-plansiz-buyume-alanya-turizmini-bitirebilir-244795.html",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-mimar-mustafa-temizden-alanyanin-il-olma-surecine-yonelik-14ff4.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T21:15:38+03:00",
+   "baslik": "On Hotels Alanya Belediyespor deplasmanda sahaya çıkıyor",
+   "kaynak": "Voleybol Plus",
+   "kaynak_url": "https://www.voleybolplus.com/gebze-bld-nin-konugu-on-hotels-alanya-bld/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": false,
+    "engeller": [
+     "spot: metin Türkçe karaktersiz"
+    ],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "karantina/haber/20261127-on-hotels-alanya-belediyespor-deplasmanda-sahaya-cikiyor-31242.md",
+   "durum": "karantina"
+  },
+  {
+   "tarih": "2026-11-27T21:15:47+03:00",
+   "baslik": "Alanya'da işletmeler maliyet baskısıyla devir yoluna gidiyor",
+   "kaynak": "Bölge Gündemi",
+   "kaynak_url": "https://www.bolgegundemi.com/antalya/alanyada-sezon-beklentisi-karsilanmadi-isletmeler-devrediliyor-244774.html",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-alanyada-isletmeler-maliyet-baskisiyla-devir-yoluna-gidiyor-8dbe1.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T21:16:02+03:00",
+   "baslik": "Alanya EAH başhekimi yapay zekâ ve sağlık kongresinde konuştu",
+   "dosya": "20261127-alanya-eah-bashekimi-yapay-zeka-ve-saglik-kongresinde-df98c.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:14)"
+  },
+  {
+   "tarih": "2026-11-27T21:16:02+03:00",
+   "baslik": "BTP Antalya'dan Antalya Barosu'na ziyaret",
+   "dosya": "20261127-btp-antalyadan-antalya-barosuna-ziyaret-0134b.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:14)"
   }
  ]
 }
