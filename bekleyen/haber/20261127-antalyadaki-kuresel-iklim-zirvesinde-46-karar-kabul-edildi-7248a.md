@@ -43,8 +43,8 @@ kaynak: bursa tv
 kaynak_url: https://www.bursatv.com.tr/antalyada-dunya-liderlerini-bulusturan-zirvede-46-karar-kabul-edildi
 bekleme:
   ilk: '2026-11-27T15:43:27+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T17:43:27+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T21:43:27+03:00'
   brief:
     ana_konu: Antalya'da düzenlenen COP31 iklim konferansı ve liderler zirvesi
     olmasi_gereken:

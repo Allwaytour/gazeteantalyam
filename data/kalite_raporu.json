@@ -740,6 +740,22 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 9.0,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-27T17:42:45+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 1,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2,
+    "kurum": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.33,
+   "islenen": 7
   }
  ],
  "haberler": [
@@ -3161,6 +3177,131 @@
     "taninir_yuz": false,
     "cekim_yili": ""
    }
+  },
+  {
+   "tarih": "2026-11-27T17:42:58+03:00",
+   "baslik": "Kemer'de öğrenciler için dalış ve bilgilendirme etkinliği düzenlendi",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/kemerde-100-ogrenciyle-dalis-yapildi-119534747",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-kemerde-ogrenciler-icin-dalis-ve-bilgilendirme-etkinligi-e699b.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "seçilen görsel indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/gfebbe4314098a9ad9e41b35e4267fee026bc2481d0f67d2584ac275122644b8e6a1d5ee4f9035812122fecf724f5dbca8769c"
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:43:44+03:00",
+   "baslik": "Alanya'da seyir halindeki otobüste çıkan yangın korkuttu",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/kestelde-otobus-alev-aldi-sofor-faciayi-onledi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-alanyada-seyir-halindeki-otobuste-cikan-yangin-korkuttu-1ff13.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "a6ea6ea3aabb17e8",
+    "puan": 8,
+    "gerekce": "Otobüs yangını haberini doğrudan yansıtan başarılı bir görsel, ancak Alanya'ya ait değil.",
+    "gorunen": "İtfaiye ekipleri yanan bir otobüse müdahale ediyor",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:44:19+03:00",
+   "baslik": "Growtech Tarım Fuarı'nda startup yarışması ödülleri sahiplerini buldu",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/growtech-tarim-fuari-startup-yarismasi-ile-devam-etti-119534732",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-growtech-tarim-fuarinda-startup-yarismasi-odulleri-02410.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "0a60d844e357175a",
+    "puan": 10,
+    "gerekce": "Haberin birebir ödül töreni ve fuar sahnesini göstermesi nedeniyle mükemmel bir görseldir.",
+    "gorunen": "Growtech Tarım Fuarı ödül töreninde kürsüde konuşma yapan yetkili ve katılımcılar.",
+    "taninir_yuz": true,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:45:01+03:00",
+   "baslik": "Antalya'da düzenlenen COP31 zirvesinin maliyeti ve tartışmaları sürüyor",
+   "kaynak": "İlke TV",
+   "kaynak_url": "https://ilketv.com.tr/bloomberg-cop31-antalya-zirvesinin-maliyeti-700-milyon-dolar/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": false,
+    "engeller": [
+     "metin: Türkçe karakteri eksik kelimeler: yani, basında"
+    ],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "karantina/haber/20261127-antalyada-duzenlenen-cop31-zirvesinin-maliyeti-ve-9bc85.md",
+   "durum": "karantina"
+  },
+  {
+   "tarih": "2026-11-27T17:45:07+03:00",
+   "baslik": "Alanya'da genç kızlar basketbol müsabakaları tamamlandı",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanyada-genc-kizlar-basketbol-heyecani-sona-erdi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-alanyada-genc-kizlar-basketbol-musabakalari-tamamlandi-8fdd5.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "b449e9ac1a97ddd8",
+    "puan": 7,
+    "gerekce": "Basketbol temasını yansıtıyor ancak kapalı alan dışı etkinlik ve siluet olması nedeniyle tam puan almadı.",
+    "gorunen": "Açık alanda basketbol oynayan gençlerin silueti",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T17:47:01+03:00",
+   "baslik": "Anahtar Parti Antalya İl Başkanlığı'ndan TEMAD'a taziye ziyareti",
+   "dosya": "20261127-anahtar-parti-antalya-il-baskanligindan-temada-taziye-4eba1.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 23:43)"
+  },
+  {
+   "tarih": "2026-11-27T17:47:01+03:00",
+   "baslik": "Antalya'daki küresel iklim zirvesinde 46 karar kabul edildi",
+   "dosya": "20261127-antalyadaki-kuresel-iklim-zirvesinde-46-karar-kabul-edildi-7248a.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 21:43)"
   }
  ]
 }

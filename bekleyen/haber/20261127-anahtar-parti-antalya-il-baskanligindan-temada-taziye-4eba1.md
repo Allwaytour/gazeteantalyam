@@ -44,8 +44,8 @@ kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/anahtar-partiden-temada-sehitler-icin-bassagligi-ziyareti/562104
 bekleme:
   ilk: '2026-11-27T11:43:54+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T17:43:54+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T23:43:54+03:00'
   brief:
     ana_konu: Anahtar Parti Antalya İl Başkanlığı'nın TEMAD Antalya İl Başkanlığı'na gerçekleştirdiği taziye ziyareti
     olmasi_gereken:

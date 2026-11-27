@@ -8725,5 +8725,356 @@
     "neden": "daha yüksek puanlı aday seçildi"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T17:42:58+03:00",
+  "haber": "20261127-kemerde-ogrenciler-icin-dalis-ve-bilgilendirme-etkinligi-e699b.md",
+  "baslik": "Kemer'de öğrenciler için dalış ve bilgilendirme etkinliği düzenlendi",
+  "sonuc": "seçilen görsel indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/gfebbe4314098a9ad9e41b35e4267fee026bc2481d0f67d2584ac275122644b8e6a1d5ee4f9035812122fecf724f5dbca8769c",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "01e1d3ce090df7ae",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/gd59fbd057ae37bc4bbef20250d520489abf6"
+   },
+   {
+    "id": "01b796e5b5b41c62",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g79036b80d6f16886fd40ca4e9ca5a6cce754"
+   },
+   {
+    "id": "4ac5abfb438c512d",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "9537c02958f63e4f",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "8b3a886889904a95",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "b2019f32c820756a",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "0517a34e96a344fb",
+    "puan": 3,
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "ebca7824b0f2cd6b",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "7a68ffb598f1865a",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:43:44+03:00",
+  "haber": "20261127-alanyada-seyir-halindeki-otobuste-cikan-yangin-korkuttu-1ff13.md",
+  "baslik": "Alanya'da seyir halindeki otobüste çıkan yangın korkuttu",
+  "sonuc": "seçildi (8/10, pixabay)",
+  "aday_sayisi": 8,
+  "secilen": {
+   "id": "a6ea6ea3aabb17e8",
+   "puan": 8,
+   "gerekce": "Otobüs yangını haberini doğrudan yansıtan başarılı bir görsel, ancak Alanya'ya ait değil.",
+   "gorunen": "İtfaiye ekipleri yanan bir otobüse müdahale ediyor",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "3ff3519a941b251a",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "e5977a07cf8ed530",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "0481714af6db9d2a",
+    "puan": 3,
+    "neden": "puan 3 < 7; güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "ea100bc310766c94",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: baska_sehir (hong kong)"
+   },
+   {
+    "id": "f45893267886ac36",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "704b3019fcf29346",
+    "puan": 1,
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "9edb96d5c7d8fa59",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:44:19+03:00",
+  "haber": "20261127-growtech-tarim-fuarinda-startup-yarismasi-odulleri-02410.md",
+  "baslik": "Growtech Tarım Fuarı'nda startup yarışması ödülleri sahiplerini buldu",
+  "sonuc": "seçildi (10/10, kurum)",
+  "aday_sayisi": 11,
+  "secilen": {
+   "id": "0a60d844e357175a",
+   "puan": 10,
+   "gerekce": "Haberin birebir ödül töreni ve fuar sahnesini göstermesi nedeniyle mükemmel bir görseldir.",
+   "gorunen": "Growtech Tarım Fuarı ödül töreninde kürsüde konuşma yapan yetkili ve katılımcılar.",
+   "taninir_yuz": true,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "8419d4437caf67fe",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-kayit-disi-emlakcilikl)"
+   },
+   {
+    "id": "6dae3d90e39e6ffe",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/gb716f10d24660ec32065144b82ebdeea7a63"
+   },
+   {
+    "id": "3f0d3b0fe9ee977c",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g4753f51b2a4d7d67471f0da131828d754e32"
+   },
+   {
+    "id": "31d4ec3f0cb5b66b",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g8bae5755413e6bb2cf71e977d362e6f22f79"
+   },
+   {
+    "id": "05af083f97a9726b",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g5bacfbe9eac9c3d0d63dc0c565aab50d741b"
+   },
+   {
+    "id": "fb7ba19f23568411",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "689d1958dfdc2372",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "d810a9240685d1e9",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "8990c88589a957ea",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "19028eb90495541d",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:45:07+03:00",
+  "haber": "20261127-alanyada-genc-kizlar-basketbol-musabakalari-tamamlandi-8fdd5.md",
+  "baslik": "Alanya'da genç kızlar basketbol müsabakaları tamamlandı",
+  "sonuc": "seçildi (7/10, pixabay)",
+  "aday_sayisi": 9,
+  "secilen": {
+   "id": "b449e9ac1a97ddd8",
+   "puan": 7,
+   "gerekce": "Basketbol temasını yansıtıyor ancak kapalı alan dışı etkinlik ve siluet olması nedeniyle tam puan almadı.",
+   "gorunen": "Açık alanda basketbol oynayan gençlerin silueti",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "bc75c6100b85e9d9",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261123-muratpasa-belediyesinin-genc-te)"
+   },
+   {
+    "id": "9aff19fdde419b39",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "e3f95812b2a6c17f",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "51fc6b5829942bc6",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "5a51c9e76d59e92a",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "4fd3962ebe284f71",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "6616c00633c9d880",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "bd8df361e23b2b3a",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:47:01+03:00",
+  "haber": "20261127-anahtar-parti-antalya-il-baskanligindan-temada-taziye-4eba1.md",
+  "baslik": "Anahtar Parti Antalya İl Başkanlığı'ndan TEMAD'a taziye ziyareti",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "8419d4437caf67fe",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-kayit-disi-emlakcilikl)"
+   },
+   {
+    "id": "02d0a36cf8b15445",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
+   },
+   {
+    "id": "373b16c27e43fb9d",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261125-antalya-serbest-muhasebeci-mali)"
+   },
+   {
+    "id": "28637c31e457c9bb",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "916e01d2c0f74f45",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "c501fd342bbf4ffb",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yazi_logo"
+   },
+   {
+    "id": "5b372a109abdf63c",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "2a066a83cdd0ee4a",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yazi_logo"
+   },
+   {
+    "id": "118dbee07662937f",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "1051532ef52765c3",
+    "puan": 2,
+    "neden": "puan 2 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T17:47:11+03:00",
+  "haber": "20261127-antalyadaki-kuresel-iklim-zirvesinde-46-karar-kabul-edildi-7248a.md",
+  "baslik": "Antalya'daki küresel iklim zirvesinde 46 karar kabul edildi",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "d4c79c533aaab0d6",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-antalyanin-iklim-projeleri-cop3)"
+   },
+   {
+    "id": "9c3945029aa86bfa",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261127-cop31in-antalyanin-2027-turizm-)"
+   },
+   {
+    "id": "be8c5062081591eb",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261124-antalya-uluslararasi-secim-foru)"
+   },
+   {
+    "id": "e453bdd9ff2d7d55",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/ga40587ace8678dc3eb1d348160aa56ee6ce8"
+   },
+   {
+    "id": "979524fc7f1e5955",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g06120f0afbad4f4551c53ca08e65f2ee05c1"
+   },
+   {
+    "id": "3ff2b14f496eecb0",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g984b2cd681e6c5b2a68d7661bc6448198783"
+   },
+   {
+    "id": "badf8ab727d4c776",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g69ba178412eb09a4bc9c2e3c74c0fdd78506"
+   },
+   {
+    "id": "8419d4437caf67fe",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/gb3c067130304a81a2eea9823980ff6f071ed"
+   },
+   {
+    "id": "1280af4c5968a626",
+    "puan": null,
+    "neden": "indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g2387c0a1cac09f4a37cff7f0e5bc5d8ceabb"
+   },
+   {
+    "id": "ef3c0d4ccf2a6851",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   }
+  ]
  }
 ]
