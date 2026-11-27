@@ -42,8 +42,8 @@ kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/meclis-oncesi-dikkat-ceken-ayrinti-bocekli-fotografini-profilinden-kaldirdi
 bekleme:
   ilk: '2026-11-26T20:43:26+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T02:43:26+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T08:43:26+03:00'
   brief:
     ana_konu: Antalya Büyükşehir Belediye Meclisi üyesi Bayram Ali Çeltik'in sosyal medya profilini güncellemesi.
     olmasi_gereken:
