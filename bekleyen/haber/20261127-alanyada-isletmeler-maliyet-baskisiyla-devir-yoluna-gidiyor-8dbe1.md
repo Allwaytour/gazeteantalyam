@@ -40,8 +40,8 @@ kaynak: Bölge Gündemi
 kaynak_url: https://www.bolgegundemi.com/antalya/alanyada-sezon-beklentisi-karsilanmadi-isletmeler-devrediliyor-244774.html
 bekleme:
   ilk: '2026-11-27T21:15:56+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T23:15:56+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T03:15:56+03:00'
   brief:
     ana_konu: Alanya'da ekonomik nedenlerle işletmelerin devredilmesi.
     olmasi_gereken:

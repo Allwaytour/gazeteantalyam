@@ -41,8 +41,8 @@ kaynak: Bölge Gündemi
 kaynak_url: https://www.bolgegundemi.com/antalya/mimar-mustafa-temiz-plansiz-buyume-alanya-turizmini-bitirebilir-244795.html
 bekleme:
   ilk: '2026-11-27T21:15:19+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T23:15:19+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T03:15:19+03:00'
   brief:
     ana_konu: Alanya'nın yapılaşması ve il olma süreci üzerine mimari değerlendirme
     olmasi_gereken:

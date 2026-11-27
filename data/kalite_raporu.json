@@ -930,6 +930,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-27T23:43:16+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 5
   }
  ],
  "haberler": [
@@ -4077,6 +4090,46 @@
    "deneme": 2,
    "sonuc": "görüntü puanlaması yapılamadı: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)",
    "durum": "hata; sonraki turda yeniden"
+  },
+  {
+   "tarih": "2026-11-27T23:43:34+03:00",
+   "baslik": "Alanya'da işletmeler maliyet baskısıyla devir yoluna gidiyor",
+   "dosya": "20261127-alanyada-isletmeler-maliyet-baskisiyla-devir-yoluna-gidiyor-8dbe1.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 03:15)"
+  },
+  {
+   "tarih": "2026-11-27T23:43:34+03:00",
+   "baslik": "Alanya'da öğrencilere iyilik bilinci aşılanıyor",
+   "dosya": "20261127-alanyada-ogrencilere-iyilik-bilinci-asilaniyor-62c78.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 03:14)"
+  },
+  {
+   "tarih": "2026-11-27T23:43:34+03:00",
+   "baslik": "Antalya'da Çiftçi Aileler Yarışıyor finalinin kazananı Elmalı'dan çıktı",
+   "dosya": "20261127-antalyada-ciftci-aileler-yarisiyor-finalinin-kazanani-e5514.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 03:14)"
+  },
+  {
+   "tarih": "2026-11-27T23:43:34+03:00",
+   "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+   "dosya": "20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 05:13)"
+  },
+  {
+   "tarih": "2026-11-27T23:43:34+03:00",
+   "baslik": "Mimar Mustafa Temiz'den Alanya'nın il olma sürecine yönelik uyarılar",
+   "dosya": "20261127-mimar-mustafa-temizden-alanyanin-il-olma-surecine-yonelik-14ff4.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 03:15)"
   }
  ]
 }

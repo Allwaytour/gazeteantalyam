@@ -43,8 +43,8 @@ kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/korkuteli-osbde-mustafa-yayla-donemi
 bekleme:
   ilk: '2026-11-27T17:13:07+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T23:13:07+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T05:13:07+03:00'
   brief:
     ana_konu: Korkuteli Organize Sanayi Bölgesi'nde yeni yönetimin belirlenmesi
     olmasi_gereken:
