@@ -576,6 +576,22 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 8.0,
    "islenen": 3
+  },
+  {
+   "tarih": "2026-11-27T12:42:19+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2,
+    "kurum": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.67,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -2112,6 +2128,81 @@
    "durum": "gorsel_bekliyor",
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T12:43:04+03:00",
+   "baslik": "Alanya'da Kur'an kursunda anneler ve çocuklar sonbahar etkinliğinde buluştu",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanyada-hz-fatma-kuran-kursunda-renkli-sonbahar-etkinligi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin: Müftülüğüne → Müftülüğü'ne",
+     "metin: Kursunda → Kursu'nda"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-alanyada-kuran-kursunda-anneler-ve-cocuklar-sonbahar-4b224.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "72dd1274c7f66c54",
+    "puan": 7,
+    "gerekce": "Sınıf içi etkinlik ortamını ve çocukları net bir şekilde gösteriyor; haberle uyumlu bir stok görsel.",
+    "gorunen": "Sınıfta masalarda boyama yapan çocuklar ve ön planda boya kalemleri.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T12:43:32+03:00",
+   "baslik": "Antalya 2026 Kadınlar EHF Avrupa Hentbol Şampiyonası maçlarına ev sahipliği yapacak",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/a-millilerden-davet-var-2026-kadinlar-ehf-avrupa-hentbol-sampiyonasi-antalyada/390135",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalya-2026-kadinlar-ehf-avrupa-hentbol-sampiyonasi-52ab7.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "ab1bcb3aa5090408",
+    "puan": 8,
+    "gerekce": "Kadın hentbol maçından somut bir sahneyi ve salon ortamını başarıyla gösteriyor.",
+    "gorunen": "Kapalı salonda topu atan kadın hentbolcü",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T12:45:39+03:00",
+   "baslik": "Kepez Belediyesi'nden engelsiz yaşam için kapsamlı projeler",
+   "kaynak": "Gün Haber",
+   "kaynak_url": "https://www.gunhaber.com.tr/haber/kepez-den-engelsiz-yasam-icin-ornek-belediyecilik/578608/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-kepez-belediyesinden-engelsiz-yasam-icin-kapsamli-projeler-15bfc.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "876b818a10b4f06a",
+    "puan": 8,
+    "gerekce": "Haberin kurumsal kaynağına ait, konuyu doğrudan yansıtan güncel bir toplantı görseli.",
+    "gorunen": "Kepez Belediyesi meclis salonunda düzenlenen engelli meclisi toplantısından katılımcılar.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
    }
   }
  ]
