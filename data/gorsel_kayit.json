@@ -11386,5 +11386,74 @@
     "neden": "puan 5 < 7"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T23:13:51+03:00",
+  "haber": "20261127-antalyasporun-eski-teknik-direktoru-alex-de-souzanin-yeni-02311.md",
+  "baslik": "Antalyaspor'un eski teknik direktörü Alex de Souza'nın yeni takımı belli oldu",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "f457459fc5fadd2f",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyaspor-kotu-gidise-konyaspo)"
+   },
+   {
+    "id": "b738edef7afac053",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261127-alanyaspor-ile-konyaspor-alanya)"
+   },
+   {
+    "id": "a928c8bcb1cdf965",
+    "puan": 4,
+    "neden": "puan 4 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "998fba5d109caf26",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "efdd02dc8e336198",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "830dd293f12a2aa5",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "a2c7cbb403bc06cf",
+    "puan": 2,
+    "neden": "puan 2 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "02c35b97c42dfe7e",
+    "puan": 4,
+    "neden": "puan 4 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "5d41d15f079ef650",
+    "puan": 2,
+    "neden": "puan 2 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "3e4075b32c690b02",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T23:14:28+03:00",
+  "haber": "20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+  "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+  "sonuc": "görüntü puanlaması yapılamadı: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": []
  }
 ]

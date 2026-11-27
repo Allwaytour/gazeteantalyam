@@ -42,8 +42,8 @@ kaynak: mygazete
 kaynak_url: https://www.mygazete.com/alex-de-souza-imzayi-atti-yeni-takimi-sasirtti/789133
 bekleme:
   ilk: '2026-11-27T17:13:39+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T23:13:39+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T05:13:39+03:00'
   brief:
     ana_konu: Teknik direktör Alex de Souza'nın yeni takımı Ceara ile anlaşması.
     olmasi_gereken:

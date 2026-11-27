@@ -917,6 +917,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.33,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-27T23:13:13+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -4048,6 +4061,22 @@
    "deneme": 1,
    "sonuc": "seçildi (8/10, pixabay)",
    "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T23:13:51+03:00",
+   "baslik": "Antalyaspor'un eski teknik direktörü Alex de Souza'nın yeni takımı belli oldu",
+   "dosya": "20261127-antalyasporun-eski-teknik-direktoru-alex-de-souzanin-yeni-02311.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 05:13)"
+  },
+  {
+   "tarih": "2026-11-27T23:13:51+03:00",
+   "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+   "dosya": "20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+   "deneme": 2,
+   "sonuc": "görüntü puanlaması yapılamadı: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)",
+   "durum": "hata; sonraki turda yeniden"
   }
  ]
 }
