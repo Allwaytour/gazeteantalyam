@@ -4287,5 +4287,65 @@
     "neden": "puan 2 < 7; kesin ret: yabanci_kurum"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T04:53:51+03:00",
+  "haber": "20261126-alanyada-chpden-soda-siseli-eylem-ak-parti-hukuki-surec-72482.md",
+  "baslik": "Alanya'da CHP'den soda şişeli eylem: AK Parti hukuki süreç başlatıyor",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "c8cffa0c6088b16b",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "1e0d5a2a7e61af64",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "5b0ff9742e1d9c1b",
+    "puan": 5,
+    "neden": "puan 5 < 7; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "9cc52e4bc933f6f1",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "5128112befd160ad",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "de23afa68ebd8542",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (berlin)"
+   },
+   {
+    "id": "9e61d16f5a8128df",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul, eminonu, galata, halic)"
+   },
+   {
+    "id": "c4b41f83db9ff716",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "2ddf6e42694d1a04",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul, galata)"
+   },
+   {
+    "id": "2c5738a607d202f5",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   }
+  ]
  }
 ]

@@ -362,6 +362,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 1
+  },
+  {
+   "tarih": "2026-11-27T04:53:29+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 1,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -1511,6 +1524,14 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 10:11)"
+  },
+  {
+   "tarih": "2026-11-27T04:53:51+03:00",
+   "baslik": "Alanya'da CHP'den soda şişeli eylem: AK Parti hukuki süreç başlatıyor",
+   "dosya": "20261126-alanyada-chpden-soda-siseli-eylem-ak-parti-hukuki-surec-72482.md",
+   "deneme": 3,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "iptal"
   }
  ]
 }
