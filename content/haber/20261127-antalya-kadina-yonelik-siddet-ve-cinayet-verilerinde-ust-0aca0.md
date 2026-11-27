@@ -2,8 +2,6 @@
 title: Antalya kadına yönelik şiddet ve cinayet verilerinde üst sıralarda yer alıyor
 date: '2026-11-27T14:29:40+03:00'
 ozet: Çeşitli kuruluşların paylaştığı verilere göre Antalya, Türkiye genelindeki kadın cinayetleri sıralamasında dördüncü konumda bulunuyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
@@ -15,24 +13,31 @@ gorsel_sinif: basin
 onem: 4
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Kadın hakları ve eşitlik üzerine pankart taşıyan bir grup insan.
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 8/10: Brief''te istenen toplumsal etkinlik ve basın açıklaması yapan grup kriterine uygun, haberin konusuyla doğrudan ilgili bir görsel.'
+  surum: b2
   konu_imza: b4d8fd7e1d24
-  gorsel_url: /images/kategori/gundem.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/c8cf6514dd8325e7.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 8
+    esik: 7
+    gerekce: Brief'te istenen toplumsal etkinlik ve basın açıklaması yapan grup kriterine uygun, haberin konusuyla doğrudan ilgili bir görsel.
+    tarih: '2026-11-27T20:49:23+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,30 +45,9 @@ otomatik: true
 yz: true
 kaynak: Gün Haber
 kaynak_url: https://www.gunhaber.com.tr/haber/Antalya-kadin-cinayetlerinde-4-uncu-sirada/578617
-bekleme:
-  ilk: '2026-11-27T14:43:19+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T20:43:19+03:00'
-  brief:
-    ana_konu: Antalya'daki kadın cinayetleri verileri ve toplumsal tepkiler
-    olmasi_gereken:
-    - basın açıklaması yapan grup
-    - toplumsal etkinlik
-    varliklar:
-    - ad: Antalya Kent Konseyi Kadın Meclisi
-      tur: kurum
-    kacinilacaklar:
-    - şiddet sahneleri
-    sorgular_en:
-    - womens rights press conference Turkey
-    - memorial monument Turkey
-    sorgular_tr:
-    - kadın meclisi basın açıklaması
-    - Al Yazma Anıtı Antalya
-    tarihi_haber: false
-    hassas: true
-  son_sonuc: eşiği (7) geçen uygun görsel yok
-  kaynak_ts: 1795778980
+gorsel: /images/haber-gorsel/c8cf6514dd8325e7.jpg
+gorsel_kredi: ''
+gorsel_konum: 50% 50%
 ---
 Türkiye genelinde kadına yönelik şiddet ve cinayet vakaları önemli bir toplumsal sorun olmaya devam ederken, farklı kurumların açıkladığı istatistikler Antalya'daki tablonun ciddiyetini ortaya koyuyor. Açıklanan verilere göre kent, son yıllarda yaşanan cinayet sayılarıyla üst sıralarda yer alıyor.
 

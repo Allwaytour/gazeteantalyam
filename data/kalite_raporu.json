@@ -831,6 +831,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.0,
    "islenen": 1
+  },
+  {
+   "tarih": "2026-11-27T20:42:57+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 3,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 3
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.67,
+   "islenen": 8
   }
  ],
  "haberler": [
@@ -3657,6 +3672,145 @@
    "deneme": 2,
    "sonuc": "seçildi (7/10, pixabay)",
    "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T20:43:12+03:00",
+   "baslik": "Antalya'da çiftçi aileler birincilik için yarıştı",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/antalyada-ciftci-aileler-birincilik-icin-yaristi-119534834",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyada-ciftci-aileler-birincilik-icin-yaristi-4a33a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T20:44:33+03:00",
+   "baslik": "Thı'den Antalya kararı: Satış müdürlüğü bölge müdürlüğü oldu",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/thyden-antalya-karari-4-seflik-kapatildi-bolge-mudurlugune-gecildi/390174",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin: satış → Satış",
+     "metin: müdürlüğü → Müdürlüğü"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-thiden-antalya-karari-satis-mudurlugu-bolge-mudurlugu-oldu-e194d.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "46f3bbc48ce04de2",
+    "puan": 7,
+    "gerekce": "THY renkleri ve bayrağı kısmen hissedilse de doğrudan genel bir uçak detayı sunuyor.",
+    "gorunen": "Uçak gövdesi ve kanat detayı",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T20:46:28+03:00",
+   "baslik": "İstanbul karması UEFA Regions Cup 7. grup maçında ikinci oldu",
+   "kaynak": "Son Dakika",
+   "kaynak_url": "https://www.sondakika.com/spor/haber-manavgat-ta-polonya-ekibine-2-1-yenilen-istanbul-k-20469599/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: Karması → karması",
+     "baslik: Grup → grup",
+     "spot: Grup → grup"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-istanbul-karmasi-uefa-regions-cup-7-grup-macinda-ikinci-oldu-fd456.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "863aaabaf6ac615e",
+    "puan": 8,
+    "gerekce": "Futbol maçını ve forma giymiş sporcuları net şekilde yansıtıyor, habere uygun.",
+    "gorunen": "Kırmızı formalı futbolcuların sahada mücadelesi",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T20:47:01+03:00",
+   "baslik": "Kemer'de gastronomi dünyasının seçkin isimleri bir araya geldi",
+   "kaynak": "Turizm Ajansı",
+   "kaynak_url": "https://www.turizmajansi.com/amp/gastronominin-seckin-isimleri-corendon-playa-kemer-de-bulustu-h74887",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-kemerde-gastronomi-dunyasinin-seckin-isimleri-bir-araya-f5766.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T20:47:56+03:00",
+   "baslik": "Antalya'da Fındıkkıran Balesi yeni sezonda izleyiciyle buluştu",
+   "kaynak": "haber antalya",
+   "kaynak_url": "https://www.haberantalya.com/antalyada-findikkiran-buyusu-yeniden-sahnede/534239",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: balesi → Balesi",
+     "metin: Kralı → Kral"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261127-antalyada-findikkiran-balesi-yeni-sezonda-izleyiciyle-d6d52.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-27T20:49:00+03:00",
+   "baslik": "Antalya kadına yönelik şiddet ve cinayet verilerinde üst sıralarda yer alıyor",
+   "dosya": "20261127-antalya-kadina-yonelik-siddet-ve-cinayet-verilerinde-ust-0aca0.md",
+   "deneme": 2,
+   "sonuc": "seçildi (8/10, pixabay)",
+   "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T20:49:00+03:00",
+   "baslik": "Büşra Özdemir AK Parti grubunun meclis öncesi toplantısına katıldı",
+   "dosya": "20261127-busra-ozdemir-ak-parti-grubunun-meclis-oncesi-toplantisina-4b973.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:13)"
+  },
+  {
+   "tarih": "2026-11-27T20:49:00+03:00",
+   "baslik": "DİSK Genel-İş Antalya Şubesinde genel kurul heyecanı",
+   "dosya": "20261127-disk-genel-is-antalya-subesinde-genel-kurul-heyecani-6d71a.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:43)"
   }
  ]
 }

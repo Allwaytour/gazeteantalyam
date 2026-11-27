@@ -45,8 +45,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/diskgenel-is-antalyada-zorlu-secim/390147
 bekleme:
   ilk: '2026-11-27T14:43:38+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T20:43:38+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T02:43:38+03:00'
   brief:
     ana_konu: DİSK Genel-İş Sendikası Antalya Şubesi 10. Olağan Genel Kurulu toplantısı.
     olmasi_gereken:
