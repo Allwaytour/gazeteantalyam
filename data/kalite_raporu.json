@@ -531,6 +531,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 0
+  },
+  {
+   "tarih": "2026-11-27T11:12:11+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 4,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 4
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.75,
+   "islenen": 4
   }
  ],
  "haberler": [
@@ -1808,6 +1823,88 @@
    "deneme": 3,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "iptal"
+  },
+  {
+   "tarih": "2026-11-27T11:12:29+03:00",
+   "baslik": "Yargıtay'dan hurda malzeme kararı",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/yargitaydan-hurda-malzeme-karari",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin:  \n\n → \n\n"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-yargitaydan-hurda-malzeme-karari-10489.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "dc00b4d759e52f8d",
+    "puan": 7,
+    "gerekce": "Hukuk bürosu ve dava dosyası inceleme temasını başarılı bir şekilde yansıtmaktadır.",
+    "gorunen": "Takım elbisele masada evrak imzalayan avukat",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:12:47+03:00",
+   "baslik": "COP31'in Antalya'nın 2027 turizm sezonuna katkı sağlaması bekleniyor",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/cop31-antalyanin-2027-turizm-sezonuna-katki-saglayacak-119534209",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-cop31in-antalyanin-2027-turizm-sezonuna-katki-saglamasi-19a3d.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "9c3945029aa86bfa",
+    "puan": 8,
+    "gerekce": "Kongre salonu ve toplantı ortamını net şekilde yansıtıyor, habere uygun bir atmosfer sunuyor.",
+    "gorunen": "Boş bir konferans salonu ve pencereler",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:13:05+03:00",
+   "baslik": "Antalya'da semt pazarlarında sebze fiyatları açıklandı",
+   "kaynak": "Antalya Hürses",
+   "kaynak_url": "https://www.antalyahurses.com/antalyada-semt-pazarlarinda-bu-haftanin-sebze-fiyatlari-belli-oldu/562098",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261127-antalyada-semt-pazarlarinda-sebze-fiyatlari-aciklandi-4aad3.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "71d3dd6a061f32d4",
+    "puan": 9,
+    "gerekce": "Semt pazarını, tezgahları ve pazar ortamını en iyi yansıtan kare.",
+    "gorunen": "Açık hava semt pazarında alışveriş yapan insanlar ve tezgahlar",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-27T11:13:23+03:00",
+   "baslik": "Konyaaltı'nda bir sitenin güvenlik kulübesi yandı",
+   "dosya": "20261126-konyaaltinda-bir-sitenin-guvenlik-kulubesi-yandi-4b0b1.md",
+   "deneme": 3,
+   "sonuc": "seçildi (7/10, pixabay)",
+   "durum": "yayinlandi"
   }
  ]
 }
