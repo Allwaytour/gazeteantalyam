@@ -13659,5 +13659,65 @@
     "neden": "daha yüksek puanlı aday seçildi"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-28T13:14:58+03:00",
+  "haber": "20261128-antalyada-son-bulan-dev-arazi-vurgunu-sahte-vekaletle-ae744.md",
+  "baslik": "Antalya'da son bulan dev arazi vurgunu: Sahte vekaletle satıldı",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "25959fffabcb08de",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (munich)"
+   },
+   {
+    "id": "d832c383db39e693",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "f5a8c87e9fbaf642",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum"
+   },
+   {
+    "id": "8b85e62e66b9ce7a",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "efe942e250423c75",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: dini_yapi"
+   },
+   {
+    "id": "bb3dfbc95d09d0ec",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "f2f509bab86a2c49",
+    "puan": 4,
+    "neden": "puan 4 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (brussels, bruksel)"
+   },
+   {
+    "id": "444c00631d350f57",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "bf3bb3c94130dfe3",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "396c25cdc83b128e",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   }
+  ]
  }
 ]
