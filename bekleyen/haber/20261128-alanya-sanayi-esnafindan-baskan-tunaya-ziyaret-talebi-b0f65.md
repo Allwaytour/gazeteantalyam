@@ -42,8 +42,8 @@ kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/mustafa-tuna-sanayi-esnafinin-sorunlarini-dinledi
 bekleme:
   ilk: '2026-11-28T14:45:12+03:00'
-  deneme: 0
-  sonraki: '2026-11-28T16:45:12+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T20:45:12+03:00'
   brief:
     ana_konu: Alanya Ticaret ve Sanayi Odası Başkanı Mustafa Tuna'nın sanayi esnafını ziyareti
     olmasi_gereken:
