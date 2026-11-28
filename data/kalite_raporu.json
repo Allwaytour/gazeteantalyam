@@ -1364,6 +1364,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.0,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-28T14:44:24+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -5229,6 +5242,27 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 18:16)"
+  },
+  {
+   "tarih": "2026-11-28T14:44:37+03:00",
+   "baslik": "Alanya sanayi esnafından başkan Tuna'ya ziyaret talebi",
+   "kaynak": "Yeni Alanya",
+   "kaynak_url": "https://www.yenialanya.com/mustafa-tuna-sanayi-esnafinin-sorunlarini-dinledi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [
+     "başlık cümle düzenine getirildi: Alanya sanayi esnafından Başkan Tuna'ya ziyaret talebi → Alanya sanayi esnafından başkan Tuna'ya ziyaret talebi"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-alanya-sanayi-esnafindan-baskan-tunaya-ziyaret-talebi-b0f65.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
   }
  ]
 }

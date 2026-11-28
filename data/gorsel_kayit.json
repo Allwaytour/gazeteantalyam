@@ -14425,5 +14425,65 @@
     "neden": "puan 3 < 7; kesin ret: baska_sehir (istanbul)"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-28T14:44:37+03:00",
+  "haber": "20261128-alanya-sanayi-esnafindan-baskan-tunaya-ziyaret-talebi-b0f65.md",
+  "baslik": "Alanya sanayi esnafından başkan Tuna'ya ziyaret talebi",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "02d0a36cf8b15445",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
+   },
+   {
+    "id": "8419d4437caf67fe",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-kayit-disi-emlakcilikl)"
+   },
+   {
+    "id": "373b16c27e43fb9d",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261125-antalya-serbest-muhasebeci-mali)"
+   },
+   {
+    "id": "23cb68c9049d18ef",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "e5cd245ff4e9e5d7",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "74f8eaea0b7f6554",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "9354aa04cdf36ee1",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (washington)"
+   },
+   {
+    "id": "118dbee07662937f",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "28c77a79dd500316",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: yabanci_bayrak, yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "6ed862684bfd9a4e",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   }
+  ]
  }
 ]
