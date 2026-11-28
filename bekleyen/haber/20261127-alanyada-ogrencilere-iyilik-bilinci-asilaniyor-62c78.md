@@ -41,8 +41,8 @@ kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanyada-iyilikte-yarisan-siniflar-bulusmasi
 bekleme:
   ilk: '2026-11-27T21:14:47+03:00'
-  deneme: 1
-  sonraki: '2026-11-28T03:14:47+03:00'
+  deneme: 2
+  sonraki: '2026-11-28T09:14:47+03:00'
   brief:
     ana_konu: Okullarda yürütülen iyilik projesi ve kumbara uygulaması.
     olmasi_gereken:
