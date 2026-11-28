@@ -43,8 +43,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-adalet-zirvesi-bakan-gurlek-yargidaki-dosya-sayisini-acikladi/390209
 bekleme:
   ilk: '2026-11-28T12:16:47+03:00'
-  deneme: 0
-  sonraki: '2026-11-28T14:16:47+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T18:16:47+03:00'
   brief:
     ana_konu: Antalya'da gerçekleştirilen Yargı Teşkilatı Toplantısı
     olmasi_gereken:
@@ -66,7 +66,7 @@ bekleme:
     - Adalet Bakanlığı toplantı
     tarihi_haber: false
     hassas: false
-  son_sonuc: "görüntü puanlaması yapılamadı: 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n"
+  son_sonuc: eşiği (7) geçen uygun görsel yok
   kaynak_ts: 1795855593
 ---
 Adalet Bakanlığı tarafından düzenlenen Yargı Teşkilatı Toplantısı, Antalya'da gerçekleştirildi. Adalet Teşkilatını Güçlendirme Vakfı Sosyal Tesisi'nde iki gün sürecek olan programda, yargı teşkilatının karşılaştığı sorunlar ve çözüm önerileri ele alınıyor.

@@ -1349,6 +1349,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.33,
    "islenen": 3
+  },
+  {
+   "tarih": "2026-11-28T14:29:55+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.0,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -5182,6 +5197,38 @@
     "taninir_yuz": false,
     "cekim_yili": ""
    }
+  },
+  {
+   "tarih": "2026-11-28T14:30:21+03:00",
+   "baslik": "Antalya Barosu'ndan Tahir Elçi açıklaması: AYM dosyayı karara bağlasın",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/antalya-barosundan-tahir-elci-aciklamasi-aymye-karar-cagrisi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalya-barosundan-tahir-elci-aciklamasi-aym-dosyayi-karara-a3d37.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "30cf6ff2083360f7",
+    "puan": 7,
+    "gerekce": "Adalet terazisini simgeleyen heykel detayı haberin konusuyla uyumlu ve doğrudan ilgili.",
+    "gorunen": "Mavi gökyüzü fonunda adalet terazisi ve kılıç tutan Adalet heykeli detayı.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T14:30:42+03:00",
+   "baslik": "Antalya'da Yargı Teşkilatı Toplantısı yapıldı",
+   "dosya": "20261128-antalyada-yargi-teskilati-toplantisi-yapildi-b6812.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 18:16)"
   }
  ]
 }
