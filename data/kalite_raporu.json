@@ -1413,6 +1413,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.5,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-28T16:14:34+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 2,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -5471,6 +5486,75 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 19:45)"
+  },
+  {
+   "tarih": "2026-11-28T16:14:59+03:00",
+   "baslik": "Antalya'da düzenlenen 7. Yumurta Zirvesi'nde üretim ve ihracat ele alındı",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/7-yumurta-zirvesinde-her-yonuyle-yumurta-oturumu-yapildi-119535482",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin:  → ,"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalyada-duzenlenen-7-yumurta-zirvesinde-uretim-ve-ihracat-abeda.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "8705fd47819d3392",
+    "puan": 8,
+    "gerekce": "Yumurta zirvesi haberi için uygun ve net bir yumurta görseli, okuru yanıltmıyor.",
+    "gorunen": "Karton viyol içinde dizili beyaz yumurtalar",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T16:15:12+03:00",
+   "baslik": "Alanya dönüşü Toroslar'da iletişim ve internet isyanı",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/alanyadan-donen-konyalilar-cekmiyor-dedi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-alanya-donusu-toroslarda-iletisim-ve-internet-isyani-05b68.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "cdee1dd53df8dc84",
+    "puan": 8,
+    "gerekce": "Toroslar'daki dağlık alan ve cep telefonu kullanımı temasına en yakın aday.",
+    "gorunen": "Dağ zirvesinde telefon kullanan kişi ve zirve haçı",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T16:15:30+03:00",
+   "baslik": "Uğur Poyraz'dan iktidara ve kayyım politikalarına sert tepki",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/ugur-poyrazdan-sert-cikis-gun-olur-devran-doner",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-ugur-poyrazdan-iktidara-ve-kayyim-politikalarina-sert-tepki-8086a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
   }
  ]
 }
