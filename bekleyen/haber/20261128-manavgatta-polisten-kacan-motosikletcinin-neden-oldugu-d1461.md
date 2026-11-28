@@ -41,8 +41,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/manavgat/manavgatta-motosikletli-polisten-kacti-yunus-ekibi-kaza-yapti/390204
 bekleme:
   ilk: '2026-11-28T11:45:47+03:00'
-  deneme: 0
-  sonraki: '2026-11-28T13:45:47+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T17:45:47+03:00'
   brief:
     ana_konu: Manavgat ta polisin takibi sırasında yaşanan trafik kazası.
     olmasi_gereken:

@@ -1313,6 +1313,27 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 1
+  },
+  {
+   "tarih": "2026-11-28T13:44:24+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 4,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 4
+   },
+   "ajans_kaynakli": [
+    {
+     "baslik": "Korkuteli'nde kardeş kavgası cinayetle bitti",
+     "kaynak": "İhlas Haber Ajansı",
+     "url": "https://www.iha.com.tr/antalya-haberleri/antalyada-olmeden-once-kendisini-bicaklayanin-abisi-oldugunu-soyledi-523110294"
+    }
+   ],
+   "ort_gorsel_puani": 7.75,
+   "islenen": 7
   }
  ],
  "haberler": [
@@ -4941,6 +4962,139 @@
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
    }
+  },
+  {
+   "tarih": "2026-11-28T13:44:39+03:00",
+   "baslik": "Askeri helikopter kazalarının ardından ortak risk değerlendirmesi çağrısı",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/gundem/tskde-pes-pese-kazalar-bagcioglu-ortak-risklere-dikkat-cekti/390216",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin: YENİ → Yeni"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-askeri-helikopter-kazalarinin-ardindan-ortak-risk-8fd19.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "d37ff91fa4fdb8ab",
+    "puan": 7,
+    "gerekce": "Haberdeki askeri helikopter kazaları konusuna uygun genel bir askeri helikopter görselidir.",
+    "gorunen": "Bulutlu gökyüzünde havada uçan askeri tip helikopter",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T13:44:53+03:00",
+   "baslik": "Antalya'da Şampiyonlar Ligi maçı için ortak çağrı yapıldı",
+   "kaynak": "Güncel Antalya",
+   "kaynak_url": "https://guncelantalya.com/antalyaya-devler-ligi-cagrisi-iki-ardamiza-antalya-yakisir",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalyada-sampiyonlar-ligi-maci-icin-ortak-cagri-yapildi-32cbf.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "98d50901513bca50",
+    "puan": 8,
+    "gerekce": "Brief'te istenen çim saha ve stadyum ortamını net şekilde yansıtıyor, okuru yanıltmıyor.",
+    "gorunen": "Futbol sahasının yeşil çimleri ve üzerindeki beyaz çizgi",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T13:45:14+03:00",
+   "baslik": "Akseki'de düzenlenecek kan bağışı kampanyasında bağışçılara top hediye edilecek",
+   "kaynak": "Antalya Gündem Gazetesi",
+   "kaynak_url": "https://www.antalyagundem.com.tr/antalyada-hayat-kurtarana-top-hediye-edilecek",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-aksekide-duzenlenecek-kan-bagisi-kampanyasinda-bagiscilara-32ef6.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "a75f57c604f40cbe",
+    "puan": 8,
+    "gerekce": "Kan bağışı ve alma işlemini net bir şekilde gösterdiği için habere uygundur, yüz görünmemektedir.",
+    "gorunen": "Sağlık personeli hastadan kan alırken kan torbası ve tüpler tutuyor.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T13:45:29+03:00",
+   "baslik": "Korkuteli'nde kardeş kavgası cinayetle bitti",
+   "kaynak": "İhlas Haber Ajansı",
+   "kaynak_url": "https://www.iha.com.tr/antalya-haberleri/antalyada-olmeden-once-kendisini-bicaklayanin-abisi-oldugunu-soyledi-523110294",
+   "ajans_kaynakli": true,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-korkutelinde-kardes-kavgasi-cinayetle-bitti-7943d.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-28T13:45:43+03:00",
+   "baslik": "Antalya'da üç mahalle için heyelan kararı: Tapulara şerh konuldu",
+   "kaynak": "Antalya Körfez Gazetesi",
+   "kaynak_url": "https://www.antalyakorfez.com/antalyada-3-mahalle-icin-heyelan-karari-tapulara-serh-konuldu-cavit-ari-meclise-tasidi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalyada-uc-mahalle-icin-heyelan-karari-tapulara-serh-cdfff.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "0224d4397c0f6494",
+    "puan": 8,
+    "gerekce": "Brief'teki dağlık kırsal yerleşim ve köy evleri kriterine doğrudan uyuyor, haberi iyi yansıtıyor.",
+    "gorunen": "Orman içinde eski köy evi",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T13:47:04+03:00",
+   "baslik": "Aliye Coşar'dan Çakırlar'daki TOKİ projesine taşkın uyarısı",
+   "dosya": "20261128-aliye-cosardan-cakirlardaki-toki-projesine-taskin-uyarisi-09da4.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 17:45)"
+  },
+  {
+   "tarih": "2026-11-28T13:47:04+03:00",
+   "baslik": "Manavgat'ta polisten kaçan motosikletçinin neden olduğu kazada polis yaralandı",
+   "dosya": "20261128-manavgatta-polisten-kacan-motosikletcinin-neden-oldugu-d1461.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 17:45)"
   }
  ]
 }

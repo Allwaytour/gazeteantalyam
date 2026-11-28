@@ -44,8 +44,8 @@ kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/cosardan-tokinin-cakirlar-projesine-tepki-neden-israr-ediyorsunuz
 bekleme:
   ilk: '2026-11-28T11:45:32+03:00'
-  deneme: 0
-  sonraki: '2026-11-28T13:45:32+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T17:45:32+03:00'
   brief:
     ana_konu: Aliye Coşar'ın Çakırlar'daki TOKİ projesine yönelik taşkın uyarısı.
     olmasi_gereken:
