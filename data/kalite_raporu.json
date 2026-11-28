@@ -1334,6 +1334,21 @@
    ],
    "ort_gorsel_puani": 7.75,
    "islenen": 7
+  },
+  {
+   "tarih": "2026-11-28T14:14:17+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 3
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.33,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -5095,6 +5110,78 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 17:45)"
+  },
+  {
+   "tarih": "2026-11-28T14:14:30+03:00",
+   "baslik": "Kemer'deki beş yıldızlı otelin adı ve işletmecisi değişiyor",
+   "kaynak": "Turizm Güncel",
+   "kaynak_url": "https://www.turizmguncel.com/haber/antalyadaki-5-yildizli-tesisin-adi-2027de-degisiyor",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-kemerdeki-bes-yildizli-otelin-adi-ve-isletmecisi-degisiyor-2e167.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "33be8e68da3e3a32",
+    "puan": 7,
+    "gerekce": "Antalya'da bir sahil oteli veya tatil köyü atmosferini ve dış ortamını başarıyla yansıtıyor.",
+    "gorunen": "Antalya'da sahil kenarında gün batımı ve şezlonglar",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T14:14:43+03:00",
+   "baslik": "Alanya'daki otelleri ilgilendiren yeni yangın yönetmeliği yayımlandı",
+   "kaynak": "Alanya Türk",
+   "kaynak_url": "https://www.alanyaturk.com/alanyadaki-oteller-icin-yeni-yangin-guvenligi-sartlari",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-alanyadaki-otelleri-ilgilendiren-yeni-yangin-yonetmeligi-2042a.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "e942bd0492698a68",
+    "puan": 7,
+    "gerekce": "Konaklama tesisini ve turizm ortamını yansıtıyor, otel yönetmeliği haberi için uygun bir atmosfer sunuyor.",
+    "gorunen": "Gece vakti sahil kenarında yer alan konaklama tesisi ve havuz manzarası",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T14:15:05+03:00",
+   "baslik": "Antalyaspor maçı öncesi Fethiye Zirvespor'dan galibiyet vurgusu",
+   "kaynak": "Haberci TV",
+   "kaynak_url": "https://www.habercitv.com.tr/fethiye-zirvespordan-antalyaspor-maci-oncesi-cagri-kazanmaya-aciz",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalyaspor-maci-oncesi-fethiye-zirvespordan-galibiyet-ffa99.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "00837e950ece5812",
+    "puan": 8,
+    "gerekce": "Kapalı spor salonunda voleybol takımını ve ortamı net şekilde yansıtıyor, habere uygun.",
+    "gorunen": "Salon voleybol maçında sırtı dönük formalı oyuncu ve sahada diğer sporcular",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
   }
  ]
 }
