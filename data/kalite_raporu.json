@@ -1285,6 +1285,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 10.0,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-28T12:44:08+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 2,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -4845,6 +4860,54 @@
    "durum": "gorsel_bekliyor",
    "gorsel": {
     "sonuc": "görüntü puanlaması yapılamadı: 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n"
+   }
+  },
+  {
+   "tarih": "2026-11-28T12:45:10+03:00",
+   "baslik": "Türkiye'den Karadağ vatandaşlarına vize kararı",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/turkiyeden-vize-karari-iki-ulke-arasinda-yeni-donem",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-turkiyeden-karadag-vatandaslarina-vize-karari-06135.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "ee69acebea522b44",
+    "puan": 8,
+    "gerekce": "Pasaport, vize sayfaları ve seyahat belgelerini açıkça gösteriyor, haberi iyi destekliyor.",
+    "gorunen": "Dünya haritası üzerinde açık pasaport ve vize damgaları",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T12:45:27+03:00",
+   "baslik": "Antalya Öğretmen Akademileri'nde inancın felsefi ve psikolojik boyutları ele alındı",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/antalya-ogretmen-akademilerinde-inancin-felsefi-ve-psikolojik-boyutlari-ele-alindi/390213",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalya-ogretmen-akademilerinde-inancin-felsefi-ve-82e3d.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "59d0c6f80b14368d",
+    "puan": 8,
+    "gerekce": "Konferans salonu, sunum ekranı ve dinleyicileri bir arada göstererek habere en uygun adaylardan biridir.",
+    "gorunen": "Ön planda ikramlıklar ve arkada sunum ekranı ile katılımcıların yer aldığı seminer salonu.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
    }
   }
  ]
