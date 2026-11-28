@@ -1060,6 +1060,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 0
+  },
+  {
+   "tarih": "2026-11-28T04:44:04+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -4359,6 +4372,14 @@
    "deneme": 2,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 09:15)"
+  },
+  {
+   "tarih": "2026-11-28T04:44:24+03:00",
+   "baslik": "Kemer Belediye Başkanı Necati Topaloğlu AK Parti sıralarına geçti",
+   "dosya": "20261127-kemer-belediye-baskani-necati-topaloglu-ak-parti-siralarina-c654d.md",
+   "deneme": 3,
+   "sonuc": "görüntü puanlaması yapılamadı: 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/g",
+   "durum": "hata; sonraki turda yeniden"
   }
  ]
 }
