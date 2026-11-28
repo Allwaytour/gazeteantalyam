@@ -1270,6 +1270,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.75,
    "islenen": 6
+  },
+  {
+   "tarih": "2026-11-28T12:14:20+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 10.0,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -4787,6 +4802,49 @@
    "durum": "gorsel_bekliyor",
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-28T12:15:05+03:00",
+   "baslik": "Doğalgaz faturalarında kademeli tarife uyarısı",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/dogalgazda-yuksek-faturaya-karsi-kritik-uyari",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-dogalgaz-faturalarinda-kademeli-tarife-uyarisi-95326.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "a3e35a9bea20b48b",
+    "puan": 10,
+    "gerekce": "Haberin konusu olan doğalgaz sayaçlarını ve tesisatını net ve doğrudan gösteriyor.",
+    "gorunen": "Yanyana sıralanmış mekanik doğalgaz sayaçları ve boru tesisatı",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T12:15:53+03:00",
+   "baslik": "Antalya'da Yargı Teşkilatı Toplantısı yapıldı",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/antalyada-adalet-zirvesi-bakan-gurlek-yargidaki-dosya-sayisini-acikladi/390209",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-antalyada-yargi-teskilati-toplantisi-yapildi-b6812.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "görüntü puanlaması yapılamadı: 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n"
    }
   }
  ]
