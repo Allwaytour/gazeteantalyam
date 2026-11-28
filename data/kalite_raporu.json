@@ -1073,6 +1073,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 1
+  },
+  {
+   "tarih": "2026-11-28T05:13:46+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 3,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -4380,6 +4393,30 @@
    "deneme": 3,
    "sonuc": "görüntü puanlaması yapılamadı: 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/g",
    "durum": "hata; sonraki turda yeniden"
+  },
+  {
+   "tarih": "2026-11-28T05:14:07+03:00",
+   "baslik": "Antalyaspor'un eski teknik direktörü Alex de Souza'nın yeni takımı belli oldu",
+   "dosya": "20261127-antalyasporun-eski-teknik-direktoru-alex-de-souzanin-yeni-02311.md",
+   "deneme": 3,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "iptal"
+  },
+  {
+   "tarih": "2026-11-28T05:14:07+03:00",
+   "baslik": "Kemer Belediye Başkanı Necati Topaloğlu AK Parti sıralarına geçti",
+   "dosya": "20261127-kemer-belediye-baskani-necati-topaloglu-ak-parti-siralarina-c654d.md",
+   "deneme": 3,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "iptal"
+  },
+  {
+   "tarih": "2026-11-28T05:14:07+03:00",
+   "baslik": "Korkuteli Organize Sanayi Bölgesi'nde yeni yönetim göreve geldi",
+   "dosya": "20261127-korkuteli-organize-sanayi-bolgesinde-yeni-yonetim-goreve-02360.md",
+   "deneme": 3,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "iptal"
   }
  ]
 }
