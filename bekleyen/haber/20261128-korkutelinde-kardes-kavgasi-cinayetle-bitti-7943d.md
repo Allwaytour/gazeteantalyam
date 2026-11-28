@@ -42,8 +42,8 @@ kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/antalya-haberleri/antalyada-olmeden-once-kendisini-bicaklayanin-abisi-oldugunu-soyledi-523110294
 bekleme:
   ilk: '2026-11-28T13:45:38+03:00'
-  deneme: 0
-  sonraki: '2026-11-28T15:45:38+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T19:45:38+03:00'
   brief:
     ana_konu: Korkuteli ilçesinde iki kardeş arasında çıkan bıçaklı kavga ve polisin olay yeri incelemesi.
     olmasi_gereken:
