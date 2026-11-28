@@ -1255,6 +1255,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 0
+  },
+  {
+   "tarih": "2026-11-28T11:44:08+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 4,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 4
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.75,
+   "islenen": 6
   }
  ],
  "haberler": [
@@ -4634,6 +4649,145 @@
    "deneme": 3,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "iptal"
+  },
+  {
+   "tarih": "2026-11-28T11:44:22+03:00",
+   "baslik": "Antalya'da düzenlenen uluslararası golf turnuvası sona erdi",
+   "kaynak": "Haber Aero",
+   "kaynak_url": "https://haber.aero/sivil-havacilik/66-ulkeden-antalyaya-thynin-golf-turnuvasi-final-yapti/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalyada-duzenlenen-uluslararasi-golf-turnuvasi-sona-erdi-5be56.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "1aa9792a29276105",
+    "puan": 8,
+    "gerekce": "Golf sahası ve oyuncuyu net şekilde gösteriyor, turnuva haberi için uygun.",
+    "gorunen": "Yeşil golf sahasında vuruş yapan bir golf oyuncusu ve çantası",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T11:44:40+03:00",
+   "baslik": "Akciğer kanserinde sigara uyarısı",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/saglik/her-2-dakikada-1-akciger-kanseri-teshisi-konuluyor/390206",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-akciger-kanserinde-sigara-uyarisi-7a5ec.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "78761f56aa59f831",
+    "puan": 8,
+    "gerekce": "Brief'teki hastane binası kriterini net bir şekilde karşılıyor ve haber içeriğine uygun.",
+    "gorunen": "Modern bir hastane binasının dış cephesi ve girişi",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T11:44:54+03:00",
+   "baslik": "Antalya Barosu'ndan hakim değişikliği tepkisi",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/antalya-barosundan-hakim-degisikligine-tepki",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalya-barosundan-hakim-degisikligi-tepkisi-d55e6.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "183ec77776c48800",
+    "puan": 7,
+    "gerekce": "Avukatları ve adalet sembolünü gösterdiği için habere uygun.",
+    "gorunen": "Toplantı masasında oturan avukatlar ve adalet heykeli",
+    "taninir_yuz": true,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T11:45:06+03:00",
+   "baslik": "Antalya turizmini ilgilendiren konaklama vergisi kararının süresi uzatıldı",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/konaklama-vergisinde-turizmcileri-sevindiren-karar",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalya-turizmini-ilgilendiren-konaklama-vergisi-kararinin-eccf8.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "abeaf4bebc8b9475",
+    "puan": 8,
+    "gerekce": "Otel dış görünümü brief gereksinimlerini doğrudan karşılıyor, turizm ve konaklama haberine oldukça uygun.",
+    "gorunen": "Bej tonlarında çok katlı bir otel binasının dış cephesi ve pencereleri",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T11:45:18+03:00",
+   "baslik": "Aliye Coşar'dan Çakırlar'daki TOKİ projesine taşkın uyarısı",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/cosardan-tokinin-cakirlar-projesine-tepki-neden-israr-ediyorsunuz",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-aliye-cosardan-cakirlardaki-toki-projesine-taskin-uyarisi-09da4.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-28T11:45:38+03:00",
+   "baslik": "Manavgat'ta polisten kaçan motosikletçinin neden olduğu kazada polis yaralandı",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/manavgat/manavgatta-motosikletli-polisten-kacti-yunus-ekibi-kaza-yapti/390204",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik:   → '"
+    ],
+    "kurallar": [
+     "spot: Antalya nın→Antalya'nın",
+     "metin: Antalya nın→Antalya'nın"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-manavgatta-polisten-kacan-motosikletcinin-neden-oldugu-d1461.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
   }
  ]
 }
