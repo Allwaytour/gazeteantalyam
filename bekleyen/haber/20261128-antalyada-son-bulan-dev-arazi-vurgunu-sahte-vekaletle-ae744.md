@@ -42,8 +42,8 @@ kaynak: Habertürk
 kaynak_url: https://www.haberturk.com/gundem/son-dakika-haberi-kocaeli-istanbul-antalya-ucgeninde-organize-dolandiricilik-56-bin-metrekarelik-14-tasinmaz-32-gunde-satildi-3930811
 bekleme:
   ilk: '2026-11-28T13:16:55+03:00'
-  deneme: 0
-  sonraki: '2026-11-28T15:16:55+03:00'
+  deneme: 1
+  sonraki: '2026-11-28T19:16:55+03:00'
   brief:
     ana_konu: Sahte vekaletle yapılan arazi dolandırıcılığı soruşturması
     olmasi_gereken:

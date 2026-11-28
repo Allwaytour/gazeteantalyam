@@ -1377,6 +1377,27 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 1
+  },
+  {
+   "tarih": "2026-11-28T15:14:21+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 2,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2
+   },
+   "ajans_kaynakli": [
+    {
+     "baslik": "Antalya'da düzenlenen kongrede obeziteyle mücadelede dijital takip vurgulandı",
+     "kaynak": "DHA | Demirören Haber Ajansı",
+     "url": "https://www.dha.com.tr/yerel-haberler/antalya/obezite-hastaliginda-dijital-takibin-rolu-one-2990391"
+    }
+   ],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 5
   }
  ],
  "haberler": [
@@ -5263,6 +5284,100 @@
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
    }
+  },
+  {
+   "tarih": "2026-11-28T15:14:33+03:00",
+   "baslik": "CHP Sözcüsü Sarı'dan Antalya'da belediye başkanı açıklaması",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/chp-sozcusu-sari-antalyada-konustu-119535436",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-chp-sozcusu-saridan-antalyada-belediye-baskani-aciklamasi-db4f0.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-28T15:14:47+03:00",
+   "baslik": "Antalya'da düzenlenen kongrede obeziteyle mücadelede dijital takip vurgulandı",
+   "kaynak": "DHA | Demirören Haber Ajansı",
+   "kaynak_url": "https://www.dha.com.tr/yerel-haberler/antalya/obezite-hastaliginda-dijital-takibin-rolu-one-2990391",
+   "ajans_kaynakli": true,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-antalyada-duzenlenen-kongrede-obeziteyle-mucadelede-dijital-8ed33.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "30050b3da30848f1",
+    "puan": 8,
+    "gerekce": "Sağlık teknolojileri kongresini ve dinleyici/konuşmacı ortamını başarılı şekilde temsil ediyor.",
+    "gorunen": "Salon dolusu dinleyici ve kürsüde sunum yapan konuşmacı.",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T15:15:57+03:00",
+   "baslik": "Alanya'da iki meslek odası temsilcisi tutuklandı",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/alanyadaki-iki-oda-temsilcisi-cezaevine-gonderildi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261128-alanyada-iki-meslek-odasi-temsilcisi-tutuklandi-3307c.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-28T15:17:45+03:00",
+   "baslik": "Alanya Mahalle Ligi'nde güvenlik iddialarına komiteden yanıt",
+   "kaynak": "www.alanyagazetesi.com.tr",
+   "kaynak_url": "https://www.alanyagazetesi.com.tr/alanya-mahalle-ligi-nde-guvenlik-iddialarina-yanit-kiskanclik-4410",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261128-alanya-mahalle-liginde-guvenlik-iddialarina-komiteden-yanit-9ff81.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "63b11646ab8424ab",
+    "puan": 8,
+    "gerekce": "Amatör futbol maçı sahnesini ve sporcuları net şekilde gösteriyor, turnuva haberiyle uyumlu.",
+    "gorunen": "Çim sahada top süren amatör futbolcular.",
+    "taninir_yuz": true,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-28T15:18:02+03:00",
+   "baslik": "Antalya'da son bulan dev arazi vurgunu: Sahte vekaletle satıldı",
+   "dosya": "20261128-antalyada-son-bulan-dev-arazi-vurgunu-sahte-vekaletle-ae744.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 19:16)"
   }
  ]
 }
